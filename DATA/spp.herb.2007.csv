@@ -1,0 +1,2781 @@
+plot,code,species,cover,freq,native,physiognomy,habit
+A-107,ASCSYR,Asclepias syriaca,1,1,Native,Forb,Forb
+A-107,BROINE,Bromus inermis ,6,1,Alien,Grass,Graminoid
+A-107,CIRARV,Cirsium arvense,10,1,Alien,Forb,Forb
+A-107,CONARV,Convolvulus arvensis,16,1,Alien,Forb,Forb
+A-107,POAPRA,Poa pratensis,100,1,Alien,Grass,Graminoid
+A-116,ALLPET,Alliaria petiolata ,25,1,Alien,Forb,Forb
+A-116,ASTER SP,Aster species,5,1,-,Forb,Forb
+A-116,CAREX SP,Carex species,5,1,-,Sedge,Graminoid
+A-116,DUCIND,Duchesnea indica ,5,1,Alien,Forb,Forb
+A-116,GEUCAN,Geum canadense,7,1,Native,Forb,Forb
+A-116,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+A-116,PHAARU,Phalaris arundinacea,5,1,Alien,Grass,Graminoid
+A-116,POAPRA,Poa pratensis,10,1,Alien,Grass,Graminoid
+A-116,PRUVLA,Prunella vulgaris lanceolata,5,1,Native,Forb,Forb
+A-116,RHURAD,Rhus radicans,35,1,Native,Woody vine,Woody
+A-121,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+A-121,GEUCAN,Geum canadense,5,1,Native,Forb,Forb
+A-121,PARQUI,Parthenocissus quinquefolia,7,1,Native,Woody vine,Woody
+A-121,SOLULM,Solidago ulmifolia,5,1,Native,Forb,Forb
+A-124,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+A-124,CXPENS,Carex pensylvanica,25,1,Native,Sedge,Graminoid
+A-124,EUPRUG,Eupatorium rugosum,3,1,Native,Forb,Forb
+A-124,HACVIR,Hackelia virginiana,5,1,Native,Forb,Forb
+A-124,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+A-124,SANCAD,Sanguinaria canadensis,1,1,Native,Forb,Forb
+A-124,TAROFF,Taraxacum officinale,1,1,Alien,Forb,Forb
+A-126,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+A-126,ASTLAT,Aster lateriflorus,5,1,Native,Forb,Forb
+A-126,ASTSHO,Aster shortii,1,1,Native,Forb,Forb
+A-126,CAREX SP,Carex species,30,1,-,Sedge,Graminoid
+A-126,CIRLUC,Circaea lutetiana canadensis,12,1,Native,Forb,Forb
+A-126,EUPRUG,Eupatorium rugosum,15,1,Native,Forb,Forb
+A-126,GALTRF,Galium triflorum,3,1,Native,Forb,Forb
+A-126,GEUCAN,Geum canadense,6,1,Native,Forb,Forb
+A-126,HACVIR,Hackelia virginiana,12,1,Native,Forb,Forb
+A-126,IMPPAL,Impatiens pallida,3,1,Native,Forb,Forb
+A-126,OXASTR,Oxalis stricta,2,1,Native,Forb,Forb
+A-126,POLGVI,Polygonum virginianum,4,1,Native,Forb,Forb
+A-128,AGRGRY,Agrimonia gryposepala,10,1,Native,Forb,Forb
+A-128,ASTSHO,Aster shortii,4,1,Native,Forb,Forb
+A-128,CIRLUC,Circaea lutetiana canadensis,25,1,Native,Forb,Forb
+A-128,EUPRUG,Eupatorium rugosum,40,1,Native,Forb,Forb
+A-128,GEUCAN,Geum canadense,3,1,Native,Forb,Forb
+A-128,IMPPAL,Impatiens pallida,3,1,Native,Forb,Forb
+A-128,OXASTR,Oxalis stricta,2,1,Native,Forb,Forb
+A-128,SMIRAC,Smilacina racemosa,6,1,Native,Forb,Forb
+A-131,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+A-131,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+A-131,RHURAD,Rhus radicans,5,1,Native,Woody vine,Woody
+A-131,VITRIP,Vitis riparia,2,1,Native,Woody vine,Woody
+A-133,ARITRI,Arisaema triphyllum,5,1,Native,Forb,Forb
+A-133,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+A-133,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+A-133,RHACAT,Rhamnus cathartica,5,1,Alien,Understory tree,Woody
+A-135,ARITRI,Arisaema triphyllum,10,1,Native,Forb,Forb
+A-135,CIRLUC,Circaea lutetiana canadensis,40,1,Native,Forb,Forb
+A-135,LONMAA,Lonicera maackii,5,1,Alien,Shrub,Woody
+A-135,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+A-135,RHACAT,Rhamnus cathartica,5,1,Alien,Understory tree,Woody
+A-137,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+A-137,CERCAN,Cercis canadensis,2,1,Native,Tree,Woody
+A-137,LONMAA,Lonicera maackii,50,1,Alien,Shrub,Woody
+A-137,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+A-137,RHACAT,Rhamnus cathartica,10,1,Alien,Understory tree,Woody
+AA-114,ACENIG,Acer nigrum,2,1,Native,Tree,Woody
+AA-114,ASTER SP,Aster species,2,1,-,Forb,Forb
+AA-114,CORRAC,Cornus racemosa,12,1,Native,Shrub,Woody
+AA-114,DACGLO,Dactylis glomerata,2,1,Alien,Grass,Graminoid
+AA-114,EUPRUG,Eupatorium rugosum,2,1,Native,Forb,Forb
+AA-114,FRAAMA,Fraxinus americana,6,1,Native,Tree,Woody
+AA-114,FRAVIR,Fragaria virginiana,5,1,Native,Forb,Forb
+AA-114,HEPACU,Hepatica acutiloba,6,1,Native,Forb,Forb
+AA-114,LONMAA,Lonicera maackii,65,1,Alien,Shrub,Woody
+AA-114,OXASTR,Oxalis stricta,1,1,Native,Forb,Forb
+AA-114,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+AA-114,RHACAT,Rhamnus cathartica,8,1,Alien,Understory tree,Woody
+AA-114,SANCAD,Sanguinaria canadensis,6,1,Native,Forb,Forb
+AA-116,ACENIG,Acer nigrum,8,1,Native,Tree,Woody
+AA-116,FRAAMA,Fraxinus americana,5,1,Native,Tree,Woody
+AA-116,PODPEL,Podophyllum peltatum,6,1,Native,Forb,Forb
+AA-116,VITRIP,Vitis riparia,6,1,Native,Woody vine,Woody
+AA-117,ACENIG,Acer nigrum,8,1,Native,Tree,Woody
+AA-117,FRAAMA,Fraxinus americana,3,1,Native,Tree,Woody
+AA-117,GERMAC,Geranium maculatum,5,1,Native,Forb,Forb
+AA-117,SANCAD,Sanguinaria canadensis,6,1,Native,Forb,Forb
+AA-117,SMIRAC,Smilacina racemosa,6,1,Native,Forb,Forb
+AA-118,ACENIG,Acer nigrum,12,1,Native,Tree,Woody
+AA-118,SMIRAC,Smilacina racemosa,8,1,Native,Forb,Forb
+AA-125,ASACAN,Asarum canadense,25,1,Native,Forb,Forb
+AA-125,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+AA-129,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+AA-129,CIRLUC,Circaea lutetiana canadensis,15,1,Native,Forb,Forb
+AA-129,IMPPAL,Impatiens pallida,20,1,Native,Forb,Forb
+AA-129,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+Z-76,ASTSAD,Aster sagittifolius drummondii,1,1,Native,Forb,Forb
+Z-76,CIRARV,Cirsium arvense,4,1,Alien,Forb,Forb
+Z-76,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+Z-76,DACGLO,Dactylis glomerata,2,1,Alien,Grass,Graminoid
+Z-76,DAUCAR,Daucus carota,8,1,Alien,Forb,Forb
+Z-76,ERIANS,Erigeron annuus,3,1,Native,Forb,Forb
+Z-76,GALTRF,Galium triflorum,4,1,Native,Forb,Forb
+Z-76,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+Z-76,LONTAT,Lonicera tatarica,2,1,Alien,Shrub,Woody
+Z-76,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+Z-76,RHACAT,Rhamnus cathartica,25,1,Alien,Understory tree,Woody
+Z-76,SONASP,Sonchus asper,1,1,Alien,Forb,Forb
+Z-76,VITRIP,Vitis riparia,25,1,Native,Woody vine,Woody
+AA-79,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+AA-79,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+AA-79,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+AA-79,LONTAT,Lonicera tatarica,5,1,Alien,Shrub,Woody
+AA-79,RHURAD,Rhus radicans,2,1,Native,Woody vine,Woody
+Z-86,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+Z-86,CIRLUC,Circaea lutetiana canadensis,6,1,Native,Forb,Forb
+Z-86,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+Z-86,RHACAT,Rhamnus cathartica,4,1,Alien,Understory tree,Woody
+AA-95,ARITRI,Arisaema triphyllum ,2,1,Native,Forb,Forb
+AA-95,CIRLUC,Circaea lutetiana canadensis ,2,1,Native,Forb,Forb
+AA-95,GERMAC,Geranium maculatum ,10,1,Native,Forb,Forb
+AA-95,HYSPAT,Hystrix patula ,10,1,Native,Grass,Graminoid
+AA-95,PARQUI,Parthenocissus quinquefolia ,5,1,Native,Woody vine,Woody
+AA-95,SMIRAC,Smilacina racemosa ,15,1,Native,Forb,Forb
+AA-95,ULMAME,Ulmus americana ,5,1,Native,Tree,Woody
+AY-130,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+AX-131,CXVULP,Carex vulpinoidea,5,1,Native,Sedge,Graminoid
+AX-131,PHAARU,Phalaris arundinacea,10,1,Alien,Grass,Graminoid
+AX-131,POAPRA,Poa pratensis,90,1,Alien,Grass,Graminoid
+AX-132,CIRARV,Cirsium arvense,2,1,Alien,Forb,Forb
+AX-132,CORVAR,Coronilla varia ,100,1,Alien,Forb,Forb
+AY-122,ASTER SP,Aster species,4,1,-,Forb,Forb
+AY-122,CORVAR,Coronilla varia ,8,1,Alien,Forb,Forb
+AY-122,CRATAEGUS SP,Crataegus species,12,1,-,Tree,Woody
+AY-122,DACGLO,Dactylis glomerata ,12,1,Alien,Grass,Graminoid
+AY-122,DAUCAR,Daucus carota ,18,1,Alien,Forb,Forb
+AY-122,ERIANS,Erigeron annuus,4,1,Native,Forb,Forb
+AY-122,MONFIS,Monarda fistulosa,6,1,Native,Forb,Forb
+AY-122,OXASTR,Oxalis stricta,2,1,Native,Forb,Forb
+AY-122,PLALAN,Plantago lanceolata ,10,1,Alien,Forb,Forb
+AY-122,POAPRA,Poa pratensis ,50,1,Alien,Grass,Graminoid
+AY-122,PRUSER,Prunus serotina,15,1,Native,Tree,Woody
+AY-124,AGRIMONIA SP,Agrimonia species,4,1,-,Grass,Graminoid
+AY-124,ASTER SP,Aster species,2,1,-,Forb,Forb
+AY-124,FESELA,Festuca elatior ,35,1,Alien,Grass,Graminoid
+AY-124,MELLOF,Melilotus officinalis ,2,1,Alien,Forb,Forb
+AY-124,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+AY-124,PLALAN,Plantago lanceolata ,6,1,Alien,Forb,Forb
+AY-124,POAPRA,Poa pratensis ,50,1,Alien,Grass,Graminoid
+AY-124,RHURAD,Rhus radicans,12,1,Native,Woody vine,Woody
+AY-124,ROSMUL,Rosa multiflora ,3,1,Alien,Shrub,Woody
+AY-124,TRIPRA,Trifolium pratense ,3,1,Alien,Forb,Forb
+AY-127,AGRALA,Agostis alba ,12,1,Alien,Grass,Graminoid
+AY-127,ASTER SP,Aster species,8,1,-,Forb,Forb
+AY-127,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+AY-127,PHAARU,Phalaris arundinacea,6,1,Alien,Grass,Graminoid
+AY-127,POAPRA,Poa pratensis ,60,1,Alien,Grass,Graminoid
+AZ -138,ASTSAS,Aster sagittifolius,5,1,Native,Forb,Forb
+AZ -138,BROINE,Bromus inermis ,3,1,Alien,Grass,Graminoid
+AZ -138,CONARV,Convolvulus arvensis,2,1,Alien,Forb,Forb
+AZ -138,CORVAR,Coronilla varia ,90,1,Alien,Forb,Forb
+AZ -138,ROSCAR,Rosa carolina,4,1,Native,Shrub,Woody
+AY-117,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+AY-117,SALINT,Salix interior,100,1,Native,Shrub,Woody
+AY-117,TYPANG,Typha angustifolia,20,1,Native,Forb,Forb
+AZ-133,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+AZ-133,LONMAA,Lonicera maackii,2,1,Alien,Shrub,Woody
+AZ-133,RHACAT,Rhamnus cathartica,70,1,Alien,Understory tree,Woody
+AZ-133,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+AZ-133,ULMRUB,Ulmus rubra,1,1,Native,Tree,Woody
+B-109,ACHMIL,Achillea millefolium ,1,1,Alien,Forb,Forb
+B-109,CIRARV,Cirsium arvense,4,1,Alien,Forb,Forb
+B-109,PARQUI,Parthenocissus quinquefolia,,1,Native,Woody vine,Woody
+B-109,POAPRA,Poa pratensis,,1,Alien,Grass,Graminoid
+B-115,CONSEP,Convolvulus sepium,1,1,Native,Forb,Forb
+B-115,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+B-115,POAPRA,Poa pratensis ,90,1,Alien,Grass,Graminoid
+B-115,RHURAD,Rhus radicans,10,1,Native,Woody vine,Woody
+B-115,RHUTYP,Rhus typhina,4,1,Native,Tree,Woody
+B-115,ROSMUL,Rosa multiflora ,5,1,Alien,Shrub,Woody
+B-127,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+B-127,ASTSAD,Aster sagittifolius drummondii,1,1,Native,Forb,Forb
+B-127,CIRLUC,Circaea lutetiana canadensis,8,1,Native,Forb,Forb
+B-127,GALTRF,Galium triflorum,1,1,Native,Forb,Forb
+B-127,IMPPAL,Impatiens pallida,4,1,Native,Forb,Forb
+B-127,OSTVIR,Ostrya virginiana,1,1,Native,Tree,Woody
+B-127,POTNOR,Potentilla norvegica,1,1,Native,Forb,Forb
+B-127,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+B-127,SMIRAC,Smilacina racemosa,6,1,Native,Forb,Forb
+B-127,SOLFLE,Solidago flexicaulis,1,1,Native,Forb,Forb
+B-127,THADIO,Thalictrum dioicum,15,1,Native,Forb,Forb
+B-128,CAMAME,Campanula americana,20,1,Native,Forb,Forb
+B-128,EUPRUG,Eupatorium rugosum,3,1,Native,Forb,Forb
+B-128,GALTRF,Galium triflorum,3,1,Native,Forb,Forb
+B-128,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+B-128,IMPPAL,Impatiens pallida,1,1,Native,Forb,Forb
+B-128,OXASTR,Oxalis stricta,1,1,Native,Forb,Forb
+B-128,RUBALL,Rubus allegheniensis,60,1,Native,Shrub,Woody
+B-138,ALLSTE,Allium stellatum,2,1,Native,Forb,Forb
+B-138,BROINE,Bromus inermis ,70,1,Alien,Grass,Graminoid
+B-138,CHRLEP,Chrysanthemum leucanthemum pinnatifidum,3,1,Alien,Forb,Forb
+B-138,CONARV,Convolvulus arvensis,2,1,Alien,Forb,Forb
+B-138,DACGLO,Dactylis glomerata,5,1,Alien,Grass,Graminoid
+B-138,DAUCAR,Daucus carota,1,1,Alien,Forb,Forb
+B-138,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+B-138,POAPRA,Poa pratensis,20,1,Alien,Grass,Graminoid
+B-138,POTREC,Potentilla recta ,4,1,Alien,Forb,Forb
+B-138,PRUSER,Prunus serotina,1,1,Native,Tree,Woody
+B-138,RHUGLA,Rhus glabra,3,1,Native,Shrub,Woody
+BB-106,AGRGRY,Agrimonia gryposepala ,2,1,Native,Forb,Forb
+BB-106,DACGLO,Dactylis glomerata ,70,1,Alien,Grass,Graminoid
+BB-106,FRAVIR,Fragaria virginiana ,2,1,Native,Forb,Forb
+BB-106,GEUCAN,Geum canadense ,2,1,Native,Forb,Forb
+BB-106,OXASTR,Oxalis stricta ,2,1,Native,Forb,Forb
+BB-106,POAPRA,Poa pratensis ,10,1,Alien,Grass,Graminoid
+BB-106,PRUSER,Prunus serotina ,5,1,Native,Tree,Woody
+BB-106,RHURAD,Rhus radicans ,15,1,Native,Woody vine,Woody
+BB-106,ULMAME,Ulmus americana ,5,1,Native,Tree,Woody
+BB-107,ASTLAT,Aster lateriflorus,2,1,Native,Forb,Forb
+BB-107,LONMAA,Lonicera maackii,5,1,Alien,Shrub,Woody
+BB-107,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+BB-107,SOLFLE,Solidago flexicaulis,2,1,Native,Forb,Forb
+BB-116,ACENIG,Acer nigrum,3,1,Native,Tree,Woody
+BB-116,ALLPET,Alliaria petiolata,4,1,Alien,Forb,Forb
+BB-116,SMIRAC,Smilacina racemosa,8,1,Native,Forb,Forb
+BB-116,SOLFLE,Solidago flexicaulis,10,1,Native,Forb,Forb
+BB-118,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+BB-118,HYDVIR,Hydrophyllum virginianum,2,1,Native,Forb,Forb
+BB-118,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+BB-118,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+BB-121,ACENIG,Acer nigrum,30,1,Native,Tree,Woody
+BB-121,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+BB-121,ASACAN,Asarum canadense,35,1,Native,Forb,Forb
+BB-121,CAREX SP,Carex species,4,1,-,Sedge,Graminoid
+BB-121,CAREX SP,Carex species,25,1,-,Sedge,Graminoid
+BB-121,RHACAT,Rhamnus cathartica,6,1,Alien,Understory tree,Woody
+BB-121,RIBES SP,Ribes species,12,1,-,Shrub,Woody
+BB-128,BOECYC,Boehmeria cylindrica,80,1,Native,Forb,Forb
+BB-128,PHAARU,Phalaris arundinacea,20,1,Alien,Grass,Graminoid
+BB-140,NONE,NONE,-,,-,-,-
+BB-141,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+BB-144,ALLPET,Alliaria petiolata ,8,1,Alien,Forb,Forb
+BB-144,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+BB-84,ALLPET,Alliaria petiolata ,1,1,Alien,Forb,Forb
+BB-84,EUOATR,Euonymus atropurpureus ,2,1,Native,Shrub,Woody
+BB-84,OSTVIR,Ostrya virginiana ,1,1,Native,Tree,Woody
+BB-84,SMIRAC,Smilacina racemosa ,2,1,Native,Forb,Forb
+BB-92,GEUCAN,Geum canadense ,1,1,Native,Forb,Forb
+BB-92,LONPRO,Lonicera prolifera  ,2,1,Native,Shrub,Woody
+BB-92,OSTVIR,Ostrya virginiana ,1,1,Native,Tree,Woody
+BB-92,PARQUI,Parthenocissus quinquefolia ,50,1,Native,Woody vine,Woody
+BB-92,QUEALB,Quercus alba ,1,1,Native,Tree,Woody
+BB-92,SONCHUS SP,Sonchus species,1,1,-,Forb,Forb
+BB-92,TAROFF,Taraxacum officinale ,1,1,Alien,Forb,Forb
+C-105,AGRGRY,Agrimonia gryposepala,15,1,Native,Forb,Forb
+C-105,CONARV,Convolvulus arvensis,8,1,Alien,Forb,Forb
+C-105,CORRAC,Cornus racemosa,40,1,Native,Shrub,Woody
+C-105,FRAVIR,Fragaria virginiana,1,1,Native,Forb,Forb
+C-105,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+C-105,PHYVIG,Physalis virginiana,1,1,Native,Forb,Forb
+C-105,POAPRA,Poa pratensis,90,1,Alien,Grass,Graminoid
+C-105,RHACAT,Rhamnus cathartica,12,1,Alien,Understory tree,Woody
+C-105,SOLCAN,Solidago canadensis,6,1,Native,Forb,Forb
+C-111,LONTAT,Lonicera tatarica,3,1,Alien,Shrub,Woody
+C-111,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+C-120,RHACAT,Rhamnus cathartica,20,1,Alien,Understory tree,Woody
+C-120,ROSMUL,Rosa multiflora,3,1,Alien,Shrub,Woody
+C-123,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+C-123,ASTLAT,Aster lateriflorus,1,1,Native,Forb,Forb
+C-123,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+C-123,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+C-123,HACVIR,Hackelia virginiana,3,1,Native,Forb,Forb
+C-123,ULMAME,Ulmus americana,3,1,Native,Tree,Woody
+C-125,ASTLAT,Aster lateriflorus,3,1,Native,Forb,Forb
+C-125,ASTSAD,Aster sagittifolius drummondii,12,1,Native,Forb,Forb
+C-125,CIRLUC,Circaea lutetiana canadensis,15,1,Native,Forb,Forb
+C-125,CXBLAN,Carex blanda,4,1,Native,Sedge,Graminoid
+C-125,CXROSE,Carex rosea,6,1,Native,Sedge,Graminoid
+C-125,EUPRUG,Eupatorium rugosum,4,1,Native,Forb,Forb
+C-125,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+C-125,GEUCAN,Geum canadense,5,1,Native,Forb,Forb
+C-125,POLREP,Polemonium reptans,2,1,Native,Forb,Forb
+C-125,RHURAD,Rhus radicans,15,1,Native,Woody vine,Woody
+C-125,RUBALL,Rubus allegheniensis,10,1,Native,Shrub,Woody
+C-125,RUBOCC,Rubus occidentalis,18,1,Native,Shrub,Woody
+C-125,SCROPHULARIA SP,Scrophularia species,1,1,-,Forb,Forb
+C-125,ULMAME,Ulmus americana,1,1,Native,Tree,Woody
+C-136,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+C-136,RHACAT,Rhamnus cathartica,10,1,Alien,Understory tree,Woody
+C-136,UNIDENTIFIED SP 1,Unidentified species,20,1,-,-,-
+C-136,UNIDENTIFIED SP 2,Unidentified species,80,1,-,-,-
+DD-103,BROINE,Bromus inermis ,40,1,Alien,Grass,Graminoid
+DD-103,DACGLO,Dactylis glomerata ,5,1,Alien,Grass,Graminoid
+DD-103,FRAVIR,Fragaria virginiana ,5,1,Native,Forb,Forb
+DD-103,PANSPR,Panicum spretum ,2,1,Native,Grass,Graminoid
+DD-103,PARQUI,Parthenocissus quinquefolia ,5,1,Native,Woody vine,Woody
+DD-103,PHLPRA,Phleum pratense ,2,1,Alien,Grass,Graminoid
+DD-103,POAPRA,Poa pratensis ,3,1,Alien,Grass,Graminoid
+DD-103,RHURAD,Rhus radicans ,40,1,Native,Woody vine,Woody
+DD-103,TRIHYB,Trifolium hybridum ,2,1,Alien,Forb,Forb
+CC-106,ACHMIL,Achillea millefolium,2,1,Alien,Forb,Forb
+CC-106,AGRALA,Agrostis alba ,5,1,Alien,Grass,Graminoid
+CC-106,AGRREP,Agropyron repens,40,1,Alien,Grass,Graminoid
+CC-106,CRATAEGUS SP,Crataegus species,5,1,-,Tree,Woody
+CC-106,CXGRAV,Carex gravida,2,1,Native,Sedge,Graminoid
+CC-106,DACGLO,Dactylis glomerata,20,1,Alien,Grass,Graminoid
+CC-106,DANSPI,Danthonia spicata,2,1,Native,Grass,Graminoid
+CC-106,FRAVIR,Fragaria virginiana,25,1,Native,Forb,Forb
+CC-106,LONMAA,Lonicera maackii,5,1,Alien,Shrub,Woody
+CC-106,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+CC-106,PHLPRA,Phleum pratense,2,1,Alien,Grass,Graminoid
+CC-106,PLALAN,Plantago lanceolata,2,1,Alien,Forb,Forb
+CC-106,POAPRA,Poa pratensis,5,1,Alien,Grass,Graminoid
+CC-106,POTSIS,Potentilla simplex,3,1,Native,Forb,Forb
+CC-106,RHACAT,Rhamnus cathartica,2,1,Alien,Understory tree,Woody
+CC-109,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+CC-109,ASTSHO,Aster shortii,5,1,Native,Forb,Forb
+CC-109,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+CC-109,GALIUM SP,Galium species,20,1,-,Forb,Forb
+CC-109,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+CC-109,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+CC-109,QUERUB,Quercus rubra,3,1,Native,Tree,Woody
+CC-109,RHACAT,Rhamnus cathartica,4,1,Alien,Understory tree,Woody
+CC-109,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+CC-109,SMIRAC,Smilacina racemosa,4,1,Native,Forb,Forb
+CC-109,SOLULM,Solidago ulmifolia,25,1,Native,Forb,Forb
+CC-109,TAROFF,Taraxacum officinale,2,1,Alien,Forb,Forb
+BB-115,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+BB-115,ARITRI,Arisaema triphyllum,25,1,Native,Forb,Forb
+BB-115,CIRLUC,Circaea lutetiana canadensis,8,1,Native,Forb,Forb
+BB-115,IMPPAL,Impatiens pallida,5,1,Native,Forb,Forb
+BB-115,PILPUM,Pilea pumila,8,1,Native,Forb,Forb
+CC-123,ACENIG,Acer nigrum,5,1,Native,Tree,Woody
+CC-123,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+CC-123,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+CC-123,IMPCAP,Impatiens capensis,5,1,Native,Forb,Forb
+CC-123,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+CC-123,RHURAD,Rhus radicans,2,1,Native,Woody vine,Woody
+CC-138,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+CC-138,GLYSTR,Glyceria striata,2,1,Native,Grass,Graminoid
+CC-138,HYDVIR,Hydrophyllum virginianum,2,1,Native,Forb,Forb
+CC-138,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+CC-138,RHACAT,Rhamnus cathartica,3,1,Alien,Understory tree,Woody
+CC-144,ALLPET,Alliaria petiolata ,8,1,Alien,Forb,Forb
+CC-144,LONMAA,Lonicera maackii ,4,1,Alien,Shrub,Woody
+CC-144,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+CC-144,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+CC-144,RHURAD,Rhus radicans,2,1,Native,Woody vine,Woody
+CC-76,ARITRI,Arisaema triphyllum ,10,1,Native,Forb,Forb
+CC-76,CAMAME,Campanula americana ,5,1,Native,Forb,Forb
+CC-76,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+CC-76,CIRLUC,Circaea lutetiana canadensis ,15,1,Native,Forb,Forb
+CC-76,EUOALA,Euonymus alatus  ,10,1,Alien,Shrub,Woody
+CC-76,EUPRUG,Eupatorium rugosum ,2,1,Native,Forb,Forb
+CC-76,LONMAA,Lonicera maackii  ,3,1,Alien,Shrub,Woody
+CC-76,PARQUI,Parthenocissus quinquefolia ,40,1,Native,Woody vine,Woody
+CC-76,TAROFF,Taraxacum officinale ,2,1,Alien,Forb,Forb
+CC-78,ALLPET,Alliaria petiolata ,10,1,Alien,Forb,Forb
+CC-78,ARITRI,Arisaema triphyllum ,5,1,Native,Forb,Forb
+CC-78,CIRLUC,Circaea lutetiana canadensis  ,8,1,Native,Forb,Forb
+CC-78,GERMAC,Geranium maculatum ,2,1,Native,Forb,Forb
+CC-78,GEUCAN,Geum canadense ,3,1,Native,Forb,Forb
+CC-78,IMPPAL,Impatiens pallida,40,1,Native,Forb,Forb
+CC-78,PARQUI,Parthenocissus quinquefolia ,10,1,Native,Woody vine,Woody
+CC-78,SMIRAC,Smilacina racemosa ,5,1,Native,Forb,Forb
+CC-86,ALLPET,Alliaria petiolata ,3,1,Alien,Forb,Forb
+CC-86,CIRLUC,Circaea lutetiana canadensis ,2,1,Native,Forb,Forb
+CC-86,OSTVIR,Ostrya virginiana ,5,1,Native,Tree,Woody
+CC-86,PARQUI,Parthenocissus quinquefolia ,8,1,Native,Woody vine,Woody
+CC-86,PHRLEP,Phryma leptostachya    ,3,1,Native,Forb,Forb
+CC-86,SMIRAC,Smilacina racemosa ,1,1,Native,Forb,Forb
+CC-97,ARITRI,Arisaema triphyllum ,4,1,Native,Forb,Forb
+CC-97,CRATAEGUS SP,Crataegus species,2,1,-,Tree,Woody
+CC-97,FRAPES,Fraxinus pennsylvanica subintegerrima ,3,1,Native,Tree,Woody
+CC-97,GEUCAN,Geum canadense ,1,1,Native,Forb,Forb
+CC-97,OSTVIR,Ostrya virginiana ,1,1,Native,Tree,Woody
+CC-97,PARQUI,Parthenocissus quinquefolia ,3,1,Native,Woody vine,Woody
+CC-96,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+CC-96,CIRLUC,Circaea lutetiana canadensis ,4,1,Native,Forb,Forb
+CC-96,FRAPES,Fraxinus pennsylvanica subintegerrima ,2,1,Native,Tree,Woody
+CC-96,OSTVIR,Ostrya virginiana ,8,1,Native,Tree,Woody
+CC-96,PARQUI,Parthenocissus quinquefolia ,4,1,Native,Woody vine,Woody
+CC-96,QUEALB,Quercus alba ,1,1,Native,Tree,Woody
+CC-96,QUERUB,Quercus rubra ,1,1,Native,Tree,Woody
+CC-99,ACENIG,Acer nigrum,2,1,Native,Tree,Woody
+CC-99,ARITRI,Arisaema triphyllum ,2,1,Native,Forb,Forb
+CC-99,CORRAC,Cornus racemosa ,2,1,Native,Shrub,Woody
+CC-99,PARQUI,Parthenocissus quinquefolia ,5,1,Native,Woody vine,Woody
+CC-99,PRUVIR,Prunus virginiana ,25,1,Native,Shrub,Woody
+CC-99,TILAME,Tilia americana ,10,1,Native,Tree,Woody
+D-113,CIRARV,Cirsium arvense,25,1,Alien,Forb,Forb
+D-113,CONSEP,Convolvulus sepium,4,1,Native,Forb,Forb
+D-113,MENCAN,Menispermum canadense,15,1,Native,Woody Vine,Woody
+D-113,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+D-113,POAPRA,Poa pratensis,100,1,Alien,Grass,Graminoid
+D-113,ROSMUL,Rosa multiflora,20,1,Alien,Shrub,Woody
+D-117,ALLPET,Alliaria petiolata,30,1,Alien,Forb,Forb
+D-117,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+D-117,MENCAN,Menispermum canadense,3,1,Native,Woody Vine,Woody
+D-117,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+D-117,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+D-117,SMIRAC,Smilacina racemosa,15,1,Native,Forb,Forb
+D-123,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+D-123,CIRLUC,Circaea lutetiana canadensis,50,1,Native,Forb,Forb
+D-123,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+D-123,IMPPAL,Impatiens pallida,2,1,Native,Forb,Forb
+D-123,LONTAT,Lonicera tatarica,1,1,Alien,Shrub,Woody
+D-123,VIOLA SP,Viola species,1,1,-,Forb,Forb
+C-127,ALLCAN,Allium canadense,10,1,Native,Forb,Forb
+C-127,CAMAME,Campanula americana,4,1,Native,Forb,Forb
+C-127,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+C-127,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+C-127,HACVIR,Hackelia virginiana,12,1,Native,Forb,Forb
+C-127,IMPPAL,Impatiens pallida,25,1,Native,Forb,Forb
+C-127,POLGVI,Polygonum virginianum,5,1,Native,Forb,Forb
+C-127,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+C-127,ULMAME,Ulmus americana,1,1,Native,Tree,Woody
+D-134,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+D-134,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+D-134,FRAAMA,Fraxinus americana,5,1,Native,Tree,Woody
+D-134,LONMAA,Lonicera maackii ,4,1,Alien,Shrub,Woody
+D-134,PARQUI,Parthenocissus quinquefolia,12,1,Native,Woody vine,Woody
+D-134,PRUVIR,Prunus virginiana,15,1,Native,Shrub,Woody
+D-134,RHACAT,Rhamnus cathartica,4,1,Alien,Understory tree,Woody
+DD-100,ACEPLA,Acer platanoides,8,1,Alien,Tree,Woody
+DD-100,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+DD-100,CIRLUC,Circaea lutetiana canadensis ,2,1,Native,Forb,Forb
+DD-100,CRATAEGUS SP,Crataegus species,2,1,-,Tree,Woody
+DD-100,FRAPES,Fraxinus pennsylvanica subintegerrima ,2,1,Native,Tree,Woody
+DD-100,QUEALB,Quercus alba ,2,1,Native,Tree,Woody
+DD-100,RUBIDS,Rubus idaeus strigosus,1,1,Native,Shrub,Woody
+DD-100,TAROFF,Taraxacum officinale,1,1,Alien,Forb,Forb
+EE-111,CELSCA,Celastrus scandens ,4,1,Native,Woody vine,Woody
+EE-111,PARQUI,Parthenocissus quinquefolia ,2,1,Native,Woody vine,Woody
+EE-111,QUEALB,Quercus alba ,1,1,Native,Tree,Woody
+CC-110,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+CC-110,ASTER SP,Aster species,2,1,-,Forb,Forb
+CC-110,ASTLAT,Aster lateriflorus,5,1,Native,Forb,Forb
+CC-110,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+CC-110,CORRAC,Cornus racemosa,5,1,Native,Shrub,Woody
+CC-110,EUPRUG,Eupatorium rugosum,3,1,Native,Forb,Forb
+CC-110,FRAVIR,Fragaria virginiana,3,1,Native,Forb,Forb
+CC-110,GALIUM SP,Galium species,2,1,-,Forb,Forb
+CC-110,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+CC-110,QUERUB,Quercus rubra,2,1,Native,Tree,Woody
+CC-110,SMIRAC,Smilacina racemosa,4,1,Native,Forb,Forb
+CC-110,SOLULM,Solidago ulmifolia,25,1,Native,Forb,Forb
+DD-112,FRAPES,Fraxinus pennsylvanica subintegerrima ,5,1,Native,Tree,Woody
+DD-114,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+DD-114,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+DD-115,PODPEL,Podophyllum peltatum,3,1,Native,Forb,Forb
+DD-115,VIBURNUM SP,Viburnum species,2,1,-,Shrub,Woody
+DD-130,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+DD-130,GEUCAN,Geum canadense,5,1,Native,Forb,Forb
+DD-130,GLEHED,Glechoma hederacea,5,1,Alien,Forb,Forb
+DD-130,PILPUM,Pilea pumila,80,1,Native,Forb,Forb
+DD-130,POAPRA,Poa pratensis,5,1,Alien,Grass,Graminoid
+DD-130,SOLIDAGO SP,Solidago species,2,1,-,Forb,Forb
+DD-130,UNIDENTIFIED SP,Unidentified species,2,1,-,-,-
+DD-130,VIOLA SP,Viola species,1,1,-,Forb,Forb
+DD-145,ALLPET,Alliaria petiolata ,1,1,Alien,Forb,Forb
+DD-148,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+DD-148,LONMAA,Lonicera maackii ,2,1,Alien,Shrub,Woody
+DD-148,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+DD-148,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+DD-78,ACENIG,Acer nigrum,5,1,Native,Tree,Woody
+DD-78,ALLPET,Alliaria petiolata ,10,1,Alien,Forb,Forb
+DD-78,CIRLUC,Circaea lutetiana canadensis ,10,1,Native,Forb,Forb
+DD-78,EUOALA,Euonymus alatus ,5,1,Alien,Shrub,Woody
+DD-78,EUPRUG,Eupatorium rugosum ,2,1,Native,Forb,Forb
+DD-78,LONMAA,Lonicera maackii ,5,1,Alien,Shrub,Woody
+DD-78,PARQUI,Parthenocissus quinquefolia ,15,1,Native,Woody vine,Woody
+DD-78,PRUSER,Prunus serotina ,10,1,Native,Tree,Woody
+DD-78,SMIRAC,Smilacina racemosa ,5,1,Native,Forb,Forb
+DD-78,ULMAME,Ulmus americana ,5,1,Native,Tree,Woody
+DD-83,ARITRI,Arisaema triphyllum ,1,1,Native,Forb,Forb
+DD-86,ACENIG,Acer nigrum,2,1,Native,Tree,Woody
+DD-86,ALLPET,Alliaria petiolata ,5,1,Alien,Forb,Forb
+DD-86,CIRLUC,Circaea lutetiana canadensis ,3,1,Native,Forb,Forb
+DD-86,PARQUI,Parthenocissus quinquefolia ,5,1,Native,Woody vine,Woody
+DD-90,ACEPLA,Acer platanoides ,8,1,Alien,Tree,Woody
+DD-90,ARITRI,Arisaema triphyllum ,4,1,Native,Forb,Forb
+DD-90,ARITRI,Arisaema triphyllum  ,3,1,Native,Forb,Forb
+DD-90,CIRLUC,Circaea lutetiana canadensis ,2,1,Native,Forb,Forb
+DD-90,CRATAEGUS SP,Crataegus species,2,1,-,Tree,Woody
+DD-90,FRAPES,Fraxinus pennsylvanica subintegerrima ,2,1,Native,Tree,Woody
+DD-90,GERMAC,Geranium maculatum ,2,1,Native,Forb,Forb
+DD-90,PARQUI,Parthenocissus quinquefolia ,3,1,Native,Woody vine,Woody
+DD-90,PRUVIR,Prunus virginiana ,4,1,Native,Shrub,Woody
+DD-90,QUEALB,Quercus alba ,2,1,Native,Tree,Woody
+DD-90,QUEALB,Quercus alba ,2,1,Native,Tree,Woody
+DD-90,RUBIDS,Rubus idaeus strigosus,1,1,Native,Shrub,Woody
+DD-90,SMIRAC,Smilacina racemosa ,3,1,Native,Forb,Forb
+DD-90,TAROFF,Taraxacum officinale ,1,1,Alien,Forb,Forb
+E-109,FRAAMA,Fraxinus americana,6,1,Native,Tree,Woody
+E-109,PRUVIR,Prunus virginiana,6,1,Native,Shrub,Woody
+E-110,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+E-110,LONMAA,Lonicera maackii,10,1,Alien,Shrub,Woody
+E-110,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+E-110,RHACAT,Rhamnus cathartica,6,1,Alien,Understory tree,Woody
+E-110,UNIDENTIFIED SEEDLING,Unidentified seedling,1,1,-,-,-
+E-111,CIRARV,Cirsium arvense,40,1,Alien,Forb,Forb
+E-111,POAPRA,Poa pratensis,100,1,Alien,Grass,Graminoid
+E-111,RHACAT,Rhamnus cathartica,4,1,Alien,Understory tree,Woody
+E-111,RHURAD,Rhus radicans,20,1,Native,Woody vine,Woody
+D-125,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+D-125,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+D-125,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+D-125,HACVIR,Hackelia virginiana,8,1,Native,Forb,Forb
+D-125,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+D-125,SMIRAC,Smilacina racemosa,8,1,Native,Forb,Forb
+EE-108,ARELAT,Arenaria lateriflora,5,1,Native,Forb,Forb
+EE-108,ASTER SP,Aster species,20,1,-,Forb,Forb
+EE-108,ASTSAD,Aster sagittifolius drummondii ,3,1,Native,Forb,Forb
+EE-108,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+EE-108,CXPENS,Carex pensylvanica,5,1,Native,Sedge,Graminoid
+EE-108,FRAXINUS SP,Fraxinus species,1,1,-,Tree,Woody
+EE-108,GALIUM SP,Galium species,25,1,-,Forb,Forb
+EE-108,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+EE-108,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+EE-108,POLPVI,Polypodium virginianum,2,1,Native,Cryptogam,Forb
+EE-108,POTSIS,Potentilla simplex,15,1,Native,Forb,Forb
+EE-108,SOLULM,Solidago ulmifolia,20,1,Native,Forb,Forb
+EE-120,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+EE-120,PRUSER,Prunus serotina,15,1,Native,Tree,Woody
+EE-120,RIBMIS,Ribes missouriense,40,1,Native,Shrub,Woody
+EE-120,SMIRAC,Smilacina racemosa,4,1,Native,Forb,Forb
+EE-126,ALLPET,Alliaria petiolata ,3,1,Alien,Forb,Forb
+EE-126,CXSPAR,Carex sparganioides,4,1,Native ,Sedge,Graminoid
+EE-126,LONMAA,Lonicera maackii ,25,1,Alien,Shrub,Woody
+EE-126,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+EE-126,RHACAT,Rhamnus cathartica ,2,1,Alien,Understory tree,Woody
+EE-126,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+EE-126,SOLDUL,Solanum dulcamara ,2,1,Alien,Woody vine,Woody
+EE-126,VITRIP,Vitis riparia,3,1,Native,Woody vine,Woody
+EE-128,PARQUI,Parthenocissus quinquefolia,45,1,Native,Woody vine,Woody
+EE-128,RHACAT,Rhamnus cathartica ,1,1,Alien,Understory tree,Woody
+EE-132,ANEMONE SP,Anemone species,7,1,-,Forb,Forb
+EE-132,CONARV,Convolvulus arvensis,3,1,Alien,Forb,Forb
+EE-132,POAPRA,Poa pratensis,70,1,Alien,Grass,Graminoid
+EE-132,RIBES SP,Ribes species,4,1,-,Shrub,Woody
+EE-132,ROSMUL,Rosa multiflora,5,1,Alien,Shrub,Woody
+EE-132,VITRIP,Vitis riparia,50,1,Native,Woody vine,Woody
+EE-134,LONMAA,Lonicera maackii ,70,1,Alien,Shrub,Woody
+EE-134,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+EE-140,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+EE-140,ULMAME,Ulmus americana,8,1,Native,Tree,Woody
+EE-77,ALLPET,Alliaria petiolata ,20,1,Alien,Forb,Forb
+EE-77,ARITRI,Arisaema triphyllum ,2,1,Native,Forb,Forb
+EE-77,GEUCAN,Geum canadense ,2,1,Native,Forb,Forb
+EE-77,IMPPAL,Impatiens pallida ,2,1,Native,Forb,Forb
+EE-77,OSMCLI,Osmunda claytoniana ,2,1,Native,Cryptogam,Forb
+EE-77,PARQUI,Parthenocissus quinquefolia ,50,1,Native,Woody vine,Woody
+EE-77,SMIRAC,Smilacina racemosa ,25,1,Native,Forb,Forb
+EE-78,ALLPET,Alliaria petiolata ,10,1,Alien,Forb,Forb
+EE-78,ARITRI,Arisaema triphyllum ,4,1,Native,Forb,Forb
+EE-78,EUOATR,Euonymus atropurpureus ,5,1,Native,Shrub,Woody
+EE-78,GERMAC,Geranium maculatum ,2,1,Native,Forb,Forb
+EE-78,LONMAA,Lonicera maackii ,30,1,Alien,Shrub,Woody
+EE-78,OSMCLI,Osmunda claytoniana ,10,1,Native,Cryptogam,Forb
+EE-78,PARQUI,Parthenocissus quinquefolia ,40,1,Native,Woody vine,Woody
+EE-78,RANPEN,Ranunculus pensylvanicus ,5,1,Native,Forb,Forb
+EE-78,RUBOCC,Rubus occidentalis ,10,1,Native,Shrub,Woody
+EE-88,ARITRI,Arisaema triphyllum ,2,1,Native,Forb,Forb
+EE-88,PARQUI,Parthenocissus quinquefolia ,1,1,Native,Woody vine,Woody
+F-107,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+F-107,ASTLAT,Aster lateriflorus,2,1,Native,Forb,Forb
+F-107,ASTSAD,Aster sagittifolius drummondii,1,1,Native,Forb,Forb
+F-107,CAREX SP,Carex species,1,1,-,Sedge,Graminoid
+F-107,CIRLUC,Circaea lutetiana canadensis,20,1,Native,Forb,Forb
+F-107,CXHIRT,Carex hirtifolia,1,1,Native,Sedge,Graminoid
+F-107,EUPRUG,Eupatorium rugosum,1,1,Native,Forb,Forb
+F-107,FRAAMA,Fraxinus americana,15,1,Native,Tree,Woody
+F-107,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+F-107,HELSTR,Helianthus strumosus,1,1,Native,Forb,Forb
+F-107,IMPPAL,Impatiens pallida,2,1,Native,Forb,Forb
+F-107,LONTAT,Lonicera tatarica,5,1,Alien,Shrub,Woody
+F-107,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+F-107,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+F-107,SMILAS,Smilax lasioneura,2,1,Native,Herbaceous vine,Forb
+F-107,SOLFLE,Solidago flexicaulis,10,1,Native,Forb,Forb
+F-107,ULMAME,Ulmus americana,1,1,Native,Tree,Woody
+F-108,ALLPET,Alliaria petiolata,8,1,Alien,Forb,Forb
+F-108,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+F-108,EUPRUG,Eupatorium rugosum,3,1,Native,Forb,Forb
+F-108,LONMAA,Lonicera maackii,50,1,Alien,Shrub,Woody
+F-108,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+F-113,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+F-113,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+F-113,PRUSER,Prunus serotina,3,1,Native,Tree,Woody
+F-114,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+F-114,ARITRI,Arisaema triphyllum,4,1,Native,Forb,Forb
+F-114,ASTLAT,Aster lateriflorus,2,1,Native,Forb,Forb
+F-114,CAMAME,Campanula americana,3,1,Native,Forb,Forb
+F-114,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+F-114,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+F-114,HELSTR,Helianthus strumosus,75,1,Native,Forb,Forb
+F-114,MENCAN,Menispermum canadense,25,1,Native,Woody Vine,Woody
+F-114,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+F-114,RUBOCC,Rubus occidentalis,8,1,Native,Shrub,Woody
+F-118,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+F-118,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+F-118,CIRLUC,Circaea lutetiana canadensis,12,1,Native,Forb,Forb
+F-118,EUPRUG,Eupatorium rugosum,2,1,Native,Forb,Forb
+F-118,FRAAMA,Fraxinus americana,1,1,Native,Tree,Woody
+F-118,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+F-118,HACVIR,Hackelia virginiana,6,1,Native,Forb,Forb
+F-118,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+F-118,POLGVI,Polygonum virginianum,3,1,Native,Forb,Forb
+F-122,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+F-122,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+F-122,HACVIR,Hackelia virginiana,4,1,Native,Forb,Forb
+F-122,IMPPAL,Impatiens pallida,2,1,Native,Forb,Forb
+F-122,POLGVI,Polygonum virginianum,2,1,Native,Forb,Forb
+F-122,RUBOCC,Rubus occidentalis,40,1,Native,Shrub,Woody
+F-122,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+F-129,ACENIG,Acer nigrum,2,1,Native,Tree,Woody
+F-129,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+F-129,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+F-134,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+F-134,CIRLUC,Circaea lutetiana canadensis,6,1,Native,Forb,Forb
+F-134,FRAPES,Fraxinus pennsylvanica subintegerrima,8,1,Native,Tree,Woody
+F-134,PARQUI,Parthenocissus quinquefolia,26,1,Native,Woody vine,Woody
+F-134,SMIRAC,Smilacina racemosa,6,1,Native,Forb,Forb
+F-134,VIBOPU,Viburnum opulus ,40,1,Alien,Shrub,Woody
+FF-112,ALLPET,Alliaria petiolata ,3,1,Alien,Forb,Forb
+FF-112,CIRLUC,Circaea lutetiana canadensis ,2,1,Native,Forb,Forb
+FF-112,HACVIR,Hackelia virginiana ,1,1,Native,Forb,Forb
+FF-112,PARQUI,Parthenocissus quinquefolia ,40,1,Native,Woody vine,Woody
+FF-112,PRUSER,Prunus serotina ,20,1,Native,Tree,Woody
+FF-112,RHURAD,Rhus radicans ,5,1,Native,Woody vine,Woody
+FF-114,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+FF-114,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+FF-114,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+FF-114,PARQUI,Parthenocissus quinquefolia,12,1,Native,Woody vine,Woody
+FF-114,ROSMUL,Rosa multiflora,20,1,Alien,Shrub,Woody
+FF-117,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+FF-117,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+FF-117,DIOVIL,Dioscorea villosa,2,1,Native,Herbaceous Vine,Forb
+FF-117,FRAAMA,Fraxinus americana,2,1,Native,Tree,Woody
+FF-117,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+FF-117,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+FF-117,RANHIS,Ranunculus hispidus,2,1,Native,Forb,Forb
+FF-123,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+FF-123,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+FF-123,IMPCAP,Impatiens capensis,2,1,Native,Forb,Forb
+FF-123,POLGVI,Polygonum virginianum,2,1,Native,Forb,Forb
+FF-123,RIBES SP,Ribes species,20,1,-,Shrub,Woody
+FF-126,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+FF-126,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+FF-126,RHACAT,Rhamnus cathartica ,1,1,Alien,Understory tree,Woody
+FF-127,LONMAA,Lonicera maackii ,5,1,Alien,Shrub,Woody
+FF-127,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+FF-127,RHACAT,Rhamnus cathartica ,8,1,Alien,Understory tree,Woody
+FF-132,ASCMEA,Asclepias meadii,1,1,Native,Forb,Forb
+FF-132,ASTER SP,Aster species,1,1,-,Forb,Forb
+FF-132,CONARV,Convolvulus arvensis,1,1,Alien,Forb,Forb
+FF-132,DACGLO,Dactylis glomerata,10,1,Alien,Grass,Graminoid
+FF-132,DAUCAR,Daucus carota,3,1,Alien,Forb,Forb
+FF-132,MINT SP,Mint species,15,1,-,Forb,Forb
+FF-132,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+FF-132,POAPRA,Poa pratensis,20,1,Alien,Grass,Graminoid
+FF-132,PRUAME,Prunus americana,4,1,Native,Tree,Woody
+FF-132,PRUVIR,Prunus virginiana,1,1,Native,Shrub,Woody
+FF-132,RHURAD,Rhus radicans,20,1,Native,Woody vine,Woody
+FF-132,ROSMUL,Rosa multiflora,2,1,Alien,Shrub,Woody
+FF-132,TRIPRA,Trifolium pratense,1,1,Alien,Forb,Forb
+FF-138,ALLPET,Alliaria petiolata ,6,1,Alien,Forb,Forb
+FF-138,LONMAA,Lonicera maackii ,8,1,Alien,Shrub,Woody
+FF-138,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+FF-146,LONMAA,Lonicera maackii ,5,1,Alien,Shrub,Woody
+FF-146,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+FF-146,ROSMUL,Rosa multiflora,1,1,Alien,Shrub,Woody
+FF-146,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+FF-91,ARITRI,Arisaema triphyllum ,2,1,Native,Forb,Forb
+FF-91,LONTAT,Lonicera tatarica ,10,1,Alien,Shrub,Woody
+FF-91,PARQUI,Parthenocissus quinquefolia ,3,1,Native,Woody vine,Woody
+FF-91,RHACAT,Rhamnus cathartica  ,3,1,Alien,Understory tree,Woody
+FF-91,SMIRAC,Smilacina racemosa ,5,1,Native,Forb,Forb
+FF-91,VIBURNUM SP,Viburnum species,3,1,-,Shrub,Woody
+FF-94,AGRREP,Agropyron repens,10,1,Alien,Grass,Graminoid
+FF-94,AMBARE,Ambrosia artemisiifolia elatior,2,1,Native,Forb,Forb
+FF-94,CHEALB,Chenopodium album,2,1,Alien,Forb,Forb
+FF-94,DACGLO,Dactylis glomerata,25,1,Alien,Grass,Graminoid
+FF-94,DAUCAR,Daucus carota,2,1,Alien,Forb,Forb
+FF-94,FESELA,Festuca elatior,10,1,Alien,Grass,Graminoid
+FF-94,OXASTR,Oxalis stricta,2,1,Native,Forb,Forb
+FF-94,POAPRA,Poa pratensis,40,1,Alien,Grass,Graminoid
+FF-94,RUMCRI,Rumex crispus,2,1,Alien,Forb,Forb
+FF-94,TRIHYB,Trifolium hybridum,2,1,Alien,Forb,Forb
+I-109,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+I-109,CAUTHA,Caulophyllum thalictroides,7,1,Native,Forb,Forb
+I-109,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+I-109,HELIANTHUS SP,Helianthus species,55,1,Native,Forb,Forb
+I-109,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+G-109,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+G-109,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+G-109,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+G-109,GEUCAN,Geum canadense,8,1,Native,Forb,Forb
+G-109,HELDIV,Helianthus divaricatus,2,1,Native,Forb,Forb
+G-109,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+G-109,RHACAT,Rhamnus cathartica,20,1,Alien,Understory tree,Woody
+G-109,SMIRAC,Smilacina racemosa,10,1,Native,Forb,Forb
+F-112,AGRGRY,Agrimonia gryposepala,4,1,Native,Forb,Forb
+F-112,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+F-112,ASTLAT,Aster lateriflorus,6,1,Native,Forb,Forb
+F-112,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+F-112,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+F-112,LONMAA,Lonicera maackii,40,1,Alien,Shrub,Woody
+F-112,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+F-112,POAPRA,Poa pratensis,2,1,Alien,Grass,Graminoid
+F-112,POPGRA,Populus grandidentata,4,1,Native,Tree,Woody
+F-119,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+F-119,ASTLAT,Aster lateriflorus,2,1,Native,Forb,Forb
+F-119,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+F-119,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+F-119,RHURAD,Rhus radicans,60,1,Native,Woody vine,Woody
+F-119,SOLFLE,Solidago flexicaulis,1,1,Native,Forb,Forb
+G-126,AGRGRY,Agrimonia gryposepala,10,1,Native,Forb,Forb
+G-126,ALLPET,Alliaria petiolata,8,1,Alien,Forb,Forb
+G-126,ASTLAT,Aster lateriflorus,6,1,Native,Forb,Forb
+G-126,CXHIRT,Carex hirtifolia,25,1,Native,Sedge,Graminoid
+G-126,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+G-132,ALLPET,Alliaria petiolata ,1,1,Alien,Forb,Forb
+G-132,FRAPES,Fraxinus pennsylvanica subintegerrima,2,1,Native,Tree,Woody
+G-132,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+G-137,LONMAA,Lonicera maackii ,4,1,Alien,Shrub,Woody
+G-137,LONTAT,Lonicera tatarica,10,1,Alien,Shrub,Woody
+G-137,RHACAT,Rhamnus cathartica,50,1,Alien,Understory tree,Woody
+G-137,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+GG-103,AGRREP,Agropyron repens ,2,1,Alien,Grass,Graminoid
+GG-103,CIRARV,Cirsium arvense ,80,1,Alien,Forb,Forb
+GG-103,PHLPRA,Phleum pratense ,5,1,Alien,Grass,Graminoid
+GG-103,RHACAT,Rhamnus cathartica ,1,1,Alien,Understory tree,Woody
+GG-103,ROSMUL,Rosa multiflora ,10,1,Alien,Shrub,Woody
+HH-112,CELSCA,Celastrus scandens ,3,1,Native,Woody vine,Woody
+HH-112,PARQUI,Parthenocissus quinquefolia ,2,1,Native,Woody vine,Woody
+GG-121,ACENIG,Acer nigrum,20,1,Native,Tree,Woody
+GG-121,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+GG-121,PARQUI,Parthenocissus quinquefolia,70,1,Native,Woody vine,Woody
+GG-121,SMIRAC,Smilacina racemosa,1,1,Native,Forb,Forb
+GG-122,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+GG-122,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+GG-127,LONMAA,Lonicera maackii ,15,1,Alien,Shrub,Woody
+GG-127,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+GG-127,RHACAT,Rhamnus cathartica ,1,1,Alien,Understory tree,Woody
+GG-135,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+GG-135,CIRLUC,Circaea lutetiana canadensis,15,1,Native,Forb,Forb
+GG-135,PARQUI,Parthenocissus quinquefolia,50,1,Native,Woody vine,Woody
+GG-135,POLGVI,Polygonum virginianum,10,1,Native,Forb,Forb
+GG-135,RANHIS,Ranunculus hispidus,5,1,Native,Forb,Forb
+GG-140,ALLPET,Alliaria petiolata ,3,1,Alien,Forb,Forb
+GG-140,FRAPES,Fraxinus pennsylvanica subintegerrima,1,1,Native,Tree,Woody
+GG-140,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+GG-146,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+GG-146,UNIDENTIFIED SEEDLING,Unidentified seedling,1,1,-,-,-
+GG-92,SMIRAC,Smilacina racemosa ,2,1,Native,Forb,Forb
+GG-92,VIOPUB,Viola pubescens ,1,1,Native,Forb,Forb
+GG-92,VITRIP,Vitis riparia ,5,1,Native,Woody vine,Woody
+GG-94,ANEQUI,Anemone quinquefolia ,2,1,Native,Forb,Forb
+GG-94,CIRLUC,Circaea lutetiana canadensis ,2,1,Native,Forb,Forb
+GG-94,GALIUM SP,Galium species,2,1,-,Forb,Forb
+GG-94,ISOBIT,Isopyrum biternatum ,8,1,Native,Forb,Forb
+GG-94,QUERUB,Quercus rubra ,2,1,Native,Tree,Woody
+GG-94,RIBMIS,Ribes missouriense ,2,1,Native,Shrub,Woody
+GG-94,SMILAX SP,Smilax species,2,1,-,-,-
+GG-94,SOLULM,Solidago ulmifolia ,10,1,Native,Forb,Forb
+H-115,ALLPET,Alliaria petiolata,12,1,Alien,Forb,Forb
+H-115,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+H-115,GEUCAN,Geum canadense,3,1,Native,Forb,Forb
+H-115,HACVIR,Hackelia virginiana,40,1,Native,Forb,Forb
+H-115,IMPATIENS SP,Impatiens species,2,1,-,Forb,Forb
+H-115,LONTAT,Lonicera tatarica,4,1,Alien,Shrub,Woody
+H-127,ACHMIL,Achillea millefolium ,8,1,Alien,Forb,Forb
+H-127,DACGLO,Dactylis glomerata,40,1,Alien,Grass,Graminoid
+H-127,FESTUCA SP,Festuca species,10,1,-,Grass,Graminoid
+H-127,FRAVIR,Fragaria virginiana,12,1,Native,Forb,Forb
+H-127,LONMAA,Lonicera maackii,3,1,Alien,Shrub,Woody
+H-127,PHLPRA,Phleum pratense,45,1,Alien,Grass,Graminoid
+H-127,PLALAN,Plantago lanceolata,2,1,Alien,Forb,Forb
+H-127,POAPRA,Poa pratensis,15,1,Alien,Grass,Graminoid
+H-127,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+HA-124,ASTSAD,Aster sagittifolius drummondii,3,1,Native,Forb,Forb
+HA-124,DAUCAR,Daucus carota,5,1,Alien,Forb,Forb
+HA-124,FRAPES,Fraxinus pennsylvanica subintegerrima,4,1,Native,Tree,Woody
+HA-124,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+HA-124,LONMAA,Lonicera maackii ,15,1,Alien,Shrub,Woody
+HA-124,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+HA-124,POAPRA,Poa pratensis,2,1,Alien,Grass,Graminoid
+HA-124,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+HA-124,RUBOCC,Rubus occidentalis,3,1,Native,Shrub,Woody
+HA-124,SOLCAN,Solidago canadensis,10,1,Native,Forb,Forb
+HA-124,TRIHYB,Trifolium hybridum,5,1,Alien,Forb,Forb
+HA-127,LONMAA,Lonicera maackii ,8,1,Alien,Shrub,Woody
+HA-132,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+HA-132,ASTLAT,Aster lateriflorus,8,1,Native,Forb,Forb
+HA-132,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+HA-132,EUPRUG,Eupatorium rugosum,5,1,Native,Forb,Forb
+HA-132,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+HA-132,LEEVIR,Leersia virginica,2,1,Native,Grass,Graminoid
+HA-132,LONMAA,Lonicera maackii ,3,1,Alien,Shrub,Woody
+HA-132,PARQUI,Parthenocissus quinquefolia,35,1,Native,Woody vine,Woody
+HA-132,VIOLA SP,Viola species,3,1,-,Forb,Forb
+HA-147,GEUCAN,Geum canadense,5,1,Native,Forb,Forb
+HA-147,LONMAA,Lonicera maackii ,5,1,Alien,Shrub,Woody
+HA-147,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+HA-147,ROSMUL,Rosa multiflora,1,1,Alien,Shrub,Woody
+HB-125,DACGLO,Dactylis glomerata,5,1,Alien,Grass,Graminoid
+HB-125,DAUCAR,Daucus carota,1,1,Alien,Forb,Forb
+HB-125,LONMAA,Lonicera maackii ,8,1,Alien,Shrub,Woody
+HB-125,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+HB-125,RHACAT,Rhamnus cathartica,25,1,Alien,Understory tree,Woody
+HB-125,RHURAD,Rhus radicans,10,1,Native,Woody vine,Woody
+HB-125,SOLCAN,Solidago canadensis,5,1,Native,Forb,Forb
+HB-125,VIBREC,Viburnum recognitum,2,1,Alien,Shrub,Woody
+HB-126,ASTLAT,Aster lateriflorus,3,1,Native,Forb,Forb
+HB-126,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+HB-126,FRAPES,Fraxinus pennsylvanica subintegerrima,4,1,Native,Tree,Woody
+HB-126,GEUCAN,Geum canadense,3,1,Native,Forb,Forb
+HB-126,LONMAA,Lonicera maackii ,12,1,Alien,Shrub,Woody
+HB-126,PARQUI,Parthenocissus quinquefolia,30,1,Native,Woody vine,Woody
+HB-126,RHACAT,Rhamnus cathartica,4,1,Alien,Understory tree,Woody
+HB-126,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+HB-126,ROSMUL,Rosa multiflora,3,1,Alien,Shrub,Woody
+HB-129,CIRLUC,Circaea lutetiana canadensis,8,1,Native,Forb,Forb
+HB-129,PARQUI,Parthenocissus quinquefolia,18,1,Native,Woody vine,Woody
+HB-129,POLGVI,Polygonum virginianum,4,1,Native,Forb,Forb
+HB-129,SMILAS,Smilax lasioneura,3,1,Native,Herbaceous vine,Forb
+HB-129,VIOLA SP,Viola species,2,1,-,Forb,Forb
+HB-131,GEUCAN,Geum canadense,5,1,Native,Forb,Forb
+HB-131,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+HB-131,RHACAT,Rhamnus cathartica,25,1,Alien,Understory tree,Woody
+HB-131,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+HB-136,PARQUI,Parthenocissus quinquefolia,35,1,Native,Woody vine,Woody
+HB-136,RHACAT,Rhamnus cathartica ,2,1,Alien,Understory tree,Woody
+HB-138,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+HB-138,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+HB-138,SOLDUL,Solanum dulcamara ,12,1,Alien,Woody vine,Woody
+HB-141,LONTAT,Lonicera tatarica,30,1,Alien,Shrub,Woody
+HB-141,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+HB-141,QUERUB,Quercus rubra,25,1,Native,Tree,Woody
+HB-141,RHACAT,Rhamnus cathartica,3,1,Alien,Understory tree,Woody
+HB-141,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+HB-143,ULMAME,Ulmus americana,10,1,Native,Tree,Woody
+HB-146,LONMAA,Lonicera maackii ,20,1,Alien,Shrub,Woody
+HB-146,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+HB-146,RHACAT,Rhamnus cathartica,8,1,Alien,Understory tree,Woody
+HC-126,LONMAA,Lonicera maackii ,4,1,Alien,Shrub,Woody
+HC-126,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+HC-126,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+HC-130,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+HC-130,FRAAMA,Fraxinus americana,3,1,Native,Tree,Woody
+HC-130,LONMAA,Lonicera maackii ,2,1,Alien,Shrub,Woody
+HC-130,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+HC-130,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+HC-135,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+HC-135,SMILACINA SP,Smilacina species,2,1,-,Forb,Forb
+HC-142,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+HC-142,LONTAT,Lonicera tatarica,40,1,Alien,Shrub,Woody
+HC-142,RHACAT,Rhamnus cathartica,15,1,Alien,Understory tree,Woody
+HC-142,RHURAD,Rhus radicans,15,1,Native,Woody vine,Woody
+HC-144,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+HD-134,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+HD-134,RHACAT,Rhamnus cathartica ,12,1,Alien,Understory tree,Woody
+HD-134,RHURAD,Rhus radicans,6,1,Native,Woody vine,Woody
+HD-135,ARITRI,Arisaema triphyllum,5,1,Native,Forb,Forb
+HD-135,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+HD-135,PARQUI,Parthenocissus quinquefolia,45,1,Native,Woody vine,Woody
+HD-142,LONTAT,Lonicera tatarica,70,1,Alien,Shrub,Woody
+HD-142,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+HD-142,RHACAT,Rhamnus cathartica,10,1,Alien,Understory tree,Woody
+HD-142,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+HD-143,LONTAT,Lonicera tatarica,75,1,Alien,Shrub,Woody
+HD-146,PARQUI,Parthenocissus quinquefolia,6,1,Native,Woody vine,Woody
+HD-146,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+HD-147,RHACAT,Rhamnus cathartica,30,1,Alien,Understory tree,Woody
+HD-147,SMIRAC,Smilacina racemosa,5,1,Native,Forb,Forb
+HD-147,VIBOPU,Viburnum opulus,8,1,Alien,Shrub,Woody
+HE-136,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+HE-136,ASTPIL,Aster pilosus,2,1,Native,Forb,Forb
+HE-136,BOECYC,Boehmeria cylindrica,15,1,Native,Forb,Forb
+HE-136,CORRAC,Cornus racemosa,2,1,Native,Shrub,Woody
+HE-136,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+HE-136,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+HE-136,ROSMUL,Rosa multiflora,4,1,Alien,Shrub,Woody
+HE-136,SOLCAN,Solidago canadensis,5,1,Native,Forb,Forb
+HE-136,VITRIP,Vitis riparia,2,1,Native,Woody vine,Woody
+HH-100,ANEVIR,Anemone virginiana ,2,1,Native,Forb,Forb
+HH-100,ASTSAD,Aster sagittifolius drummondii   ,10,1,Native,Forb,Forb
+HH-100,CORRAC,Cornus racemosa ,5,1,Native,Shrub,Woody
+HH-100,CRATAEGUS SP,Crataegus species,3,1,-,Tree,Woody
+HH-100,CXHIRT,Carex hirtifolia ,2,1,Native,Sedge,Graminoid
+HH-100,FRAVIR,Fragaria virginiana ,2,1,Native,Forb,Forb
+HH-100,POAPRA,Poa pratensis ,20,1,Alien,Grass,Graminoid
+HH-100,RHACAT,Rhamnus cathartica ,30,1,Alien,Understory tree,Woody
+HH-100,SETARIA SP,Setaria species,2,1,-,Grass,Graminoid
+HH-100,SOLULM,Solidago ulmifolia ,10,1,Native,Forb,Forb
+HH-103,ASTER SP,Aster species,8,1,-,Forb,Forb
+HH-103,CIRLUC,Circaea lutetiana canadensis ,3,1,Native,Forb,Forb
+HH-103,CXBLAN,Carex blanda ,2,1,Native,Sedge,Graminoid
+HH-103,CXROSE,Carex rosea  ,2,1,Native,Sedge,Graminoid
+HH-103,EUPRUG,Eupatorium rugosum ,2,1,Native,Forb,Forb
+HH-103,FRAVIR,Fragaria virginiana ,2,1,Native,Forb,Forb
+HH-103,LONMAA,Lonicera maackii ,10,1,Alien,Shrub,Woody
+HH-103,PARQUI,Parthenocissus quinquefolia ,2,1,Native,Woody vine,Woody
+HH-103,RUBOCC,Rubus occidentalis ,50,1,Native,Shrub,Woody
+HH-103,SOLTEN,Solidago tenuifolia ,6,1,Native,Forb,Forb
+HH-105,??,??,,,,,
+HH-110,ALLPET,Alliaria petiolata ,20,1,Alien,Forb,Forb
+HH-110,CIRLUC,Circaea lutetiana canadensis  ,5,1,Native,Forb,Forb
+HH-110,LEEVIR,Leersia virginica ,4,1,Native,Grass,Graminoid
+HH-110,PARQUI,Parthenocissus quinquefolia ,60,1,Native,Woody vine,Woody
+HH-110,VIOLA SP,Viola species,2,1,-,Forb,Forb
+GG-113,ARITRI,Arisaema triphyllum ,2,1,Native,Forb,Forb
+GG-113,FRAXINUS SP,Fraxinus species,2,1,-,Tree,Woody
+GG-113,PARQUI,Parthenocissus quinquefolia ,5,1,Native,Woody vine,Woody
+GG-113,SMIRAC,Smilacina racemosa ,3,1,Native,Forb,Forb
+HH-115,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+HH-115,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+HH-115,PARQUI,Parthenocissus quinquefolia,80,1,Native,Woody vine,Woody
+HH-115,QUEALB,Quercus alba,1,1,Native,Tree,Woody
+HH-116,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+HH-116,VIBOPU,Viburnum opulus,90,1,Alien,Shrub,Woody
+HH-126,GEUCAN,Geum canadense,15,1,Native,Forb,Forb
+HH-126,LONMAA,Lonicera maackii ,5,1,Alien,Shrub,Woody
+HH-126,POAPRA,Poa pratensis,20,1,Alien,Grass,Graminoid
+HH-126,PRUVIR,Prunus virginiana,12,1,Native,Shrub,Woody
+HH-126,RHURAD,Rhus radicans,25,1,Native,Woody vine,Woody
+HH-126,ROSMUL,Rosa multiflora,8,1,Alien,Shrub,Woody
+HH-130,AMBTRI,Ambrosia trifida,1,1,Native,Forb,Forb
+HH-130,CONARV,Convolvulus arvensis,1,1,Alien,Forb,Forb
+HH-130,DACGLO,Dactylis glomerata,7,1,Alien,Grass,Graminoid
+HH-130,DAUCAR,Daucus carota,3,1,Alien,Forb,Forb
+HH-130,OXASTR,Oxalis stricta,1,1,Native,Forb,Forb
+HH-130,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+HH-130,PHAARU,Phalaris arundinacea,2,1,Alien,Grass,Graminoid
+HH-130,POAPRA,Poa pratensis,50,1,Alien,Grass,Graminoid
+HH-130,PRUVIR,Prunus virginiana,10,1,Native,Shrub,Woody
+HH-130,RIBES SP,Ribes species,6,1,-,Shrub,Woody
+HH-130,SCIRPUS SP,Scirpus species,1,1,-,Sedge,Graminoid
+HH-130,TRADUB,Tragopogon dubius,2,1,Alien,Forb,Forb
+HH-139,ALLPET,Alliaria petiolata ,8,1,Alien,Forb,Forb
+HH-139,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+HH-139,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+HH-139,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+HH-139,VIBOPU,Viburnum opulus,3,1,Alien,Shrub,Woody
+HH-147,ALLPET,Alliaria petiolata ,20,1,Alien,Forb,Forb
+HH-147,IMPCAP,Impatiens capensis,1,1,Native,Forb,Forb
+HH-147,LONMAA,Lonicera maackii ,38,1,Alien,Shrub,Woody
+HH-147,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+HH-147,RHACAT,Rhamnus cathartica,50,1,Alien,Understory tree,Woody
+HH-79,ACENIG,Acer nigrum,4,1,Native,Tree,Woody
+HH-79,ALLPET,Alliaria petiolata,15,1,Alien,Forb,Forb
+HH-79,EUONYMUS SP,Euonymus species,5,1,-,Shrub,Woody
+HH-79,PARQUI,Parthenocissus quinquefolia,45,1,Native,Woody vine,Woody
+HH-79,VIBREC,Viburnum recognitum,8,1,Alien,Shrub,Woody
+HH-85,ALLPET,Alliaria petiolata,14,1,Alien,Forb,Forb
+HH-85,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+HH-85,GALIUM SP,Galium species,1,1,-,Forb,Forb
+HH-85,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+HH-85,PARQUI,Parthenocissus quinquefolia,12,1,Native,Woody vine,Woody
+HH-85,RHURAD,Rhus radicans,20,1,Native,Woody vine,Woody
+HH-85,RUBOCC,Rubus occidentalis,25,1,Native,Shrub,Woody
+HH-87,AGRGRY,Agrimonia gryposepala,10,1,Native,Forb,Forb
+HH-87,ALLPET,Alliaria petiolata,6,1,Alien,Forb,Forb
+HH-87,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+HH-87,EUONYMUS SP,Euonymus species,4,1,-,Shrub,Woody
+HH-87,GEUCAN,Geum canadense,6,1,Native,Forb,Forb
+HH-87,POAPRA,Poa pratensis,12,1,Alien,Grass,Graminoid
+HH-90,ALLPET,Alliaria petiolata ,20,1,Alien,Forb,Forb
+HH-90,PARQUI,Parthenocissus quinquefolia ,5,1,Native,Woody vine,Woody
+HH-90,SMIRAC,Smilacina racemosa ,2,1,Native,Forb,Forb
+HH-93,ALLPET,Alliaria petiolata ,3,1,Alien,Forb,Forb
+HH-93,ARITRI,Arisaema triphyllum ,3,1,Native,Forb,Forb
+HH-93,ASTLAT,Aster lateriflorus ,10,1,Native,Forb,Forb
+HH-93,CIRLUC,Circaea lutetiana canadensis ,25,1,Native,Forb,Forb
+HH-93,HACVIR,Hackelia virginiana ,2,1,Native,Forb,Forb
+HH-93,POTSIS,Potentilla simplex ,2,1,Native,Forb,Forb
+HH-93,SMIRAC,Smilacina racemosa ,5,1,Native,Forb,Forb
+HH-93,UNIDENTIFIED SHRUB,Unidentified shrub,2,1,-,Shrub,Woody
+HH-96,GALIUM SP,Galium species,1,1,-,Forb,Forb
+HH-96,LONMAA,Lonicera maackii,12,1,Alien,Shrub,Woody
+HH-96,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+HH-96,RUBALL,Rubus allegheniensis,22,1,Native,Shrub,Woody
+HH-96,SMIRAC,Smilacina racemosa,5,1,Native,Forb,Forb
+HH-96,SOLULM,Solidago ulmifolia,6,1,Native,Forb,Forb
+I-107,ALLPET,Alliaria petiolata,4,1,Alien,Forb,Forb
+I-107,ARITRI,Arisaema triphyllum,4,1,Native,Forb,Forb
+I-107,FRAPES,Fraxinus pennsylvanica subintegerrima,3,1,Native,Tree,Woody
+I-107,GERMAC,Geranium maculatum,45,1,Native,Forb,Forb
+I-107,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+I-116,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+I-116,ANETHA,Anemonella thalictroides,6,1,Native,Forb,Forb
+I-116,CIRLUC,Circaea lutetiana canadensis,35,1,Native,Forb,Forb
+I-116,GERMAC,Geranium maculatum,10,1,Native,Forb,Forb
+I-116,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+I-116,HACVIR,Hackelia virginiana,2,1,Native,Forb,Forb
+I-116,POLREP,Polemonium reptans,7,1,Native,Forb,Forb
+I-117,ASTSHO,Aster shortii,4,1,Native,Forb,Forb
+I-117,CAMAME,Campanula americana,8,1,Native,Forb,Forb
+I-117,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+I-117,CXHIRT,Carex hirtifolia,2,1,Native,Sedge,Graminoid
+I-117,GEUCAN,Geum canadense,15,1,Native,Forb,Forb
+I-117,LEEVIR,Leersia virginica,1,1,Native,Grass,Graminoid
+I-117,RANHIS,Ranunculus hispidus,4,1,Native,Forb,Forb
+I-117,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+I-117,SMILAS,Smilax lasioneura,3,1,Native,Herbaceous vine,Forb
+I-117,SOLULM,Solidago ulmifolia,8,1,Native,Forb,Forb
+I-124,ALLPET,Alliaria petiolata,4,1,Alien,Forb,Forb
+I-124,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+I-124,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+I-124,GALIUM SP,Galium species,1,1,-,Forb,Forb
+I-124,GERMAC,Geranium maculatum,15,1,Native,Forb,Forb
+I-124,GEUCAN,Geum canadense,8,1,Native,Forb,Forb
+I-124,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+I-124,VIBURNUM SP,Viburnum species,3,1,-,Shrub,Woody
+I-133,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+I-133,FRAAMA,Fraxinus americana,18,1,Native,Tree,Woody
+I-138,ACTALT,Actinomeris alternifolia,25,1,Native,Forb,Forb
+I-138,CORVAR,Coronilla varia,75,1,Alien,Forb,Forb
+I-138,PHAARU,Phalaris arundinacea,3,1,Alien,Grass,Graminoid
+I-138,POAPRA,Poa pratensis,30,1,Alien,Grass,Graminoid
+II-105,ASTER SP,Aster species,5,1,-,Forb,Forb
+II-105,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+II-105,EUPRUG,Eupatorium rugosum,20,1,Native,Forb,Forb
+II-105,GALASP,Galium asprellum,4,1,Native,Forb,Forb
+II-105,GALIUM SP,Galium species,25,1,-,Forb,Forb
+II-105,HACVIR,Hackelia virginiana,10,1,Native,Forb,Forb
+II-105,OXASTR,Oxalis stricta,3,1,Native,Forb,Forb
+II-105,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+II-105,RANABO,Ranunculus abortivus,2,1,Native,Forb,Forb
+II-105,SOLULM,Solidago ulmifolia,5,1,Native,Forb,Forb
+II-105,TAROFF,Taraxacum officinale,2,1,Alien,Forb,Forb
+HH-106,ALLPET,Alliaria petiolata,4,1,Alien,Forb,Forb
+HH-106,ASTER SP,Aster species,5,1,-,Forb,Forb
+HH-106,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+HH-106,CXBLAN,Carex blanda,2,1,Native,Sedge,Graminoid
+HH-106,DODMEA,Dodecatheon meadia,2,1,Native,Forb,Forb
+HH-106,EUPRUG,Eupatorium rugosum,3,1,Native,Forb,Forb
+HH-106,FRAAMA,Fraxinus americana,10,1,Native,Tree,Woody
+HH-106,LACTUCA SP,Lactuca species,2,1,-,Forb,Forb
+HH-106,SOLCAN,Solidago canadensis,10,1,Native,Forb,Forb
+HH-106,SOLULM,Solidago ulmifolia,50,1,Native,Forb,Forb
+HH-106,TAROFF,Taraxacum officinale,2,1,Alien,Forb,Forb
+II-118,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+II-118,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+II-118,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+II-118,EUONYMUS SP,Euonymus species,2,1,-,Shrub,Woody
+II-118,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+II-118,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+II-122,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+II-122,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+II-122,LONMAA,Lonicera maackii,10,1,Alien,Shrub,Woody
+II-122,PARQUI,Parthenocissus quinquefolia,80,1,Native,Woody vine,Woody
+II-122,RHURAD,Rhus radicans,15,1,Native,Woody vine,Woody
+II-122,VIBOPU,Viburnum opulus,20,1,Alien,Shrub,Woody
+II-130,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+II-130,RHACAT,Rhamnus cathartica,8,1,Alien,Understory tree,Woody
+II-130,RHURAD,Rhus radicans,2,1,Native,Woody vine,Woody
+II-130,ROSMUL,Rosa multiflora,4,1,Alien,Shrub,Woody
+II-130,SOLIDAGO SP,Solidago species,4,1,-,Forb,Forb
+II-131,ACESAU,Acer saccharum,1,1,Native,Tree,Woody
+II-131,ASTER SP,Aster species,2,1,-,Forb,Forb
+II-131,LONMAA,Lonicera maackii ,3,1,Alien,Shrub,Woody
+II-131,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+II-131,POA SP,Poa species ,1,1,-,Grass,Graminoid
+II-131,QUERUB,Quercus rubra,1,1,Native,Tree,Woody
+II-131,RHACAT,Rhamnus cathartica,2,1,Alien,Understory tree,Woody
+II-136,ALLPET,Alliaria petiolata ,10,1,Alien,Forb,Forb
+II-136,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+II-136,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+II-136,SMIRAC,Smilacina racemosa,5,1,Native,Forb,Forb
+II-142,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+II-142,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+II-142,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+II-142,FRAPES,Fraxinus pennsylvanica subintegerrima,3,1,Native,Tree,Woody
+II-142,GEUCAN,Geum canadense,8,1,Native,Forb,Forb
+II-142,GLEHED,Glechoma hederacea,1,1,Alien,Forb,Forb
+II-142,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+II-142,PRUVIR,Prunus virginiana,1,1,Native,Shrub,Woody
+II-142,SEDGE SP,Sedge species,3,1,-,Sedge,Graminoid
+II-142,SOLULM,Solidago ulmifolia,2,1,Native,Forb,Forb
+II-142,VIOLA SP,Viola species,1,1,-,Forb,Forb
+II-81,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+II-81,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+II-81,DESMODIUM SP,Desmodium species,8,1,-,Forb,Forb
+II-81,EUPRUG,Eupatorium rugosum,1,1,Native,Forb,Forb
+II-81,IMPPAL,Impatiens pallida,2,1,Native,Forb,Forb
+II-81,STYDIP,Stylophorum diphyllum,25,1,Native,Forb,Forb
+II-87,ACENEG,Acer negundo,25,1,Native,Tree,Woody
+II-87,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+II-87,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+II-87,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+II-90,ACENIG,Acer nigrum,10,1,Native,Tree,Woody
+II-90,ALLPET,Alliaria petiolata ,3,1,Alien,Forb,Forb
+II-90,CIRLUC,Circaea lutetiana canadensis ,8,1,Native,Forb,Forb
+II-90,OSMCLI,Osmunda claytoniana ,2,1,Native,Cryptogam,Forb
+II-90,PARQUI,Parthenocissus quinquefolia  ,4,1,Native,Woody vine,Woody
+II-90,RHURAD,Rhus radicans ,5,1,Native,Woody vine,Woody
+II-90,SMIRAC,Smilacina racemosa ,2,1,Native,Forb,Forb
+J-110,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+J-110,PRUVIR,Prunus virginiana,40,1,Native,Shrub,Woody
+J-110,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+J-110,ULMAME,Ulmus americana,1,1,Native,Tree,Woody
+J-121,ACENIG,Acer nigrum,1,1,Native,Tree,Woody
+J-121,ALLPET,Alliaria petiolata,4,1,Alien,Forb,Forb
+J-121,HACVIR,Hackelia virginiana,2,1,Native,Forb,Forb
+J-121,PRUVIR,Prunus virginiana,3,1,Native,Shrub,Woody
+J-133,ACENIG,Acer nigrum,10,1,Native,Tree,Woody
+J-133,CIRLUC,Circaea lutetiana canadensis,6,1,Native,Forb,Forb
+J-133,SMIRAC,Smilacina racemosa,8,1,Native,Forb,Forb
+J-135,FRAPES,Fraxinus pennsylvanica subintegerrima,1,1,Native,Tree,Woody
+J-135,IMPPAL,Impatiens pallida,20,1,Native,Forb,Forb
+J-135,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+JJ-102,ASTLAT,Aster lateriflorus ,5,1,Native,Forb,Forb
+JJ-102,CAMAME,Campanula americana ,10,1,Native,Forb,Forb
+JJ-102,CIRLUC,Circaea lutetiana canadensis ,3,1,Native,Forb,Forb
+JJ-102,GALIUM SP,Galium species,5,1,-,Forb,Forb
+JJ-102,GEUCAN,Geum canadense ,2,1,Native,Forb,Forb
+JJ-102,OXASTR,Oxalis stricta  ,1,1,Native,Forb,Forb
+JJ-102,PARQUI,Parthenocissus quinquefolia ,5,1,Native,Woody vine,Woody
+JJ-102,PRUSER,Prunus serotina ,2,1,Native,Tree,Woody
+JJ-102,RUBOCC,Rubus occidentalis ,70,1,Native,Shrub,Woody
+JJ-102,SMIRAC,Smilacina racemosa ,2,1,Native,Forb,Forb
+JJ-111,ALLPET,Alliaria petiolata ,10,1,Alien,Forb,Forb
+JJ-111,CIRLUC,Circaea lutetiana canadensis ,10,1,Native,Forb,Forb
+JJ-111,CRATAEGUS SP,Crataegus species,3,1,-,Tree,Woody
+JJ-111,CXBLAN,Carex blanda ,2,1,Native,Sedge,Graminoid
+JJ-111,PARQUI,Parthenocissus quinquefolia ,15,1,Native,Woody vine,Woody
+JJ-111,POLPVI,Polypodium virginianum,2,1,Native,Cryptogam,Forb
+JJ-111,PRUSER,Prunus serotina ,2,1,Native,Tree,Woody
+JJ-111,RANABO,Ranunculus abortivus ,1,1,Native,Forb,Forb
+JJ-111,RUBOCC,Rubus occidentalis ,5,1,Native,Shrub,Woody
+JJ-111,SMIRAC,Smilacina racemosa ,1,1,Native,Forb,Forb
+JJ-114,ANETHA,Anemonella thalictroides,5,1,Native,Forb,Forb
+JJ-114,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+JJ-114,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+JJ-114,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+JJ-115,GERMAC,Geranium maculatum ,5,1,Native,Forb,Forb
+JJ-115,PARQUI,Parthenocissus quinquefolia ,10,1,Native,Woody vine,Woody
+JJ-115,RHURAD,Rhus radicans ,5,1,Native,Woody vine,Woody
+JJ-115,RIBES SP,Ribes species,5,1,-,Shrub,Woody
+JJ-121,ALLPET,Alliaria petiolata,20,1,Alien,Forb,Forb
+JJ-121,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+JJ-121,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+JJ-121,PARQUI,Parthenocissus quinquefolia,7,1,Native,Woody vine,Woody
+JJ-121,POLGVI,Polygonum virginianum,7,1,Native,Forb,Forb
+JJ-129,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+JJ-129,CIRARV,Cirsium arvense,7,1,Alien,Forb,Forb
+JJ-129,PHAARU,Phalaris arundinacea,60,1,Alien,Grass,Graminoid
+JJ-129,RANUNCULUS SP,Ranunculus species,2,1,-,Forb,Forb
+JJ-129,SOLDUL,Solanum dulcamara ,15,1,Alien,Woody vine,Woody
+JJ-140,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+JJ-140,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+JJ-140,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+JJ-140,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+JJ-140,RHURAD,Rhus radicans,8,1,Native,Woody vine,Woody
+JJ-140,SMILACINA SP,Smilacina species,3,1,-,Forb,Forb
+JJ-87,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+JJ-93,ALLPET,Alliaria petiolata,15,1,Alien,Forb,Forb
+JJ-93,EUPRUG,Eupatorium rugosum,4,1,Native,Forb,Forb
+JJ-93,GALIUM SP,Galium species,1,1,-,Forb,Forb
+JJ-93,GERMAC,Geranium maculatum,12,1,Native,Forb,Forb
+JJ-93,LONMAA,Lonicera maackii,8,1,Alien,Shrub,Woody
+JJ-93,UNIDENTIFIED SP,Unidentified species,2,1,-,-,-
+JJ-93,VIOLA SP,Viola species,1,1,-,Forb,Forb
+JJ-96,GALIUM SP,Galium species,12,1,-,Forb,Forb
+JJ-96,LONMAA,Lonicera maackii,8,1,Alien,Shrub,Woody
+JJ-96,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+JJ-96,RUBALL,Rubus allegheniensis,18,1,Native,Shrub,Woody
+JJ-96,SOLGRG,Solidago graminifolia,12,1,Native,Forb,Forb
+JJ-96,SOLULM,Solidago ulmifolia,8,1,Native,Forb,Forb
+K-107,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+K-107,FRAPES,Fraxinus pennsylvanica subintegerrima,1,1,Native,Tree,Woody
+K-107,SMIRAC,Smilacina racemosa,1,1,Native,Forb,Forb
+K-107,THADIO,Thalictrum dioicum,2,1,Native,Forb,Forb
+K-115,ANETHA,Anemonella thalictroides,2,1,Native,Forb,Forb
+K-115,CRATAEGUS SP,Crataegus species,2,1,-,Tree,Woody
+K-115,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+K-115,GRASS SP,Grass species,5,1,-,Grass,Graminoid
+K-115,PRENANTHES SP,Prenanthes species,4,1,-,Forb,Forb
+K-115,QUEALB,Quercus alba,2,1,Native,Tree,Woody
+K-115,RHAFRA,Rhamnus frangula,15,1,Alien,Understory tree,Woody
+K-115,VIBREC,Viburnum recognitum,2,1,Alien,Shrub,Woody
+K-116,ACENIG,Acer nigrum,1,1,Native,Tree,Woody
+K-116,GERMAC,Geranium maculatum,1,1,Native,Forb,Forb
+K-116,HYSPAT,Hystrix patula,3,1,Native,Grass,Graminoid
+K-116,RHAFRA,Rhamnus frangula,2,1,Alien,Understory tree,Woody
+K-116,SMILAX SP,Smilax species,7,1,-,-,-
+K-130,ACENIG,Acer nigrum,1,1,Native,Tree,Woody
+K-130,ALLPET,Alliaria petiolata,4,1,Alien,Forb,Forb
+K-130,FRAXINUS SP,Fraxinus species,3,1,-,Tree,Woody
+K-137,ALLPET,Alliaria petiolata ,3,1,Alien,Forb,Forb
+K-137,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+K-137,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+KK-101,ASTLAT,Aster lateriflorus ,20,1,Native,Forb,Forb
+KK-101,CIRLUC,Circaea lutetiana canadensis ,15,1,Native,Forb,Forb
+KK-101,EUPRUG,Eupatorium rugosum ,5,1,Native,Forb,Forb
+KK-101,GALASP,Galium asprellum  ,2,1,Native,Forb,Forb
+KK-101,GEUCAN,Geum canadense ,2,1,Native,Forb,Forb
+KK-101,HACVIR,Hackelia virginiana ,4,1,Native,Forb,Forb
+KK-101,OXASTR,Oxalis stricta ,3,1,Native,Forb,Forb
+KK-101,PARQUI,Parthenocissus quinquefolia ,2,1,Native,Woody vine,Woody
+KK-101,RANABO,Ranunculus abortivus ,2,1,Native,Forb,Forb
+KK-101,RHURAD,Rhus radicans ,2,1,Native,Woody vine,Woody
+KK-101,RUBOCC,Rubus occidentalis ,3,1,Native,Shrub,Woody
+KK-101,SMIRAC,Smilacina racemosa ,10,1,Native,Forb,Forb
+LL-103,ASTER SP,Aster species,2,1,-,Forb,Forb
+LL-103,CELSCA,Celastrus scandens ,70,1,Native,Woody vine,Woody
+LL-103,CIRLUC,Circaea lutetiana canadensis ,8,1,Native,Forb,Forb
+LL-103,EUPRUG,Eupatorium rugosum ,2,1,Native,Forb,Forb
+LL-103,HACVIR,Hackelia virginiana  ,2,1,Native,Forb,Forb
+LL-103,OXASTR,Oxalis stricta ,2,1,Native,Forb,Forb
+LL-103,SMIRAC,Smilacina racemosa ,5,1,Native,Forb,Forb
+LL-103,SOLCAN,Solidago canadensis ,5,1,Native,Forb,Forb
+LL-103,SOLGIG,Solidago gigantea ,3,1,Native,Forb,Forb
+LL-102,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+LL-102,ARIDRA,Arisaema dracontium ,2,1,Native,Forb,Forb
+LL-102,CIRLUC,Circaea lutetiana canadensis ,2,1,Native,Forb,Forb
+LL-102,EUPRUG,Eupatorium rugosum ,2,1,Native,Forb,Forb
+LL-102,GALIUM SP,Galium species,2,1,-,Forb,Forb
+LL-102,HACVIR,Hackelia virginiana ,2,1,Native,Forb,Forb
+LL-102,RHURAD,Rhus radicans ,5,1,Native,Woody vine,Woody
+LL-102,RUBALL,Rubus allegheniensis ,5,1,Native,Shrub,Woody
+LL-102,SMIRAC,Smilacina racemosa ,3,1,Native,Forb,Forb
+LL-102,SOLCAN,Solidago canadensis ,10,1,Native,Forb,Forb
+LL-102,VIBOPU,Viburnum opulus ,20,1,Alien,Shrub,Woody
+LL-102,VIBURNUM SP,Viburnum species,2,1,-,Shrub,Woody
+JJ-105,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+JJ-105,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+JJ-105,ASTLAT,Aster lateriflorus,9,1,Native,Forb,Forb
+JJ-105,CELSCA,Celastrus scandens,3,1,Native,Woody vine,Woody
+JJ-105,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+JJ-105,EUPRUG,Eupatorium rugosum,5,1,Native,Forb,Forb
+JJ-105,UNIDENTIFIED SP,Unidentified species,5,1,-,-,-
+JJ-105,HACVIR,Hackelia virginiana,1,1,Native,Forb,Forb
+JJ-105,LONMAA,Lonicera maackii,8,1,Alien,Shrub,Woody
+JJ-105,OXASTR,Oxalis stricta,2,1,Native,Forb,Forb
+JJ-105,SMIRAC,Smilacina racemosa,15,1,Native,Forb,Forb
+JJ-105,VITRIP,Vitis riparia,10,1,Native,Woody vine,Woody
+KK-109,ALLPET,Alliaria petiolata ,10,1,Alien,Forb,Forb
+KK-109,ARITRI,Arisaema triphyllum ,3,1,Native,Forb,Forb
+KK-109,CIRLUC,Circaea lutetiana canadensis ,10,1,Native,Forb,Forb
+KK-109,EUPRUG,Eupatorium rugosum ,2,1,Native,Forb,Forb
+KK-109,FRAVIR,Fragaria virginiana ,3,1,Native,Forb,Forb
+KK-109,GALIUM SP,Galium species,40,1,-,Forb,Forb
+KK-109,GEUCAN,Geum canadense ,2,1,Native,Forb,Forb
+KK-109,HACVIR,Hackelia virginiana ,3,1,Native,Forb,Forb
+KK-109,PARQUI,Parthenocissus quinquefolia ,10,1,Native,Woody vine,Woody
+KK-119,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+KK-119,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+KK-119,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+KK-119,RHURAD,Rhus radicans,10,1,Native,Woody vine,Woody
+KK-119,RIBES SP,Ribes species,10,1,-,Shrub,Woody
+KK-119,SMIRAC,Smilacina racemosa,5,1,Native,Forb,Forb
+KK-121,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+KK-121,IMPCAP,Impatiens capensis,1,1,Native,Forb,Forb
+KK-121,RUBUS SP,Rubus species,50,1,-,Shrub,Woody
+KK-121,VITRIP,Vitis riparia,2,1,Native,Woody vine,Woody
+KK-122,ALLPET,Alliaria petiolata,50,1,Alien,Forb,Forb
+KK-122,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+KK-122,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+KK-122,RUBALL,Rubus allegheniensis,5,1,Native,Shrub,Woody
+KK-131,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+KK-131,LONMAA,Lonicera maackii ,1,1,Alien,Shrub,Woody
+KK-131,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+KK-145,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+KK-145,CRATAEGUS SP,Crataegus species,2,1,-,Tree,Woody
+KK-145,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+KK-145,PRUVIR,Prunus virginiana,1,1,Native,Shrub,Woody
+KK-145,SMIRAC,Smilacina racemosa,5,1,Native,Forb,Forb
+KK-80,ACENIG,Acer nigrum,2,1,Native,Tree,Woody
+KK-80,CIRLUC,Circaea lutetiana canadensis,8,1,Native,Forb,Forb
+KK-80,GEUCAN,Geum canadense,6,1,Native,Forb,Forb
+KK-80,OXASTR,Oxalis stricta,1,1,Native,Forb,Forb
+KK-80,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+KK-80,RHURAD,Rhus radicans,25,1,Native,Woody vine,Woody
+KK-93,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+KK-93,ARITRI,Arisaema triphyllum,4,1,Native,Forb,Forb
+KK-93,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+KK-93,EUPRUG,Eupatorium rugosum,25,1,Native,Forb,Forb
+KK-93,GALIUM SP,Galium species,3,1,-,Forb,Forb
+KK-93,LONMAA,Lonicera maackii,3,1,Alien,Shrub,Woody
+KK-93,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+KK-93,POLGVI,Polygonum virginianum,10,1,Native,Forb,Forb
+KK-93,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+KK-93,SOLULM,Solidago ulmifolia,15,1,Native,Forb,Forb
+K-109,FRAAMA,Fraxinus americana,1,1,Native,Tree,Woody
+K-109,GERMAC,Geranium maculatum,1,1,Native,Forb,Forb
+K-109,OSTVIR,Ostrya virginiana,1,1,Native,Tree,Woody
+L-111,CORRAC,Cornus racemosa,1,1,Native,Shrub,Woody
+L-111,FRAAMA,Fraxinus americana,2,1,Native,Tree,Woody
+L-111,POLGVI,Polygonum virginianum,1,1,Native,Forb,Forb
+L-120,ACENIG,Acer nigrum,5,1,Native,Tree,Woody
+L-120,ANETHA,Anemonella thalictroides,2,1,Native,Forb,Forb
+L-120,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+L-120,FRAAMA,Fraxinus americana,1,1,Native,Tree,Woody
+L-120,GERMAC,Geranium maculatum,4,1,Native,Forb,Forb
+L-120,PRENANTHES SP,Prenanthes species,4,1,-,Forb,Forb
+L-120,SMILAX SP,Smilax species,3,1,-,-,-
+L-120,TILAME,Tilia americana,18,1,Native,Tree,Woody
+L-121,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+L-121,CRATAEGUS SP,Crataegus species,5,1,-,Tree,Woody
+L-121,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+L-121,RHURAD,Rhus radicans,40,1,Native,Woody vine,Woody
+L-121,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+L-126,DACGLO,Dactylis glomerata,40,1,Alien,Grass,Graminoid
+L-126,FRAVIR,Fragaria virginiana,12,1,Native,Forb,Forb
+L-126,PHLPRA,Phleum pratense,40,1,Alien,Grass,Graminoid
+L-126,PLALAN,Plantago lanceolata,2,1,Alien,Forb,Forb
+LL-104,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+LL-104,ASTLAT,Aster lateriflorus ,5,1,Native,Forb,Forb
+LL-104,CIRLUC,Circaea lutetiana canadensis ,8,1,Native,Forb,Forb
+LL-104,EUPRUG,Eupatorium rugosum ,2,1,Native,Forb,Forb
+LL-104,GALIUM SP,Galium species,70,1,-,Forb,Forb
+LL-104,HACVIR,Hackelia virginiana ,4,1,Native,Forb,Forb
+LL-104,PARQUI,Parthenocissus quinquefolia ,15,1,Native,Woody vine,Woody
+LL-104,POLPVI,Polypodium virginianum,2,1,Native,Cryptogam,Forb
+LL-104,RHURAD,Rhus radicans ,5,1,Native,Woody vine,Woody
+LL-114,ALLPET,Alliaria petiolata  ,1,1,Alien,Forb,Forb
+LL-114,CIRLUC,Circaea lutetiana canadensis ,2,1,Native,Forb,Forb
+LL-114,FRAAMA,Fraxinus americana ,2,1,Native,Tree,Woody
+LL-114,RUBALL,Rubus allegheniensis ,5,1,Native,Shrub,Woody
+KK-116,MENCAN,Menispermum canadense  ,3,1,Native,Woody Vine,Woody
+KK-116,PARQUI,Parthenocissus quinquefolia ,50,1,Native,Woody vine,Woody
+KK-116,QUEALB,Quercus alba ,2,1,Native,Tree,Woody
+KK-116,RHURAD,Rhus radicans ,2,1,Native,Woody vine,Woody
+LL-119,ACENIG,Acer nigrum,15,1,Native,Tree,Woody
+LL-119,ALLPET,Alliaria petiolata,80,1,Alien,Forb,Forb
+LL-119,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+LL-119,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+LL-119,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+LL-119,RIBMIS,Ribes missouriense,2,1,Native,Shrub,Woody
+LL-122,CAREX SP,Carex species,20,1,-,Sedge,Graminoid
+LL-122,CHEALB,Chenopodium album,5,1,Alien,Forb,Forb
+LL-122,GEUCAN,Geum canadense,10,1,Native,Forb,Forb
+LL-122,PHAARU,Phalaris arundinacea,10,1,Alien,Grass,Graminoid
+LL-122,POLGVI,Polygonum virginianum,10,1,Native,Forb,Forb
+LL-122,RANHIS,Ranunculus hispidus,2,1,Native,Forb,Forb
+LL-122,SOLANUM SP,Solanum species,10,1,-,-,-
+LL-122,VIOLA SP,Viola species,5,1,-,Forb,Forb
+LL-123,PHAARU,Phalaris arundinacea,100,1,Alien,Grass,Graminoid
+LL-128,ALLPET,Alliaria petiolata ,1,1,Alien,Forb,Forb
+LL-128,LONTAT,Lonicera tatarica,5,1,Alien,Shrub,Woody
+LL-128,ULMRUB,Ulmus rubra,1,1,Native,Tree,Woody
+LL-133,FRAAMA,Fraxinus americana,10,1,Native,Tree,Woody
+LL-133,PARQUI,Parthenocissus quinquefolia,70,1,Native,Woody vine,Woody
+LL-135,FRAAMA,Fraxinus americana,15,1,Native,Tree,Woody
+LL-135,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+LL-135,PARQUI,Parthenocissus quinquefolia,12,1,Native,Woody vine,Woody
+LL-141,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+LL-141,GEUCAN,Geum canadense,10,1,Native,Forb,Forb
+LL-141,HYDCAS,Hydrastis canadensis,2,1,Native,Forb,Forb
+LL-141,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+LL-141,PRUVIR,Prunus virginiana,4,1,Native,Shrub,Woody
+LL-141,SMILACINA SP,Smilacina species,3,1,-,Forb,Forb
+LL-84,ACENIG,Acer nigrum,2,1,Native,Tree,Woody
+LL-84,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+LL-84,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+LL-84,EUOALA,Euonymus alatus,3,1,Alien,Shrub,Woody
+LL-84,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+LL-84,ULMAME,Ulmus americana,3,1,Native,Tree,Woody
+LL-90,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+LL-90,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+LL-90,IMPPAL,Impatiens pallida,5,1,Native,Forb,Forb
+LL-90,OSMCLI,Osmunda claytoniana,2,1,Native,Cryptogam,Forb
+LL-90,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+LL-90,PILPUM,Pilea pumila,18,1,Native,Forb,Forb
+LL-90,PRUSER,Prunus serotina,2,1,Native,Tree,Woody
+LL-90,VIBREC,Viburnum recognitum,3,1,Alien,Shrub,Woody
+LL-90,VIOLA SP,Viola species,5,1,-,Forb,Forb
+LL-93,ALLPET,Alliaria petiolata,20,1,Alien,Forb,Forb
+LL-93,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+LL-93,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+LL-93,LONMAA,Lonicera maackii,10,1,Alien,Shrub,Woody
+LL-93,OSMCLI,Osmunda claytoniana,4,1,Native,Cryptogam,Forb
+LL-93,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+LL-93,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+M-118,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+M-118,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+M-118,PRUVIR,Prunus virginiana,15,1,Native,Shrub,Woody
+M-118,RHURAD,Rhus radicans,15,1,Native,Woody vine,Woody
+M-126,DACGLO,Dactylis glomerata,50,1,Alien,Grass,Graminoid
+M-126,PHLPRA,Phleum pratense,50,1,Alien,Grass,Graminoid
+M-126,RHACAT,Rhamnus cathartica,2,1,Alien,Understory tree,Woody
+M-134,ALLPET,Alliaria petiolata ,14,1,Alien,Forb,Forb
+M-134,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+M-137,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+M-137,RHURAD,Rhus radicans,4,1,Native,Woody vine,Woody
+MM-102,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+MM-102,ASTLAT,Aster lateriflorus,2,1,Native,Forb,Forb
+MM-102,CIRVUL,Cirsium vulgare,3,1,Alien,Forb,Forb
+MM-102,DACGLO,Dactylis glomerata,2,1,Alien,Grass,Graminoid
+MM-102,DAUCAR,Daucus carota,2,1,Alien,Forb,Forb
+MM-102,GALIUM SP,Galium species,5,1,-,Forb,Forb
+MM-102,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+MM-102,OXASTR,Oxalis stricta,2,1,Native,Forb,Forb
+MM-102,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+MM-102,POAPRA,Poa pratensis,2,1,Alien,Grass,Graminoid
+MM-102,RHACAT,Rhamnus cathartica,10,1,Alien,Understory tree,Woody
+MM-102,RHURAD,Rhus radicans,2,1,Native,Woody vine,Woody
+MM-102,SOLCAN,Solidago canadensis,8,1,Native,Forb,Forb
+MM-102,TRIHYB,Trifolium hybridum,2,1,Alien,Forb,Forb
+MM-102,VIOPUB,Viola pubescens,1,1,Native,Forb,Forb
+MM-108,AGRGRY,Agrimonia gryposepala,5,1,Native,Forb,Forb
+MM-108,ASTER SP,Aster species,2,1,-,Forb,Forb
+MM-108,DACGLO,Dactylis glomerata,5,1,Alien,Grass,Graminoid
+MM-108,FESELA,Festuca elatior,2,1,Alien,Grass,Graminoid
+MM-108,GLEHED,Glechoma hederacea,2,1,Alien,Forb,Forb
+MM-108,PHLPRA,Phleum pratense,5,1,Alien,Grass,Graminoid
+MM-108,POAPRA,Poa pratensis,70,1,Alien,Grass,Graminoid
+MM-108,POTNOV,Potentilla norvegica ,2,1,Native,Forb,Forb
+MM-108,TAROFF,Taraxacum officinale,2,1,Alien,Forb,Forb
+LL-110,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+LL-110,ARITRI,Arisaema triphyllum,10,1,Native,Forb,Forb
+LL-110,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+LL-110,HACVIR,Hackelia virginiana,5,1,Native,Forb,Forb
+LL-110,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+LL-110,RHURAD,Rhus radicans,5,1,Native,Woody vine,Woody
+LL-110,SMIRAC,Smilacina racemosa,5,1,Native,Forb,Forb
+MM-114,ALLPET,Alliaria petiolata ,3,1,Alien,Forb,Forb
+MM-114,CIRLUC,Circaea lutetiana canadensis ,3,1,Native,Forb,Forb
+MM-114,FRAAMA,Fraxinus americana ,5,1,Native,Tree,Woody
+MM-114,LONMAA,Lonicera maackii ,15,1,Alien,Shrub,Woody
+MM-114,RHACAT,Rhamnus cathartica ,3,1,Alien,Understory tree,Woody
+MM-94,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+MM-94,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+MM-94,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+MM-94,EUPRUG,Eupatorium rugosum,15,1,Native,Forb,Forb
+MM-94,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+MM-94,IMPPAL,Impatiens pallida,2,1,Native,Forb,Forb
+MM-94,LONMAA,Lonicera maackii,35,1,Alien,Shrub,Woody
+MM-94,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+MM-94,SOLCAN,Solidago canadensis,5,1,Native,Forb,Forb
+MM-94,VITRIP,Vitis riparia,6,1,Native,Woody vine,Woody
+MM-97,HYSPAT,Hystrix patula,10,1,Native,Grass,Graminoid
+MM-97,LACCAN,Lactuca canadensis,3,1,Native,Forb,Forb
+MM-97,LONMAA,Lonicera maackii,4,1,Alien,Shrub,Woody
+MM-97,PARQUI,Parthenocissus quinquefolia,13,1,Native,Woody vine,Woody
+MM-97,POTNOR,Potentilla norvegica,8,1,Native,Forb,Forb
+MM-97,RHURAD,Rhus radicans,10,1,Native,Woody vine,Woody
+MM-97,RUBALL,Rubus allegheniensis,15,1,Native,Shrub,Woody
+MM-97,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+MM-97,SOLIDAGO SP,Solidago species,10,1,-,Forb,Forb
+N-110,FRAAMA,Fraxinus americana,1,1,Native,Tree,Woody
+N-110,GERMAC,Geranium maculatum,15,1,Native,Forb,Forb
+N-110,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+N-110,THADIO,Thalictrum dioicum,1,1,Native,Forb,Forb
+N-113,ACENIG,Acer nigrum,1,1,Native,Tree,Woody
+N-113,FRAAMA,Fraxinus americana,7,1,Native,Tree,Woody
+N-113,GERMAC,Geranium maculatum,5,1,Native,Forb,Forb
+N-115,ACENIG,Acer nigrum,3,1,Native,Tree,Woody
+N-115,RHACAT,Rhamnus cathartica,20,1,Alien,Understory tree,Woody
+N-116,PODPEL,Podophyllum peltatum,6,1,Native,Forb,Forb
+N-116,SANCAD,Sanguinaria canadensis,2,1,Native,Forb,Forb
+N-116,SOLFLE,Solidago flexicaulis,8,1,Native,Forb,Forb
+N-123,FRAAMA,Fraxinus americana,8,1,Native,Tree,Woody
+N-128,ASTER SP,Aster species,8,1,-,Forb,Forb
+N-128,DACGLO,Dactylis glomerata,35,1,Alien,Grass,Graminoid
+N-128,FESTUCA SP,Festuca species,10,1,-,Grass,Graminoid
+N-128,OXASTR,Oxalis stricta,6,1,Native,Forb,Forb
+N-128,POAPRA,Poa pratensis,25,1,Alien,Grass,Graminoid
+N-128,POTSIS,Potentilla simplex,3,1,Native,Forb,Forb
+N-128,RHURAD,Rhus radicans,4,1,Native,Woody vine,Woody
+N-142,CORRAC,Cornus racemosa,2,1,Native,Shrub,Woody
+N-142,MONFIS,Monarda fistulosa,5,1,Native,Forb,Forb
+N-142,POAPRA,Poa pratensis ,10,1,Alien,Grass,Graminoid
+N-142,RHACAT,Rhamnus cathartica,70,1,Alien,Understory tree,Woody
+N-142,ROSMUL,Rosa multiflora ,8,1,Alien,Shrub,Woody
+N-142,RUBOCC,Rubus occidentalis,1,1,Native,Shrub,Woody
+N-142,SOLCAN,Solidago canadensis,12,1,Native,Forb,Forb
+N-144,FORB SP,Forb species,10,1,-,Forb,Forb
+N-144,MONFIS,Monarda fistulosa,35,1,Native,Forb,Forb
+N-144,POAPRA,Poa pratensis ,17,1,Alien,Grass,Graminoid
+N-144,RHACAT,Rhamnus cathartica,25,1,Alien,Understory tree,Woody
+N-144,SILINI,Silphium integrifolium,8,1,Native,Forb,Forb
+N-144,SORNUT,Sorghastrum nutans,20,1,Native,Grass,Graminoid
+NN-100,ALLPET,Alliaria petiolata,20,1,Alien,Forb,Forb
+NN-100,CAMAME,Campanula americana,5,1,Native,Forb,Forb
+NN-100,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+NN-100,EUPRUG,Eupatorium rugosum,20,1,Native,Forb,Forb
+NN-100,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+NN-100,LONMAA,Lonicera maackii,40,1,Alien,Shrub,Woody
+NN-100,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+NN-100,POLPVI,Polypodium virginianum,3,1,Native,Cryptogam,Forb
+NN-105,CIRARV,Cirsium arvense,2,1,Alien,Forb,Forb
+NN-105,FESELA,Festuca elatior,5,1,Alien,Grass,Graminoid
+NN-105,MELLOF,Melilotus officinalis,70,1,Alien,Forb,Forb
+NN-105,POAPRA,Poa pratensis,80,1,Alien,Grass,Graminoid
+NN-105,POTREC,Potentilla recta,8,1,Alien,Forb,Forb
+NN-105,TRIHYB,Trifolium hybridum,2,1,Alien,Forb,Forb
+NN-114,PARQUI,Parthenocissus quinquefolia ,5,1,Native,Woody vine,Woody
+NN-114,RHACAT,Rhamnus cathartica ,3,1,Alien,Understory tree,Woody
+NN-114,RHURAD,Rhus radicans ,2,1,Native,Woody vine,Woody
+OO-116,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+NN-118,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+NN-118,CIRLUC,Circaea lutetiana canadensis,15,1,Native,Forb,Forb
+NN-118,LONMAA,Lonicera maackii ,4,1,Alien,Shrub,Woody
+NN-118,PARQUI,Parthenocissus quinquefolia,70,1,Native,Woody vine,Woody
+NN-126,ANEVIR,Anemone virginiana,1,1,Native,Forb,Forb
+NN-126,CHRLEP,Chrysanthemum leucanthemum pinnatifidum,2,1,Alien,Forb,Forb
+NN-126,CRATAEGUS SP,Crataegus species,2,1,-,Tree,Woody
+NN-126,DAUCAR,Daucus carota,2,1,Alien,Forb,Forb
+NN-126,LONMAA,Lonicera maackii ,10,1,Alien,Shrub,Woody
+NN-126,MELLOF,Melilotus officinalis ,1,1,Alien,Forb,Forb
+NN-126,PANICUM SP,Panicum species,4,1,-,Grass,Graminoid
+NN-126,PLALAN,Plantago lanceolata,2,1,Alien,Forb,Forb
+NN-126,POAPRA,Poa pratensis,90,1,Alien,Grass,Graminoid
+NN-126,RHURAD,Rhus radicans,8,1,Native,Woody vine,Woody
+NN-126,VITRIP,Vitis riparia,8,1,Native,Woody vine,Woody
+NN-136,ALLPET,Alliaria petiolata ,1,1,Alien,Forb,Forb
+NN-136,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+NN-136,GERMAC,Geranium maculatum,10,1,Native,Forb,Forb
+NN-136,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+NN-136,UNIDENTIFIED SP,Unidentified species,1,1,-,-,-
+NN-136,UNIDENTIFIED SP,Unidentified species,1,1,-,-,-
+NN-140,GEUCAN,Geum canadense,3,1,Native,Forb,Forb
+NN-140,PARQUI,Parthenocissus quinquefolia,12,1,Native,Woody vine,Woody
+NN-140,RIBMIS,Ribes missouriense,6,1,Native,Shrub,Woody
+NN-145,FRAAMA,Fraxinus americana,3,1,Native,Tree,Woody
+NN-145,GEUCAN,Geum canadense,6,1,Native,Forb,Forb
+NN-145,PARQUI,Parthenocissus quinquefolia,12,1,Native,Woody vine,Woody
+NN-145,SMILACINA SP,Smilacina species,8,1,-,Forb,Forb
+NN-146,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+NN-146,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+NN-146,PRUVIR,Prunus virginiana,1,1,Native,Shrub,Woody
+NN-146,RHACAT,Rhamnus cathartica ,1,1,Alien,Understory tree,Woody
+NN-89,ALLPET,Alliaria petiolata,15,1,Alien,Forb,Forb
+NN-89,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+NN-89,CXBLAN,Carex blanda,2,1,Native,Sedge,Graminoid
+NN-89,EUPRUG,Eupatorium rugosum,18,1,Native,Forb,Forb
+NN-89,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+NN-89,QUERUB,Quercus rubra,3,1,Native,Tree,Woody
+NN-89,VIOLA SP,Viola species,8,1,-,Forb,Forb
+NN-91,ALLPET,Alliaria petiolata,20,1,Alien,Forb,Forb
+NN-91,ARITRI,Arisaema triphyllum,4,1,Native,Forb,Forb
+NN-91,BIDCER,Bidens cernua,6,1,Native,Forb,Forb
+NN-91,CAMAME,Campanula americana,8,1,Native,Forb,Forb
+NN-91,HACVIR,Hackelia virginiana,2,1,Native,Forb,Forb
+NN-91,LONICERA SP,Lonicera species,2,1,-,Shrub,Woody
+NN-91,LONMAA,Lonicera maackii,25,1,Alien,Shrub,Woody
+NN-91,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+NN-91,RUBALL,Rubus allegheniensis,4,1,Native,Shrub,Woody
+NN-91,VIOLA SP,Viola species,8,1,-,Forb,Forb
+NN-97,CIRARV,Cirsium arvense,2,1,Alien,Forb,Forb
+NN-97,GALIUM SP,Galium species,4,1,-,Forb,Forb
+NN-97,LONICERA SP,Lonicera species,2,1,-,Shrub,Woody
+NN-97,LONMAA,Lonicera maackii,5,1,Alien,Shrub,Woody
+NN-97,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+NN-97,RUBALL,Rubus allegheniensis,25,1,Native,Shrub,Woody
+NN-97,SOLGRG,Solidago graminifolia,17,1,Native,Forb,Forb
+O-105,THADIO,Thalictrum dioicum,2,1,Native,Forb,Forb
+O-108,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+O-108,FRAAMA,Fraxinus americana,1,1,Native,Tree,Woody
+O-108,PRUVIR,Prunus virginiana,15,1,Native,Shrub,Woody
+O-108,RANHIS,Ranunculus hispidus,1,1,Native,Forb,Forb
+O-109,ACENIG,Acer nigrum,1,1,Native,Tree,Woody
+O-109,FRAAMA,Fraxinus americana,4,1,Native,Tree,Woody
+O-109,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+O-109,ULMAME,Ulmus americana,1,1,Native,Tree,Woody
+O-121,ACENIG,Acer nigrum,8,1,Native,Tree,Woody
+O-121,UVUSES,Uvularia sessilifolia,2,1,Native,Forb,Forb
+O-131,FRAAMA,Fraxinus americana,3,1,Native,Tree,Woody
+O-131,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+O-135,ALLPET,Alliaria petiolata ,4,1,Alien,Forb,Forb
+O-136,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+O-136,ARCMIN,Arctium minus ,6,1,Alien,Forb,Forb
+O-136,ASTLAT,Aster lateriflorus,3,1,Native,Forb,Forb
+O-136,BIDFRO,Bidens frondosa,4,1,Native,Forb,Forb
+O-136,CAMAME,Campanula americana,2,1,Native,Forb,Forb
+O-136,CAREX SP,Carex species,20,1,-,Sedge,Graminoid
+O-136,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+O-136,EUPRUG,Eupatorium rugosum,8,1,Native,Forb,Forb
+O-136,FRAVIR,Fragaria virginiana,1,1,Native,Forb,Forb
+O-136,OXASTR,Oxalis stricta,1,1,Native,Forb,Forb
+O-136,PILPUM,Pilea pumila,1,1,Native,Forb,Forb
+O-136,PLARUG,Plantago rugelii,1,1,Native,Forb,Forb
+O-136,POLGVI,Polygonum virginianum,3,1,Native,Forb,Forb
+O-136,RHURAD,Rhus radicans,8,1,Native,Woody vine,Woody
+O-136,SOLCAN,Solidago canadensis,4,1,Native,Forb,Forb
+O-136,VIOLA SP,Viola species,1,1,-,Forb,Forb
+OO-100,AQUCAN,Aquilegia canadensis,4,1,Native,Forb,Forb
+OO-100,ASTLAT,Aster lateriflorus,4,1,Native,Forb,Forb
+OO-100,CELSCA,Celastrus scandens,5,1,Native,Woody vine,Woody
+OO-100,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+OO-100,EUPRUG,Eupatorium rugosum,10,1,Native,Forb,Forb
+OO-100,GALIUM SP,Galium species,5,1,-,Forb,Forb
+OO-100,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+OO-100,HACVIR,Hackelia virginiana,2,1,Native,Forb,Forb
+OO-100,LONMAA,Lonicera maackii,2,1,Alien,Shrub,Woody
+OO-100,OXASTR,Oxalis stricta,2,1,Native,Forb,Forb
+OO-100,POLPVI,Polypodium virginianum,2,1,Native,Cryptogam,Forb
+OO-100,RANABO,Ranunculus abortivus,2,1,Native,Forb,Forb
+OO-100,RHURAD,Rhus radicans,2,1,Native,Woody vine,Woody
+OO-100,SOLCAN,Solidago canadensis,5,1,Native,Forb,Forb
+OO-100,TAROFF,Taraxacum officinale,2,1,Alien,Forb,Forb
+OO-100,TILAME,Tilia americana,3,1,Native,Tree,Woody
+OO-100,VIOPUB,Viola pubescens,2,1,Native,Forb,Forb
+OO-101,ARITRI,Arisaema triphyllum,5,1,Native,Forb,Forb
+OO-101,CELSCA,Celastrus scandens,5,1,Native,Woody vine,Woody
+OO-101,CIRLUC,Circaea lutetiana canadensis,8,1,Native,Forb,Forb
+OO-101,CXHIRT,Carex hirtifolia,5,1,Native,Sedge,Graminoid
+OO-101,EUPRUG,Eupatorium rugosum,8,1,Native,Forb,Forb
+OO-101,GALIUM SP,Galium species,8,1,-,Forb,Forb
+OO-101,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+OO-101,HACVIR,Hackelia virginiana,2,1,Native,Forb,Forb
+OO-101,PARQUI,Parthenocissus quinquefolia,40,1,Native,Woody vine,Woody
+OO-101,RUBOCC,Rubus occidentalis,5,1,Native,Shrub,Woody
+OO-103,BROINE,Bromus inermis ,2,1,Alien,Grass,Graminoid
+OO-103,CORRAC,Cornus racemosa ,10,1,Native,Shrub,Woody
+OO-103,FESELA,Festuca elatior ,5,1,Alien,Grass,Graminoid
+OO-103,POAPRA,Poa pratensis ,75,1,Alien,Grass,Graminoid
+OO-103,RUBALL,Rubus allegheniensis ,15,1,Native,Shrub,Woody
+OO-103,SORNUT,Sorghastrum nutans ,3,1,Native,Grass,Graminoid
+OO-110,ACARHO,Acalypha rhomboidea,2,1,Native,Forb,Forb
+OO-110,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+OO-110,EPICOL,Epilobium coloratum  ,5,1,Native,Forb,Forb
+OO-110,ERICAN,Erigeron canadensis ,2,1,Native,Forb,Forb
+OO-110,GALIUM SP,Galium species,2,1,-,Forb,Forb
+OO-110,GEUCAN,Geum canadense ,5,1,Native,Forb,Forb
+OO-110,HACVIR,Hackelia virginiana ,3,1,Native,Forb,Forb
+OO-110,LONMAA,Lonicera maackii ,5,1,Alien,Shrub,Woody
+OO-110,PLALAN,Plantago lanceolata ,2,1,Alien,Forb,Forb
+OO-110,POLLAP,Polygonum lapathifolium ,70,1,Native,Forb,Forb
+OO-110,PRUVUV,Prunella vulgaris  ,5,1,Alien,Forb,Forb
+OO-110,SOLGIG,Solidago gigantea ,2,1,Native,Forb,Forb
+OO-110,TRIPRA,Trifolium pratense ,2,1,Alien,Forb,Forb
+NN-110,ALLPET,Alliaria petiolata ,5,1,Alien,Forb,Forb
+NN-110,CELSCA,Celastrus scandens ,25,1,Native,Woody vine,Woody
+NN-110,PRUSER,Prunus serotina ,2,1,Native,Tree,Woody
+NN-110,RHACAT,Rhamnus cathartica ,10,1,Alien,Understory tree,Woody
+OO-122,PHAARU,Phalaris arundinacea,100,1,Alien,Grass,Graminoid
+OO-129,QUEALB,Quercus alba,3,1,Native,Tree,Woody
+OO-130,ALLPET,Alliaria petiolata ,5,1,Alien,Forb,Forb
+OO-130,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+OO-130,LONMAA,Lonicera maackii ,1,1,Alien,Shrub,Woody
+OO-146,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+OO-146,FRAAMA,Fraxinus americana,1,1,Native,Tree,Woody
+OO-146,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+OO-146,GLEHED,Glechoma hederacea,2,1,Alien,Forb,Forb
+OO-146,OXASTR,Oxalis stricta,3,1,Native,Forb,Forb
+OO-146,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+OO-146,RHACAT,Rhamnus cathartica,4,1,Alien,Understory tree,Woody
+OO-146,RHURAD,Rhus radicans,6,1,Native,Woody vine,Woody
+OO-146,SEDGE SP,Sedge species,8,1,-,Sedge,Graminoid
+OO-146,ULMRUB,Ulmus rubra,1,1,Native,Tree,Woody
+OO-95,EUPRUG,Eupatorium rugosum,5,1,Native,Forb,Forb
+OO-95,PARQUI,Parthenocissus quinquefolia,35,1,Native,Woody vine,Woody
+OO-95,RIBES SP,Ribes species,15,1,-,Shrub,Woody
+OO-95,RUBALL,Rubus allegheniensis,12,1,Native,Shrub,Woody
+OO-95,SOLGRG,Solidago graminifolia,20,1,Native,Forb,Forb
+P-107,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+P-107,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+P-107,UNIDENTIFIED SP,Unidentified species,1,1,-,Tree,Woody
+O-112,ACENIG,Acer nigrum,4,1,Native,Tree,Woody
+O-112,FRAAMA,Fraxinus americana,1,1,Native,Tree,Woody
+P-124,ACENIG,Acer nigrum,5,1,Native,Tree,Woody
+P-124,ALLTRT,Allium tricoccum,1,1,Native,Forb,Forb
+P-124,DIOVIL,Dioscorea villosa,2,1,Native,Herbaceous Vine,Forb
+P-124,GERMAC,Geranium maculatum,20,1,Native,Forb,Forb
+P-124,RIBMIS,Ribes missouriense,2,1,Native,Shrub,Woody
+P-124,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+P-126,CIRLUC,Circaea lutetiana canadensis ,10,1,Native,Forb,Forb
+P-126,SOLFLE,Solidago flexicaulis  ,10,1,Native,Forb,Forb
+P-138,CIRARV,Cirsium arvense ,3,1,Alien,Forb,Forb
+P-138,CORVAR,Coronilla varia ,10,1,Alien,Forb,Forb
+P-138,PHAARU,Phalaris arundinacea,95,1,Alien,Grass,Graminoid
+P-95,CXTRIB,Carex tribuloides,6,1,Native,Sedge,Graminoid
+P-95,SHRUB SP,Shrub species,1,1,-,Shrub,Woody
+P-95,VIBREC,Viburnum recognitum,20,1,Alien,Shrub,Woody
+PP-101,BROINE,Bromus inermis,20,1,Alien,Grass,Graminoid
+PP-101,CRATAEGUS SP,Crataegus species,8,1,-,Tree,Woody
+PP-101,MELLOF,Melilotus officinalis,70,1,Alien,Forb,Forb
+PP-101,POAPRA,Poa pratensis,2,1,Alien,Grass,Graminoid
+PP-101,RHACAT,Rhamnus cathartica,5,1,Alien,Understory tree,Woody
+PP-102,BROINE,Bromus inermis,25,1,Alien,Grass,Graminoid
+PP-102,CORRAC,Cornus racemosa,3,1,Native,Shrub,Woody
+PP-102,POAPRA,Poa pratensis,70,1,Alien,Grass,Graminoid
+PP-102,POTREC,Potentilla recta,2,1,Alien,Forb,Forb
+PP-102,PRUAME,Prunus americana,25,1,Native,Tree,Woody
+PP-102,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+PP-107,BROINE,Bromus inermis,20,1,Alien,Grass,Graminoid
+PP-107,CONARV,Convolvulus arvensis,2,1,Alien,Forb,Forb
+PP-107,LONTAT,Lonicera tatarica,2,1,Alien,Shrub,Woody
+PP-107,PHYSALIS SP,Physalis species,2,1,-,Forb,Forb
+PP-107,POAPRA,Poa pratensis,40,1,Alien,Grass,Graminoid
+PP-107,POTREC,Potentilla recta,2,1,Alien,Forb,Forb
+PP-107,PRUAME,Prunus americana,40,1,Native,Tree,Woody
+PP-107,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+PP-107,ROSE SP,Rosa species,25,1,-,Shrub,Woody
+PP-117,CIRARV,Cirsium arvense ,3,1,Alien,Forb,Forb
+PP-117,FRAPES,Fraxinus pennsylvanica subintegerrima,5,1,Native,Tree,Woody
+PP-117,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+PP-117,POAPRA,Poa pratensis ,20,1,Alien,Grass,Graminoid
+PP-117,RHURAD,Rhus radicans,65,1,Native,Woody vine,Woody
+PP-122,PHAARU,Phalaris arundinacea,100,1,Alien,Grass,Graminoid
+PP-124,ALLPET,Alliaria petiolata ,3,1,Alien,Forb,Forb
+PP-124,CAREX SP,Carex species,1,1,-,Sedge,Graminoid
+PP-124,GEUCAN,Geum canadense,3,1,Native,Forb,Forb
+PP-124,LONMAA,Lonicera maackii ,15,1,Alien,Shrub,Woody
+PP-124,PARQUI,Parthenocissus quinquefolia,6,1,Native,Woody vine,Woody
+PP-128,ALLPET,Alliaria petiolata ,1,1,Alien,Forb,Forb
+PP-128,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+PP-128,GEUCAN,Geum canadense,5,1,Native,Forb,Forb
+PP-128,LONMAA,Lonicera maackii ,10,1,Alien,Shrub,Woody
+PP-128,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+PP-128,RHACAT,Rhamnus cathartica,5,1,Alien,Understory tree,Woody
+PP-128,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody
+PP-128,VIOLA SP,Viola species,1,1,-,Forb,Forb
+PP-132,NONE,NONE,-,,-,-,-
+PP-134,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+PP-134,ARITRI,Arisaema triphyllum,4,1,Native,Forb,Forb
+PP-134,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+PP-134,PARQUI,Parthenocissus quinquefolia,70,1,Native,Woody vine,Woody
+PP-135,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+PP-135,FRAPES,Fraxinus pennsylvanica subintegerrima,1,1,Native,Tree,Woody
+PP-135,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+PP-135,LONMAA,Lonicera maackii,1,1,Alien,Shrub,Woody
+PP-137,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+PP-137,VIBURNUM SP,Viburnum species,7,1,-,Shrub,Woody
+PP-137,VIBURNUM SP,Viburnum species,15,1,-,Shrub,Woody
+PP-143,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+PP-143,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+PP-143,SMILACINA SP,Smilacina species,3,1,-,Forb,Forb
+PP-146,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+PP-146,ARITRI,Arisaema triphyllum,8,1,Native,Forb,Forb
+PP-146,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+PP-146,RIBMIS,Ribes missouriense,6,1,Native,Shrub,Woody
+PP-146,SMILACINA SP,Smilacina species,20,1,-,Forb,Forb
+PP-92,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+PP-92,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+PP-92,EUPRUG,Eupatorium rugosum,15,1,Native,Forb,Forb
+PP-92,GRASS SP,Grass species,20,1,-,Grass,Graminoid
+PP-92,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+PP-92,PILPUM,Pilea pumila,25,1,Native,Forb,Forb
+PP-92,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+PP-92,SHRUB SP,Shrub species,2,1,-,Shrub,Woody
+PP-92,SOLIDAGO SP,Solidago species,4,1,-,Forb,Forb
+PP-92,UNIDENTIFIED SP,Unidentified species,3,1,-,-,-
+PP-92,VINE SP,Vine species,1,1,-,Woody vine,Woody
+Q-110,ACENIG,Acer nigrum,5,1,Native,Tree,Woody
+Q-110,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+Q-110,CXBLAN,Carex blanda,3,1,Native,Sedge,Graminoid
+Q-110,IMPCAP,Impatiens capensis,25,1,Native,Forb,Forb
+Q-110,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+Q-110,RHURAD,Rhus radicans,2,1,Native,Woody vine,Woody
+Q-120,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+Q-120,LONPRO,Lonicera prolifera,1,1,Native,Shrub,Woody
+Q-120,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+Q-120,SOLULM,Solidago ulmifolia,1,1,Native,Forb,Forb
+Q-122,ACENIG,Acer nigrum,1,1,Native,Tree,Woody
+Q-122,GERMAC,Geranium maculatum,10,1,Native,Forb,Forb
+Q-122,HYSPAT,Hystrix patula,5,1,Native,Grass,Graminoid
+Q-122,SMIRAC,Smilacina racemosa,1,1,Native,Forb,Forb
+Q-122,ULMAME,Ulmus americana,5,1,Native,Tree,Woody
+Q-127,ACENIG,Acer nigrum,15,1,Native,Tree,Woody
+Q-127,ALLPET,Alliaria petiolata,8,1,Alien,Forb,Forb
+Q-127,PARQUI,Parthenocissus quinquefolia,6,1,Native,Woody vine,Woody
+Q-129,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+Q-129,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+Q-129,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+Q-132,ACENIG,Acer nigrum,1,1,Native,Tree,Woody
+Q-132,LONMAA,Lonicera maackii ,15,1,Alien,Shrub,Woody
+Q-132,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+Q-132,SOLIDAGO SP,Solidago species,4,1,-,Forb,Forb
+Q-135,ALLPET,Alliaria petiolata ,20,1,Alien,Forb,Forb
+Q-135,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+Q-135,LONMAA,Lonicera maackii ,30,1,Alien,Shrub,Woody
+Q-96,PARQUI,Parthenocissus quinquefolia,35,1,Native,Woody vine,Woody
+Q-96,PRUVIR,Prunus virginiana,30,1,Native,Shrub,Woody
+Q-96,RHURAD,Rhus radicans,8,1,Native,Woody vine,Woody
+QQ-107,ASCVER,Asclepias verticillata,2,1,Native,Forb,Forb
+QQ-107,BROINE,Bromus inermis,5,1,Alien,Grass,Graminoid
+QQ-107,CONARV,Convolvulus arvensis,4,1,Alien,Forb,Forb
+QQ-107,MELLOF,Melilotus officinalis,2,1,Alien,Forb,Forb
+QQ-107,PHYSALIS SP,Physalis species,2,1,-,Forb,Forb
+QQ-107,POAPRA,Poa pratensis,70,1,Alien,Grass,Graminoid
+QQ-111,CELSCA,Celastrus scandens ,3,1,Native,Woody vine,Woody
+QQ-111,SMIRAC,Smilacina racemosa ,5,1,Native,Forb,Forb
+QQ-111,VIBURNUM SP,Viburnum species,3,1,-,Shrub,Woody
+QQ-121,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+QQ-121,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+QQ-121,DAUCAR,Daucus carota,12,1,Alien,Forb,Forb
+QQ-121,DIPSYL,Dipsacus sylvestris,15,1,Alien,Forb,Forb
+QQ-121,PHAARU,Phalaris arundinacea,20,1,Alien,Grass,Graminoid
+QQ-121,POAPRA,Poa pratensis,15,1,Alien,Grass,Graminoid
+QQ-121,SOLCAN,Solidago canadensis,5,1,Native,Forb,Forb
+QQ-121,TRIHYB,Trifolium hybridum,5,1,Alien,Forb,Forb
+QQ-131,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+QQ-131,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+QQ-131,LONMAA,Lonicera maackii,1,1,Alien,Shrub,Woody
+QQ-131,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+QQ-131,POA SP,Poa species,2,1,-,Grass,Graminoid
+QQ-131,POTNOR,Potentilla norvegica,3,1,Native,Forb,Forb
+QQ-131,RANUNCULUS SP,Ranunculus species,1,1,-,Forb,Forb
+QQ-131,VIOLA SP,Viola species,5,1,-,Forb,Forb
+QQ-131,VITRIP,Vitis riparia,1,1,Native,Woody vine,Woody
+QQ-132,LONMAA,Lonicera maackii ,1,1,Alien,Shrub,Woody
+QQ-133,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+QQ-133,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+QQ-133,LONMAA,Lonicera maackii,1,1,Alien,Shrub,Woody
+QQ-133,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+QQ-133,UNIDENTIFIED SP,Unidentified species,1,1,-,-,-
+QQ-139,CXPENS,Carex pensylvanica,7,1,Native,Sedge,Graminoid
+QQ-139,EUOALA,Euonymus alatus ,6,1,Alien,Shrub,Woody
+QQ-139,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+QQ-139,POLCAL,Polygonatum canaliculatum,8,1,Native,Forb,Forb
+QQ-139,ULMAME,Ulmus americana,2,1,Native,Tree,Woody
+QQ-140,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+QQ-140,POLCAL,Polygonatum canaliculatum,8,1,Native,Forb,Forb
+QQ-140,RHURAD,Rhus radicans,3,1,Native,Woody vine,Woody 
+QQ-140,RIBMIS,Ribes missouriense,6,1,Native,Shrub,Woody
+QQ-146,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+QQ-146,FRAAMA,Fraxinus americana,3,1,Native,Tree,Woody
+QQ-146,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+PP-96,ALLPET,Alliaria petiolata,8,1,Alien,Forb,Forb
+PP-96,CAMAME,Campanula americana,6,1,Native,Forb,Forb
+PP-96,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+PP-96,LONMAA,Lonicera maackii,2,1,Alien,Shrub,Woody
+PP-96,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+PP-96,PHYAME,Phytolacca americana,8,1,Native,Forb,Forb
+PP-96,RIBES SP,Ribes species,2,1,-,Shrub,Woody
+PP-96,RUBALL,Rubus allegheniensis,10,1,Native,Shrub,Woody
+PP-96,SOLULM,Solidago ulmifolia,2,1,Native,Forb,Forb
+R-109,ACENIG,Acer nigrum,4,1,Native,Tree,Woody
+R-109,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+R-109,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+R-109,IMPCAP,Impatiens capensis,20,1,Native,Forb,Forb
+R-109,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+R-109,POLGVI,Polygonum virginianum,2,1,Native,Forb,Forb
+R-113,ACENIG,Acer nigrum,4,1,Native,Tree,Woody
+R-113,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+R-116,ACENIG,Acer nigrum,4,1,Native,Tree,Woody
+R-116,ALLTRT,Allium tricoccum,2,1,Native,Forb,Forb
+R-116,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+R-128,ACENIG,Acer nigrum,15,1,Native,Tree,Woody
+R-128,PARQUI,Parthenocissus quinquefolia,70,1,Native,Woody vine,Woody
+R-75,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+R-75,CAREX SP,Carex species,1,1,-,Sedge,Graminoid
+R-75,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+R-75,EUPRUG,Eupatorium rugosum,10,1,Native,Forb,Forb
+R-75,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+R-75,PARQUI,Parthenocissus quinquefolia,80,1,Native,Woody vine,Woody
+R-75,THADIO,Thalictrum dioicum,2,1,Native,Forb,Forb
+R-79,ACARHO,Acalypha rhomboidea,1,1,Native,Forb,Forb
+R-79,AGROSTIS SP,Agrostis species,1,1,-,Grass,Graminoid
+R-79,BARVUL,Barbarea vulgaris,1,1,Alien,Forb,Forb
+R-79,CIRARV,Cirsium arvense,6,1,Alien,Forb,Forb
+R-79,CONSEP,Convolvulus sepium,3,1,Native,Forb,Forb
+R-79,GALOBT,Galium obtusum,2,1,Native,Forb,Forb
+R-79,GEUCAN,Geum canadense,3,1,Native,Forb,Forb
+R-79,IMPCAP,Impatiens capensis,2,1,Native,Forb,Forb
+R-79,JUNDUD,Juncus dudleyi,60,1,Native,Forb,Forb
+R-79,LYCAME,Lycopus americanus,2,1,Native,Forb,Forb
+R-79,OXAEUR,Oxalis europaea,1,1,Native,Forb,Forb
+R-79,PANIMP,Panicum implicatum,3,1,Native,Grass,Graminoid
+R-79,POTNOR,Potentilla norvegica,1,1,Native,Forb,Forb
+R-79,RHACAT,Rhamnus cathartica,4,1,Alien,Understory tree,Woody
+R-79,ROSMUL,Rosa multiflora,1,1,Alien,Shrub,Woody
+R-83,CERCAN,Cercis canadensis,1,1,Native,Tree,Woody
+R-83,CIRVUL,Cirsium vulgare,1,1,Alien,Forb,Forb
+R-83,CXBLAN,Carex blanda,2,1,Native,Sedge,Graminoid
+R-83,DAUCAR,Daucus carota,2,1,Alien,Forb,Forb
+R-83,EREHIE,Erechtites hieracifolia,1,1,Native,Forb,Forb
+R-83,ERICAN,Erigeron canadensis,1,1,Native,Forb,Forb
+R-83,ERISTR,Erigeron strigosus,5,1,Native,Forb,Forb
+R-83,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+R-83,HACVIR,Hackelia virginiana,2,1,Native,Forb,Forb
+R-83,LONTAT,Lonicera tatarica,1,1,Alien,Shrub,Woody
+R-83,OXASTR,Oxalis stricta,3,1,Native,Forb,Forb
+R-83,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+R-83,RHACAT,Rhamnus cathartica,1,1,Alien,Understory tree,Woody
+R-83,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+R-83,STATRI,Staphylea trifolia,1,1,Native,Shrub,Woody
+R-83,TAROFF,Taraxacum officinale,1,1,Alien,Forb,Forb
+R-83,VIBURNUM SP,Viburnum species,1,1,-,Shrub,Woody
+R-86,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+R-86,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+R-86,CORRAC,Cornus racemosa,4,1,Native,Shrub,Woody
+R-86,GERMAC,Geranium maculatum,6,1,Native,Forb,Forb
+R-86,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+RR-107,AGRREP,Agropyron repens ,10,1,Alien,Grass,Graminoid
+RR-107,BROINE,Bromus inermis ,60,1,Alien,Grass,Graminoid
+RR-107,CONARV,Convolvulus arvensis ,3,1,Alien,Forb,Forb
+RR-107,PARQUI,Parthenocissus quinquefolia ,3,1,Native,Woody vine,Woody
+RR-107,PHYVIG,Physalis virginiana  ,2,1,Native,Forb,Forb
+RR-107,POAPRA,Poa pratensis ,5,1,Alien,Grass,Graminoid
+RR-107,RUBALL,Rubus allegheniensis ,20,1,Native,Shrub,Woody
+RR-113,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+RR-113,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+RR-113,CRATAEGUS SP,Crataegus species,2,1,-,Tree,Woody
+RR-113,FRAAMA,Fraxinus americana,2,1,Native,Tree,Woody
+RR-113,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+RR-113,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+RR-116,PHAARU,Phalaris arundinacea,100,1,Alien,Grass,Graminoid
+RR-126,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+RR-126,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+RR-126,PARQUI,Parthenocissus quinquefolia,60,1,Native,Woody vine,Woody
+RR-126,RANUNCULUS SP,Ranunculus species,1,1,-,Forb,Forb
+RR-127,LONMAA,Lonicera maackii ,4,1,Alien,Shrub,Woody
+RR-128,ASTER SP,Aster species,2,1,-,Forb,Forb
+RR-128,LONMAA,Lonicera maackii,80,1,Alien,Shrub,Woody
+RR-128,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+RR-128,POAPRA,Poa pratensis,1,1,Alien,Grass,Graminoid
+RR-128,RHACAT,Rhamnus cathartica,10,1,Alien,Understory tree,Woody
+RR-128,RUBALL,Rubus allegheniensis,1,1,Native,Shrub,Woody
+RR-128,TAROFF,Taraxacum officinale,2,1,Alien,Forb,Forb
+RR-129,LONMAA,Lonicera maackii ,20,1,Alien,Shrub,Woody
+RR-131,LONMAA,Lonicera maackii ,1,1,Alien,Shrub,Woody
+RR-134,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+RR-134,OXASTR,Oxalis stricta,2,1,Native,Forb,Forb
+RR-134,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+RR-134,RHACAT,Rhamnus cathartica,15,1,Alien,Understory tree,Woody
+RR-134,RHURAD,Rhus radicans,15,1,Native,Woody vine,Woody
+RR-134,TILAME,Tilia americana,20,1,Native,Tree,Woody
+RR-138,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+RR-139,GERMAC,Geranium maculatum,3,1,Native,Forb,Forb
+RR-139,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+RR-139,POLCAL,Polygonatum canaliculatum,5,1,Native,Forb,Forb
+RR-142,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+RR-142,PARQUI,Parthenocissus quinquefolia,55,1,Native,Woody vine,Woody
+RR-142,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+RR-95,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+RR-95,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+RR-95,CAMAME,Campanula americana,4,1,Native,Forb,Forb
+RR-95,EUPRUG,Eupatorium rugosum,6,1,Native,Forb,Forb
+RR-95,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+RR-95,LONMAA,Lonicera maackii,4,1,Alien,Shrub,Woody
+RR-95,RUBALL,Rubus allegheniensis,12,1,Native,Shrub,Woody
+RR-95,SMIRAC,Smilacina racemosa,10,1,Native,Forb,Forb
+RR-95,SOLGRG,Solidago graminifolia,2,1,Native,Forb,Forb
+S-105,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+S-105,POPDEL,Populus deltoides,6,1,Native,Tree,Woody
+S-111,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+S-111,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+S-111,IMPCAP,Impatiens capensis,2,1,Native,Forb,Forb
+S-126,ALLPET,Alliaria petiolata,8,1,Alien,Forb,Forb
+S-126,IMPCAP,Impatiens capensis,4,1,Native,Forb,Forb
+S-126,PARQUI,Parthenocissus quinquefolia,55,1,Native,Woody vine,Woody
+S-126,RHURAD,Rhus radicans,30,1,Native,Woody vine,Woody
+S-134,ACENIG,Acer nigrum,3,1,Native,Tree,Woody
+S-134,ALLPET,Alliaria petiolata ,3,1,Alien,Forb,Forb
+S-134,FRAAMA,Fraxinus americana,10,1,Native,Tree,Woody
+S-134,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+S-134,PILPUM,Pilea pumila,8,1,Native,Forb,Forb
+U-70,ASTLAT,Aster lateriflorus,2,1,Native,Forb,Forb
+U-70,CIRLUC,Circaea lutetiana canadensis,15,1,Native,Forb,Forb
+U-70,DACGLO,Dactylis glomerata,15,1,Alien,Grass,Graminoid
+U-70,EUPRUG,Eupatorium rugosum,40,1,Native,Forb,Forb
+U-70,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+U-70,OXASTR,Oxalis stricta,1,1,Native,Forb,Forb
+U-70,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+U-70,PRUVLA,Prunella vulgaris lanceolata,5,1,Native,Forb,Forb
+U-70,QUEALB,Quercus alba,1,1,Native,Tree,Woody
+U-70,RHACAT,Rhamnus cathartica,10,1,Alien,Understory tree,Woody
+U-70,TAROFF,Taraxacum officinale,2,1,Alien,Forb,Forb
+U-70,VIBRAF,Viburnum rafinesquianum,2,1,Native,Shrub,Woody
+T-70,ASTLAT,Aster lateriflorus,15,1,Native,Forb,Forb
+T-70,ASTSAD,Aster sagittifolius drummondii,8,1,Native,Forb,Forb
+T-70,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+T-70,CORRAC,Cornus racemosa,20,1,Native,Shrub,Woody
+T-70,EUPRUG,Eupatorium rugosum,4,1,Native,Forb,Forb
+T-70,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+T-70,LACFLO,Lactuca floridana,2,1,Native,Forb,Forb
+T-70,OXAEUR,Oxalis europaea,2,1,Native,Forb,Forb
+T-70,POAPRA,Poa pratensis,3,1,Alien,Grass,Graminoid
+T-70,POTSIS,Potentilla simplex,3,1,Native,Forb,Forb
+T-70,SMIRAC,Smilacina racemosa,12,1,Native,Forb,Forb
+T-70,SOLCAN,Solidago canadensis,20,1,Native,Forb,Forb
+S-70,ASTLAT,Aster lateriflorus,6,1,Native,Forb,Forb
+S-70,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+S-70,CORRAC,Cornus racemosa,15,1,Native,Shrub,Woody
+S-70,PARQUI,Parthenocissus quinquefolia,70,1,Native,Woody vine,Woody
+S-70,ROSMUL,Rosa multiflora,60,1,Alien,Shrub,Woody
+S-70,VIBOPU,Viburnum opulus,10,1,Alien,Shrub,Woody
+S-70,VIBURNUM SP,Viburnum species,4,1,-,Shrub,Woody
+S-72,PARQUI,Parthenocissus quinquefolia,40,1,Native,Woody vine,Woody
+S-72,RHACAT,Rhamnus cathartica,2,1,Alien,Understory tree,Woody
+S-72,RHURAD,Rhus radicans,40,1,Native,Woody vine,Woody
+S-72,VIBOPU,Viburnum opulus,4,1,Alien,Shrub,Woody
+S-72,VIBPRU,Viburnum prunifolium,4,1,Native,Shrub,Woody
+S-72,VIBURNUM SP,Viburnum species,3,1,-,Shrub,Woody
+S-75,ACENIG,Acer nigrum,2,1,Native,Tree,Woody
+S-75,CIRLUC,Circaea lutetiana canadensis,15,1,Native,Forb,Forb
+S-75,EUPRUG,Eupatorium rugosum,3,1,Native,Forb,Forb
+S-75,QUEALB,Quercus alba,1,1,Native,Tree,Woody
+S-75,RHACAT,Rhamnus cathartica,3,1,Alien,Understory tree,Woody
+S-75,RUBOCC,Rubus occidentalis,15,1,Native,Shrub,Woody
+S-75,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+S-75,SOLCAN,Solidago canadensis,3,1,Native,Forb,Forb
+S-75,THADIO,Thalictrum dioicum,20,1,Native,Forb,Forb
+S-75,VIBURNUM SP,Viburnum species,10,1,-,Shrub,Woody
+S-75,VITRIP,Vitis riparia,25,1,Native,Woody vine,Woody
+S-86,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+S-86,CORRAC,Cornus racemosa,1,1,Native,Shrub,Woody
+S-86,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+S-86,OSTVIR,Ostrya virginiana,2,1,Native,Tree,Woody
+S-86,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+S-86,VITRIP,Vitis riparia,1,1,Native,Woody vine,Woody
+S-97,ARITRI,Arisaema triphyllum,4,1,Native,Forb,Forb
+S-97,CRATAEGUS SP,Crataegus species,6,1,-,Tree,Woody
+S-97,FRAXINUS SP,Fraxinus species,1,1,-,Tree,Woody
+S-97,GERMAC,Geranium maculatum,30,1,Native,Forb,Forb
+S-97,LONPRO,Lonicera prolifera,8,1,Native,Shrub,Woody
+S-97,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+RR-99,DACGLO,Dactylis glomerata,10,1,Alien,Grass,Graminoid
+RR-99,PHYVIG,Physalis virginiana  ,2,1,Native,Forb,Forb
+RR-99,POAPRA,Poa pratensis,75,1,Alien,Grass,Graminoid
+RR-99,PRUAME,Prunus americana,5,1,Native,Tree,Woody
+RR-99,VITRIP,Vitis riparia,10,1,Native,Woody vine,Woody
+SS-104,BROINE,Bromus inermis,2,1,Alien,Grass,Graminoid
+SS-104,CHRLEP,Chrysanthemum leucanthemum pinnatifidum,5,1,Alien,Forb,Forb
+SS-104,CORRAC,Cornus racemosa,60,1,Native,Shrub,Woody
+SS-104,DAUCAR,Daucus carota,2,1,Alien,Forb,Forb
+SS-104,ERIANS,Erigeron annuus,2,1,Native,Forb,Forb
+SS-104,MELLOF,Melilotus officinalis,10,1,Alien,Forb,Forb
+SS-104,OXASTR,Oxalis stricta,2,1,Native,Forb,Forb
+SS-104,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+SS-104,POAPRA,Poa pratensis,25,1,Alien,Grass,Graminoid
+SS-104,POTREC,Potentilla recta,5,1,Alien,Forb,Forb
+SS-104,RUBALL,Rubus allegheniensis,5,1,Native,Shrub,Woody
+SS-105,BROINE,Bromus inermis,4,1,Alien,Grass,Graminoid
+SS-105,CHRLEP,Chrysanthemum leucanthemum pinnatifidum,2,1,Alien,Forb,Forb
+SS-105,CORRAC,Cornus racemosa,40,1,Native,Shrub,Woody
+SS-105,DAUCAR,Daucus carota,2,1,Alien,Forb,Forb
+SS-105,MELLOF,Melilotus officinalis,20,1,Alien,Forb,Forb
+SS-105,PHYSALIS SP,Physalis species,2,1,-,Forb,Forb
+SS-105,POAPRA,Poa pratensis,20,1,Alien,Grass,Graminoid
+SS-105,PRUAME,Prunus americana,10,1,Native,Tree,Woody
+SS-105,SOLCAN,Solidago canadensis,2,1,Native,Forb,Forb
+SS-105,TRIPRA,Trifolium pratense,2,1,Alien,Forb,Forb
+SS-109,ANDGER,Andropogon gerardii,40,1,Native,Grass,Graminoid
+SS-109,DAUCAR,Daucus carota,2,1,Alien,Forb,Forb
+SS-109,MELLOF,Melilotus officinalis,5,1,Alien,Forb,Forb
+SS-109,POAPRA,Poa pratensis,60,1,Alien,Grass,Graminoid
+SS-109,POTREC,Potentilla recta,2,1,Alien,Forb,Forb
+SS-109,PRUAME,Prunus americana,10,1,Native,Tree,Woody
+SS-109,SOLCAN,Solidago canadensis,2,1,Native,Forb,Forb
+SS-113,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+SS-113,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+SS-113,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+SS-113,PARQUI,Parthenocissus quinquefolia,40,1,Native,Woody vine,Woody
+SS-113,RHACAT,Rhamnus cathartica,2,1,Alien,Understory tree,Woody
+SS-130,ALLPET,Alliaria petiolata ,45,1,Alien,Forb,Forb
+SS-130,LONMAA,Lonicera maackii ,15,1,Alien,Shrub,Woody
+SS-136,PARQUI,Parthenocissus quinquefolia,30,1,Native,Woody vine,Woody
+SS-141,ACENEG,Acer negundo,2,1,Native,Tree,Woody
+SS-141,BERTHU,Berberis thunbergii ,10,1,Alien,Shrub,Woody
+SS-141,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+SS-142,ALLPET,Alliaria petiolata ,4,1,Alien,Forb,Forb
+SS-142,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+SS-142,CRATAEGUS SP,Crataegus species,1,1,-,Tree,Woody
+SS-142,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+T-114,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+T-122,ACENIG,Acer nigrum,8,1,Native,Tree,Woody
+T-122,CARCOR,Carya cordiformis,10,1,Native,Tree,Woody
+T-122,FRAAMA,Fraxinus americana,1,1,Native,Tree,Woody
+T-122,GERMAC,Geranium maculatum,8,1,Native,Forb,Forb
+T-122,HYDVIR,Hydrophyllum virginianum,4,1,Native,Forb,Forb
+T-122,IMPPAL,Impatiens pallida,2,1,Native,Forb,Forb
+T-122,QUERUB,Quercus rubra,1,1,Native,Tree,Woody
+T-122,SMIRAC,Smilacina racemosa,10,1,Native,Forb,Forb
+T-122,SOLFLE,Solidago flexicaulis,12,1,Native,Forb,Forb
+T-127,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+T-127,ASIMINA SP,Asimina species,2,1,-,Tree,Woody
+T-127,FRAXINUS SEEDLING,Fraxinus seedling,1,1,Native,Tree,Woody
+T-127,GERMAC,Geranium maculatum,5,1,Native,Forb,Forb
+T-127,HYDVIR,Hydrophyllum virginianum,2,1,Native,Forb,Forb
+T-127,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+T-127,UNIDENTIFIED SP,Unidentified species-3-leaved,2,1,-,Forb,Forb
+T-132,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+T-132,ULMAME,Ulmus americana,80,1,Native,Tree,Woody
+T-147,AGRREP,Agropyron repens,6,1,Alien,Grass,Graminoid
+T-147,CORVAR,Coronilla varia ,35,1,Alien,Forb,Forb
+T-147,RHAMNUS SP,Rhamnus species,75,1,-,Understory tree,Woody
+T-74,ALLCAN,Allium canadense,2,1,Native,Forb,Forb
+T-74,ALLPET,Alliaria petiolata,15,1,Alien,Forb,Forb
+T-74,GERMAC,Geranium maculatum,3,1,Native,Forb,Forb
+T-74,PARQUI,Parthenocissus quinquefolia,90,1,Native,Woody vine,Woody
+T-74,VITRIP,Vitis riparia,2,1,Native,Woody vine,Woody
+T-75,ASTLAT,Aster lateriflorus,2,1,Native,Forb,Forb
+T-75,EUPRUG,Eupatorium rugosum,80,1,Native,Forb,Forb
+T-75,PARQUI,Parthenocissus quinquefolia,6,1,Native,Woody vine,Woody
+T-77,ACENIG,Acer nigrum,1,1,Native,Tree,Woody
+T-77,ALLPET,Alliaria petiolata ,12,1,Alien,Forb,Forb
+T-77,CIRLUC,Circaea lutetiana canadensis,8,1,Native,Forb,Forb
+T-77,PARQUI,Parthenocissus quinquefolia,70,1,Native,Woody vine,Woody
+T-77,VIBOPU,Viburnum opulus,2,1,Alien,Shrub,Woody
+T-77,VIBRAF,Viburnum rafinesquianum,3,1,Native,Shrub,Woody
+T-84,ACARHO,Acalypha rhomboidea,1,1,Native,Forb,Forb
+T-84,CHEALB,Chenopodium album ,1,1,Alien,Forb,Forb
+T-84,CIRARV,Cirsium arvense,2,1,Alien,Forb,Forb
+T-84,ERICAN,Erigeron canadensis,2,1,Native,Forb,Forb
+T-84,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+T-84,HACVIR,Hackelia virginiana,5,1,Native,Forb,Forb
+T-84,UNIDENTIFIED SP,Unidentified species,1,1,-,Forb,Forb
+T-84,PANIMP,Panicum implicatum,1,1,Native,Grass,Graminoid
+T-84,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+T-84,POLYGONUM SP,Polygonum species,1,1,-,Forb,Forb
+T-84,RHACAT,Rhamnus cathartica ,3,1,Alien,Understory tree,Woody
+T-84,SOLCAN,Solidago canadensis,1,1,Native,Forb,Forb
+T-84,SOLIDAGO SP,Solidago species,1,1,-,Forb,Forb
+T-84,TAROFF,Taraxacum officinale,2,1,Alien,Forb,Forb
+T-84,VITRIP,Vitis riparia,1,1,Native,Woody vine,Woody
+T-88,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+T-88,GERMAC,Geranium maculatum,4,1,Native,Forb,Forb
+T-88,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+S-92,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+S-92,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+S-92,FRAPES,Fraxinus pennsylvanica subintegerrima,2,1,Native,Tree,Woody
+S-92,IMPPAL,Impatiens pallida,12,1,Native,Forb,Forb
+S-92,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+S-92,SAMCAN,Sambucus canadensis,1,1,Native,Shrub,Woody
+S-92,VIBREC,Viburnum recognitum,15,1,Alien,Shrub,Woody
+SS-102,BARVUL,Barbarea vulgaris,3,1,Alien,Forb,Forb
+SS-102,BROINE,Bromus inermis,2,1,Alien,Grass,Graminoid
+SS-102,CIRARV,Cirsium arvense,2,1,Alien,Forb,Forb
+SS-102,MELLOF,Melilotus officinalis,20,1,Alien,Forb,Forb
+SS-102,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+SS-102,POAPRA,Poa pratensis,25,1,Alien,Grass,Graminoid
+SS-102,POTREC,Potentilla recta,1,1,Alien,Forb,Forb
+SS-102,RUBALL,Rubus allegheniensis,20,1,Native,Shrub,Woody
+SS-106,BROINE,Bromus inermis,10,1,Alien,Grass,Graminoid
+SS-106,CHRLEP,Chrysanthemum leucanthemum pinnatifidum,2,1,Alien,Forb,Forb
+SS-106,DAUCAR,Daucus carota,2,1,Alien,Forb,Forb
+SS-106,MELLOF,Melilotus officinalis,,1,Alien,Forb,Forb
+SS-106,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+SS-106,PHYSALIS SP,Physalis species,2,1,-,Forb,Forb
+SS-106,POAPRA,Poa pratensis,25,1,Alien,Grass,Graminoid
+SS-106,PRUAME,Prunus americana,5,1,Native,Tree,Woody
+SS-106,ROSMUL,Rosa multiflora,40,1,Alien,Shrub,Woody
+SS-106,ULMAME,Ulmus americana,3,1,Native,Tree,Woody
+TT-110,ALLPET,Alliaria petiolata,4,1,Alien,Forb,Forb
+TT-110,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+TT-110,LONMAA,Lonicera maackii,2,1,Alien,Shrub,Woody
+TT-110,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+TT-110,RHACAT,Rhamnus cathartica,60,1,Alien,Understory tree,Woody
+TT-110,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+TT-119,ANECAR,Anemone caroliniana,2,1,Native,Forb,Forb
+TT-119,ASTER SP,Aster species,3,1,-,Forb,Forb
+TT-119,CIRARV,Cirsium arvense,1,1,Alien,Forb,Forb
+TT-119,CXVULP,Carex vulpinoidea,12,1,Native,Sedge,Graminoid
+TT-119,DAUCAR,Daucus carota,5,1,Alien,Forb,Forb
+TT-119,PASSAT,Pastinaca sativa,2,1,Alien,Forb,Forb
+TT-119,PHAARU,Phalaris arundinacea,8,1,Alien,Grass,Graminoid
+TT-119,POAPRA,Poa pratensis,40,1,Alien,Grass,Graminoid
+TT-119,SOLCAN,Solidago canadensis,7,1,Native,Forb,Forb
+TT-119,VIOLA SP,Viola species,1,1,-,Forb,Forb
+TT-121,ALLPET,Alliaria petiolata ,4,1,Alien,Forb,Forb
+TT-121,CAREX SP,Carex species,4,1,-,Sedge,Graminoid
+TT-121,FRAVIR,Fragaria virginiana,1,1,Native,Forb,Forb
+TT-121,HYDVIR,Hydrophyllum virginianum,5,1,Native,Forb,Forb
+TT-121,PHAARU,Phalaris arundinacea,65,1,Alien,Grass,Graminoid
+TT-121,RHACAT,Rhamnus cathartica,8,1,Alien,Understory tree,Woody
+TT-121,RHURAD,Rhus radicans,8,1,Native,Woody vine,Woody
+TT-121,VIOLA SP,Viola species,6,1,-,Forb,Forb
+TT-129,LONMAA,Lonicera maackii ,1,1,Alien,Shrub,Woody
+TT-129,RHACAT,Rhamnus carthartica,1,1,Alien,Understory tree,Woody
+TT-130,LONMAA,Lonicera maackii ,70,1,Alien,Shrub,Woody
+TT-130,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+TT-131,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+TT-132,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+TT-132,FRAAMA,Fraxinus americana,1,1,Native,Tree,Woody
+TT-132,LONMAA,Lonicera maackii ,12,1,Alien,Shrub,Woody
+TT-132,PODPEL,Podophyllum peltatum,4,1,Native,Forb,Forb
+TT-133,CIRLUC,Circaea lutetiana canadensis,6,1,Native,Forb,Forb
+TT-133,PARQUI,Parthenocissus quinquefolia,55,1,Native,Woody vine,Woody
+TT-133,RHACAT,Rhamnus cathartica,8,1,Alien,Understory tree,Woody
+TT-137,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+TT-137,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+TT-137,SMIRAC,Smilacina racemosa,4,1,Native,Forb,Forb
+TT-140,PARQUI,Parthenocissus quinquefolia,60,1,Native,Woody vine,Woody
+TT-140,ROSMUL,Rosa multiflora,10,1,Alien,Shrub,Woody
+TT-143,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+TT-143,IMPCAP,Impatiens capensis,80,1,Native,Forb,Forb
+TT-145,PARQUI,Parthenocissus quinquefolia,40,1,Native,Woody vine,Woody
+TT-145,RIBMIS,Ribes missouriense,15,1,Native,Shrub,Woody
+TT-145,RUBOCC,Rubus occidentalis,20,1,Native,Shrub,Woody
+TT-145,SMIRAC,Smilacina racemosa,1,1,Native,Forb,Forb
+U-107,ACENIG,Acer nigrum,2,1,Native,Tree,Woody
+U-107,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+U-107,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+U-107,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+U-107,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+U-107,IMPCAP,Impatiens capensis,1,1,Native,Forb,Forb
+U-107,PARQUI,Parthenocissus quinquefolia,12,1,Native,Woody vine,Woody
+U-107,RHURAD,Rhus radicans,8,1,Native,Woody vine,Woody
+U-110,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+U-110,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+U-110,CIRLUC,Circaea lutetiana canadensis,15,1,Native,Forb,Forb
+U-110,CXBLAN,Carex blanda,1,1,Native,Sedge,Graminoid
+U-110,GERMAC,Geranium maculatum,15,1,Native,Forb,Forb
+U-110,IMPCAP,Impatiens capensis,5,1,Native,Forb,Forb
+U-111,ACENIG,Acer nigrum,5,1,Native,Tree,Woody
+U-111,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+U-111,GERMAC,Geranium maculatum,10,1,Native,Forb,Forb
+U-125,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+U-125,ASTER SP,Aster species,2,1,-,Forb,Forb
+U-125,ASTLAT,Aster lateriflorus,1,1,Native,Forb,Forb
+U-125,GERMAC,Geranium maculatum,8,1,Native,Forb,Forb
+U-125,HYDVIR,Hydrophyllum virginianum,3,1,Native,Forb,Forb
+U-125,SOLIDAGO SP,Solidago species,8,1,-,Forb,Forb
+U-125,THADIO,Thalictrum dioicum,2,1,Native,Forb,Forb
+U-125,TILAME,Tilia americana,8,1,Native,Tree,Woody
+U-125,UNIDENTIFIED FORB,Unidentified forb,6,1,-,Forb,Forb
+U-130,ACENIG,Acer nigrum,15,1,Native,Tree,Woody
+U-134,ALLPET,Alliaria petiolata ,1,1,Alien,Forb,Forb
+U-74,ACENIG,Acer nigrum,1,1,Native,Tree,Woody
+U-74,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+U-74,CIRLUC,Circaea lutetiana canadensis,12,1,Native,Forb,Forb
+U-74,GEUCAN,Geum canadense,2,1,Native,Forb,Forb
+U-74,PARQUI,Parthenocissus quinquefolia,95,1,Native,Woody vine,Woody
+U-74,POLGVI,Polygonum virginianum,4,1,Native,Forb,Forb
+U-74,POTSIS,Potentilla simplex,25,1,Native,Forb,Forb
+U-74,SMIRAC,Smilacina racemosa,6,1,Native,Forb,Forb
+U-74,TAROFF,Taraxacum officinale,2,1,Alien,Forb,Forb
+V-95,ALLCER,Allium cernuum,1,1,Native,Forb,Forb
+V-95,ALLPET,Alliaria petiolata ,1,1,Alien,Forb,Forb
+V-95,ANETHA,Anemonella thalictroides,2,1,Native,Forb,Forb
+V-95,ARITRI,Arisaema triphyllum,3,1,Native,Forb,Forb
+V-95,ASTER SP,Aster species,5,1,-,Forb,Forb
+V-95,CAREX SP,Carex species,4,1,-,Sedge,Graminoid
+V-95,CXHIRT,Carex hirtifolia,10,1,Native,Sedge,Graminoid
+V-95,DACGLO,Dactylis glomerata ,40,1,Alien,Grass,Graminoid
+V-95,EUOATR,Euonymus atropurpureus,2,1,Native,Shrub,Woody
+V-95,FESTUCA SP,Festuca species,30,1,-,Grass,Graminoid
+V-95,GALIUM SP,Galium species,2,1,-,Forb,Forb
+V-95,GEUCAN,Geum canadense,6,1,Native,Forb,Forb
+V-95,LONMAA,Lonicera maackii ,8,1,Alien,Shrub,Woody
+V-95,OXASTR,Oxalis stricta,1,1,Native,Forb,Forb
+V-95,POAPRA,Poa pratensis ,4,1,Alien,Grass,Graminoid
+V-95,POLCAL,Polygonatum canaliculatum,4,1,Native,Forb,Forb
+V-95,POLREP,Polemonium reptans,2,1,Native,Forb,Forb
+V-95,POTSIS,Potentilla simplex,6,1,Native,Forb,Forb
+V-95,SOLIDAGO SP,Solidago species,15,1,-,Forb,Forb
+V-95,VIOLA SP,Viola species,10,1,-,Forb,Forb
+U-95,AGRIMONIA SP,Agrimonia species,3,1,-,Grass,Graminoid
+U-95,CERCAN,Cercis canadensis,10,1,Native,Tree,Woody
+U-95,CIRLUC,Circaea lutetiana canadensis,6,1,Native,Forb,Forb
+U-95,CXHIRT,Carex hirtifolia,2,1,Native,Sedge,Graminoid
+U-95,EUPRUG,Eupatorium rugosum,15,1,Native,Forb,Forb
+U-95,FRAPES,Fraxinus pennsylvanica subintegerrima,2,1,Native,Tree,Woody
+U-95,LONMAA,Lonicera maackii ,12,1,Alien,Shrub,Woody
+U-95,OSMLON,Osmorhiza longistylis,3,1,Native,Forb,Forb
+U-95,OXASTR,Oxalis stricta,4,1,Native,Forb,Forb
+U-95,RHAFRA,Rhamnus frangula ,8,1,Alien,Understory tree,Woody
+U-95,RHURAD,Rhus radicans,8,1,Native,Woody vine,Woody
+U-95,SMIRAC,Smilacina racemosa,10,1,Native,Forb,Forb
+U-95,VIBREC,Viburnum recognitum ,10,1,Alien,Shrub,Woody
+U-96,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+U-96,AMBARE,Ambrosia artemisiifolia elatior,3,1,Native,Forb,Forb
+U-96,FRAPES,Fraxinus pennsylvanica subintegerrima,2,1,Native,Tree,Woody
+U-96,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+U-96,POAPRA,Poa pratensis ,10,1,Alien,Grass,Graminoid
+U-96,QUEMAC,Quercus macrocarpa,1,1,Native,Tree,Woody
+U-96,TAROFF,Taraxacum officinale,4,1,Alien,Forb,Forb
+U-96,ULMAME,Ulmus americana,1,1,Native,Tree,Woody
+U-98,ARITRI,Arisaema triphyllum,4,1,Native,Forb,Forb
+U-98,BIDFRO,Bidens frondosa,1,1,Native,Forb,Forb
+U-98,IMPCAP,Impatiens capensis,15,1,Native,Forb,Forb
+U-98,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+U-98,POLGVI,Polygonum virginianum,2,1,Native,Forb,Forb
+U-98,RHACAT,Rhamnus cathartica,35,1,Alien,Understory tree,Woody
+UU-100,BROINE,Bromus inermis,10,1,Alien,Grass,Graminoid
+UU-100,CHRLEP,Chrysanthemum leucanthemum pinnatifidum,2,1,Alien,Forb,Forb
+UU-100,CONSEP,Convolvulus sepium,2,1,Native,Forb,Forb
+UU-100,CRATAEGUS SP,Crataegus species,5,1,-,Tree,Woody
+UU-100,MELLOF,Melilotus officinalis,25,,Alien,Forb,Forb
+UU-100,POAPRA,Poa pratensis,30,,Alien,Grass,Graminoid
+UU-100,PRUAME,Prunus americana,25,1,Native,Tree,Woody
+UU-100,PRUSER,Prunus serotina ,3,1,Native,Tree,Woody
+UU-100,VITRIP,Vitis riparia,5,1,Native,Woody vine,Woody
+UU-117,CIRARV,Cirsium arvense,25,1,Alien,Forb,Forb
+UU-117,CXBLAN,Carex blanda,2,1,Native,Sedge,Graminoid
+UU-117,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+UU-117,PASSAT,Pastinaca sativa,4,1,Alien,Forb,Forb
+UU-117,PHAARU,Phalaris arundinacea,5,1,Alien,Grass,Graminoid
+UU-117,POAPRA,Poa pratensis,50,1,Alien,Grass,Graminoid
+UU-121,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+UU-121,LONMAA,Lonicera maackii ,4,1,Alien,Shrub,Woody
+UU-125,ALLPET,Alliaria petiolata ,5,1,Alien,Forb,Forb
+UU-125,ASTLAT,Aster lateriflorus,1,1,Native,Forb,Forb
+UU-125,LONMAA,Lonicera maackii ,20,1,Alien,Shrub,Woody
+UU-125,SIUSUA,Sium suave,2,1,Native,Forb,Forb
+UU-129,ALLPET,Alliaria petiolata ,1,1,Alien,Forb,Forb
+UU-129,LONMAA,Lonicera maackii ,12,1,Alien,Shrub,Woody
+UU-129,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+UU-130,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+UU-130,ARITRI,Arisaema triphyllum,8,1,Native,Forb,Forb
+UU-130,CAREX SP,Carex species,1,1,-,Sedge,Graminoid
+UU-130,CIRLUC,Circaea lutetiana canadensis,15,1,Native,Forb,Forb
+UU-130,LONMAA,Lonicera maackii,75,1,Alien,Shrub,Woody
+UU-130,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+UU-130,RANHIS,Ranunculus hispidus,1,1,Native,Forb,Forb
+UU-132,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+UU-132,LONMAA,Lonicera maackii,2,1,Alien,Shrub,Woody
+UU-132,PARQUI,Parthenocissus quinquefolia,6,1,Native,Woody vine,Woody
+UU-132,RANHIS,Ranunculus hispidus,2,1,Native,Forb,Forb
+UU-132,SMIRAC,Smilacina racemosa,4,1,Native,Forb,Forb
+VV-109,ANDGER,Andropogon gerardii,20,1,Native,Grass,Graminoid
+VV-109,BROINE,Bromus inermis,5,1,Alien,Grass,Graminoid
+VV-109,CELSCA,Celastrus scandens,40,1,Native,Woody vine,Woody
+VV-109,ERIANS,Erigeron annuus ,2,1,Native,Forb,Forb
+VV-109,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+VV-109,PLALAN,Plantago lanceolata,10,1,Alien,Forb,Forb
+VV-109,POAPRA,Poa pratensis,50,1,Alien,Grass,Graminoid
+VV-109,POTREC,Potentilla recta,5,1,Alien,Forb,Forb
+VV-109,PRUSER,Prunus serotina,2,1,Native,Tree,Woody
+VV-109,VITRIP,Vitis riparia,5,1,Native,Woody vine,Woody
+VV-122,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+VV-133,ALLPET,Alliaria petiolata ,4,1,Alien,Forb,Forb
+VV-133,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+VV-133,CIRLUC,Circaea lutetiana canadensis,8,1,Native,Forb,Forb
+VV-133,FRAPES,Fraxinus pennsylvanica subintegerrima,1,1,Native,Tree,Woody
+VV-133,HYDVIR,Hydrophyllum virginianum,2,1,Native,Forb,Forb
+VV-133,LONMAA,Lonicera maackii ,60,1,Alien,Shrub,Woody
+VV-133,PARQUI,Parthenocissus quinquefolia,18,1,Native,Woody vine,Woody
+VV-133,RHURAD,Rhus radicans,2,1,Native,Woody vine,Woody
+VV-133,ULMAME,Ulmus americana,1,1,Native,Tree,Woody
+V-111,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+V-111,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+V-113,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+V-114,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+V-114,IMPCAP,Impatiens capensis,20,1,Native,Forb,Forb
+V-134,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+V-134,PILPUM,Pilea pumila,4,1,Native,Forb,Forb
+V-134,POLGVI,Polygonum virginianum,3,1,Native,Forb,Forb
+V-134,RHURAD,Rhus radicans,45,1,Native,Woody vine,Woody
+V-136,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+V-136,PARQUI,Parthenocissus quinquefolia,12,1,Native,Woody vine,Woody
+V-136,RHACAT,Rhamnus cathartica ,1,1,Alien,Understory tree,Woody
+V-136,VIBREC,Viburnum recognitum,7,1,Alien,Shrub,Woody
+V-73,BIDENS SP,Bidens species,1,1,-,Forb,Forb
+V-73,FESELA,Festuca elatior,15,1,Alien,Grass,Graminoid
+V-73,GEUCAN,Geum canadense,3,1,Native,Forb,Forb
+V-73,OXASTR,Oxalis stricta,2,1,Native,Forb,Forb
+V-73,PILPUM,Pilea pumila,3,1,Native,Forb,Forb
+V-73,POAPRA,Poa pratensis,60,1,Alien,Grass,Graminoid
+V-73,POLGVI,Polygonum virginianum,1,1,Native,Forb,Forb
+V-73,PRUVLA,Prunella vulgaris lanceolata,2,1,Native,Forb,Forb
+V-73,TAROFF,Taraxacum officinale,1,1,Alien,Forb,Forb
+V-73,TRIPRA,Trifolium pratense,10,1,Alien,Forb,Forb
+V-73,TRIREP,Trifolium repens,2,1,Alien,Forb,Forb
+V-73,ULMAME,Ulmus americana,3,1,Native,Tree,Woody
+V-73,VIOLA SP,Viola species,3,1,-,Forb,Forb
+V-76,ALLPET,Alliaria petiolata,30,1,Alien,Forb,Forb
+V-76,FRAAMA,Fraxinus americana,1,1,Native,Tree,Woody
+V-76,GERMAC,Geranium maculatum,5,1,Native,Forb,Forb
+V-76,GEUCAN,Geum canadense,5,1,Native,Forb,Forb
+V-76,IMPPAL,Impatiens pallida,10,1,Native,Forb,Forb
+V-76,POTSIS,Potentilla simplex,12,1,Native,Forb,Forb
+V-76,SMIRAC,Smilacina racemosa,8,1,Native,Forb,Forb
+V-84,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+V-84,GALTRF,Galium triflorum,1,1,Native,Forb,Forb
+V-84,LONTAT,Lonicera tatarica,1,1,Alien,Shrub,Woody
+V-84,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+V-84,QUEALB,Quercus alba,1,1,Native,Tree,Woody
+V-84,THADIO,Thalictrum dioicum,2,1,Native,Forb,Forb
+V-84,VITRIP,Vitis riparia,1,1,Native,Woody vine,Woody
+V-89,ALLPET,Alliaria petiolata,6,1,Alien,Forb,Forb
+V-89,ANETHA,Anemonella thalictroides,5,1,Native,Forb,Forb
+V-89,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+V-89,GERMAC,Geranium maculatum,10,1,Native,Forb,Forb
+V-89,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+V-89,PRUSER,Prunus serotina,1,1,Native,Tree,Woody
+V-89,VIBREC,Viburnum recognitum,2,1,Alien,Shrub,Woody
+WW-102,ACHMIL,Achillea millefolium,5,1,Alien,Forb,Forb
+WW-102,BROINE,Bromus inermis,60,1,Alien,Grass,Graminoid
+WW-102,MELLOF,Melilotus officinalis,10,1,Alien,Forb,Forb
+WW-102,POAPRA,Poa pratensis,10,1,Alien,Grass,Graminoid
+WW-102,POTREC,Potentilla recta,10,1,Alien,Forb,Forb
+WW-106,ACHMIL,Achillea millefolium,5,1,Alien,Forb,Forb
+WW-106,CHRLEP,Chrysanthemum leucanthemum pinnatifidum,2,1,Alien,Forb,Forb
+WW-106,CONARV,Convolvulus arvensis,2,1,Alien,Forb,Forb
+WW-106,CXBLAN,Carex blanda,2,1,Native,Sedge,Graminoid
+WW-106,DACGLO,Dactylis glomerata,5,1,Alien,Grass,Graminoid
+WW-106,FESELA,Festuca elatior,5,1,Alien,Grass,Graminoid
+WW-106,POAPRA,Poa pratensis,25,1,Alien,Grass,Graminoid
+WW-106,POTREC,Potentilla recta,5,1,Alien,Forb,Forb
+WW-106,PRUAME,Prunus americana,25,1,Native,Tree,Woody
+WW-106,RHACAT,Rhamnus cathartica,5,1,Alien,Understory tree,Woody
+WW-106,SOLCAN,Solidago canadensis,15,1,Native,Forb,Forb
+WW-106,VIOLA SP,Viola species,2,1,-,Forb,Forb
+WW-106,VITRIP,Vitis riparia,3,1,Native,Woody vine,Woody
+W-106,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+W-106,FRAAMA,Fraxinus americana,3,1,Native,Tree,Woody
+W-106,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+W-106,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+W-109,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+W-109,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+W-109,IMPCAP,Impatiens capensis,5,1,Native,Forb,Forb
+W-109,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+W-109,PILPUM,Pilea pumila,5,1,Native,Forb,Forb
+W-112,ACENIG,Acer nigrum,4,1,Native,Tree,Woody
+W-112,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+W-112,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+V-121,ALLPET,Alliaria petiolata,2,1,Alien,Forb,Forb
+V-121,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+V-121,CAUTHA,Caulophyllum thalictroides,4,1,Native,Forb,Forb
+V-121,FRAPES,Fraxinus pennsylvanica subintegerrima,1,1,Native,Tree,Woody
+V-121,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+V-121,SMIRAC,Smilacina racemosa,6,1,Native,Forb,Forb
+W-128,ALLPET,Alliaria petiolata,10,1,Alien,Forb,Forb
+W-128,FRAPES,Fraxinus pennsylvanica subintegerrima,2,1,Native,Tree,Woody
+W-128,SOLDUL,Solanum dulcamara ,8,1,Alien,Woody vine,Woody
+W-132,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+W-132,CARCOR,Carya cordiformis,10,1,Native,Tree,Woody
+W-132,PILPUM,Pilea pumila,1,1,Native,Forb,Forb
+W-136,ACTALT,Actinomeris alternifolia,25,1,Native,Forb,Forb
+W-136,ALLPET,Alliaria petiolata ,6,1,Alien,Forb,Forb
+W-136,EUPRUG,Eupatorium rugosum,6,1,Native,Forb,Forb
+W-136,GALAPA,Galium aparine,8,1,Native,Forb,Forb
+W-136,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+W-136,RHURAD,Rhus radicans,30,1,Native,Woody vine,Woody
+W-136,SMIRAC,Smilacina racemosa,10,1,Native,Forb,Forb
+W-136,VITRIP,Vitis riparia,10,1,Native,Woody vine,Woody
+W-137,EUPRUG,Eupatorium rugosum,5,1,Native,Forb,Forb
+W-137,FRAVIR,Fragaria virginiana,3,1,Native,Forb,Forb
+W-137,LONTAT,Lonicera tatarica,40,1,Alien,Shrub,Woody
+W-146,AGRREP,Agropyron repens,10,1,Alien,Grass,Graminoid
+W-146,BROINE,Bromis inermis,40,1,Alien,Grass,Graminoid
+W-146,CONVOLVULUS SP,Convolvulus species,4,1,-,Forb,Forb
+W-146,DAUCAR,Daucus carota,2,1,Alien,Forb,Forb
+W-146,FRAVIR,Fragaria virginiana,15,1,Native,Forb,Forb
+W-146,MONFIS,Monarda fistulosa,2,1,Native,Forb,Forb
+W-146,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+W-146,RHURAD,Rhus radicans,25,1,Native,Woody vine,Woody
+W-146,SOLCAN,Solidago canadensis,3,1,Native,Forb,Forb
+W-146,VIBURNUM SP,Viburnum species,7,1,-,Shrub,Woody
+W-71,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+W-71,PARQUI,Parthenocissus quinquefolia,65,1,Native,Woody vine,Woody
+W-71,QUEALB,Quercus alba,2,1,Native,Tree,Woody
+W-71,SMIRAC,Smilacina racemosa,40,1,Native,Forb,Forb
+W-71,UNIDENTIFIED SP,Unidentified species,50,1,-,-,-
+W-72,ALLPET,Alliaria petiolata,25,1,Alien,Forb,Forb
+W-72,ALLTRT,Allium tricoccum,2,1,Native,Forb,Forb
+W-72,CIRLUC,Circaea lutetiana canadensis,40,1,Native,Forb,Forb
+W-72,DACGLO,Dactylis glomerata,25,1,Alien,Grass,Graminoid
+W-72,EUONYMUS SP,Euonymus species,6,1,-,Shrub,Woody
+W-72,PARQUI,Parthenocissus quinquefolia,60,1,Native,Woody vine,Woody
+W-72,POLGVI,Polygonum virginianum,4,1,Native,Forb,Forb
+W-72,POTSIS,Potentilla simplex,40,1,Native,Forb,Forb
+W-87,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+W-87,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+W-87,CORRAC,Cornus racemosa,1,1,Native,Shrub,Woody
+W-87,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+W-87,PARQUI,Parthenocissus quinquefolia,40,1,Native,Woody vine,Woody
+W-87,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+W-87,SMITAH,Smilax tamnoides hispida,2,1,Native,Woody vine,Woody
+W-87,VIOLA SP,Viola species,2,1,-,Forb,Forb
+W-87,VITRIP,Vitis riparia,1,1,Native,Woody vine,Woody
+W-91,ALLPET,Alliaria petiolata,8,1,Alien,Forb,Forb
+W-91,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+W-91,PARQUI,Parthenocissus quinquefolia,35,1,Native,Woody vine,Woody
+W-95,ANEVIR,Anemone virginiana,8,1,Native,Forb,Forb
+W-95,ARUDIP,Aruncus dioicus pubescens,3,1,Native,Forb,Forb
+W-95,CRATAEGUS SP,Crataegus species,2,1,-,Tree,Woody
+W-95,CXHIRT,Carex hirtifolia,15,1,Native,Sedge,Graminoid
+W-95,DACGLO,Dactylis glomerata,60,1,Alien,Grass,Graminoid
+W-95,FESTUCA SP,Festuca species,10,1,-,Grass,Graminoid
+W-95,FRAVIR,Fragaria virginiana,5,1,Native,Forb,Forb
+W-95,GERMAC,Geranium maculatum,3,1,Native,Forb,Forb
+W-95,GEUCAN,Geum canadense,6,1,Native,Forb,Forb
+W-95,GLEHED,Glechoma hederacea,1,1,Alien,Forb,Forb
+W-95,LONMAA,Lonicera maackii ,1,1,Alien,Shrub,Woody
+W-95,PLALAN,Plantago lanceolata,6,1,Alien,Forb,Forb
+W-95,POTSIS,Potentilla simplex,8,1,Native,Forb,Forb
+W-95,QUEALB,Quercus alba,1,1,Native,Tree,Woody
+W-95,RHACAT,Rhamnus cathartica,12,1,Alien,Understory tree,Woody
+W-95,SMILAX SP,Smilax species,1,1,-,-,-
+W-95,SOLULM,Solidago ulmifolia,15,1,Native,Forb,Forb
+W-95,TAROFF,Taraxacum officinale,2,1,Alien,Forb,Forb
+W-95,TRIPRA,Trifolium pratense,6,1,Alien,Forb,Forb
+W-95,VIBREC,Viburnum recognitum,3,1,Alien,Shrub,Woody
+W-95,VIOLA SP,Viola species,3,1,-,Forb,Forb
+WW-119,PHAARU,Phalaris arundinacea,100,1,Alien,Grass,Graminoid
+WW-124,ALLPET,Alliaria petiolata,3,1,Alien,Forb,Forb
+WW-124,BRASSICACEAE FAMILY,Brassicaceae family,30,1,-,Forb,Forb
+WW-124,GEUCAN,Geum canadense,5,1,Native,Forb,Forb
+WW-124,HACVIR,Hackelia virginiana,10,1,Native,Forb,Forb
+WW-124,IMPCAP,Impatiens capensis,1,1,Native,Forb,Forb
+WW-124,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+WW-124,POAPRA,Poa pratensis ,20,1,Alien,Grass,Graminoid
+WW-124,RHACAT,Rhamnus cathartica,8,1,Alien,Understory tree,Woody
+WW-124,UNIDENTIFIED SP,Unidentified species-milky sap,1,1,-,-,-
+WW-124,UNIDENTIFIED SP,Unidentified species-single leaf,8,1,-,-,-
+WW-130,ALLPET,Alliaria petiolata ,6,1,Alien,Forb,Forb
+WW-130,CAMAME,Campanula americana,2,1,Native,Forb,Forb
+WW-130,CAREX SP,Carex species,12,1,-,Sedge,Graminoid
+WW-130,EUPRUG,Eupatorium rugosum,45,1,Native,Forb,Forb
+WW-130,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+WW-130,HYDVIR,Hydrophyllum virginianum,2,1,Native,Forb,Forb
+WW-130,LONMAA,Lonicera maackii ,8,1,Alien,Shrub,Woody
+WW-130,PARQUI,Parthenocissus quinquefolia,3,1,Native,Woody vine,Woody
+WW-137,CIRLUC,Circaea lutetiana canadensis,18,1,Native,Forb,Forb
+WW-137,CXPENS,Carex pensylvanica,1,1,Native,Sedge,Graminoid
+WW-137,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+WW-140,ALLPET,Alliaria petiolata,7,1,Alien,Forb,Forb
+WW-140,FRAAMA,Fraxinus americana,12,1,Native,Tree,Woody
+WW-140,GEUCAN,Geum canadense,5,1,Native,Forb,Forb
+WW-140,PARQUI,Parthenocissus quinquefolia,18,1,Native,Woody vine,Woody
+WW-140,SMILAX SP,Smilax species,6,1,-,-,-
+WW-140,SMIRAC,Smilacina racemosa,2,1,Native,Forb,Forb
+WW-146,PARQUI,Parthenocissus quinquefolia,40,1,Native,Woody vine,Woody
+WW-146,ROSMUL,Rosa multiflora,10,1,Alien,Shrub,Woody
+X-110,LONMAA,Lonicera maackii,8,1,Alien,Shrub,Woody
+X-118,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+X-118,GERMAC,Geranium maculatum,35,1,Native,Forb,Forb
+X-118,PODPEL,Podophyllum peltatum,5,1,Native,Forb,Forb
+X-118,QUERUB,Quercus rubra,2,1,Native,Tree,Woody
+X-118,SMIRAC,Smilacina racemosa,12,1,Native,Forb,Forb
+Y-121,CIRARV,Cirsium arvense,4,1,Alien,Forb,Forb
+Y-121,CIRLUC,Circaea lutetiana canadensis,3,1,Native,Forb,Forb
+Y-121,POLPUN,Polygonum punctatum,5,1,Native,Forb,Forb
+Y-121,VITRIP,Vitis riparia,2,1,Native,Woody vine,Woody
+X-121,ASPLENIUM SP,Asplenium species,25,1,Native,Cryptogam,Forb
+X-121,IMPCAP,Impatiens capensis,8,1,Native,Forb,Forb
+X-125,ACENIG,Acer nigrum,3,1,Native,Tree,Woody
+X-125,ALLPET,Alliaria petiolata,18,1,Alien,Forb,Forb
+X-125,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+X-125,FRAPES,Fraxinus pennsylvanica subintegerrima,1,1,Native,Tree,Woody
+X-138,PHAARU,Phalaris arundinacea,100,1,Alien,Grass,Graminoid
+X-139,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+X-139,AMBTRI,Ambrosia trifida,3,1,Native,Forb,Forb
+X-139,CAREX SP,Carex species,80,1,-,Sedge,Graminoid
+X-139,CIRARV,Cirsium arvense,6,1,Alien,Forb,Forb
+X-139,CONSEP,Convolvulus sepium,1,1,Native,Forb,Forb
+X-139,IMPCAP,Impatiens capensis,2,1,Native,Forb,Forb
+X-139,PASSAT,Pastinaca sativa,3,1,Alien,Forb,Forb
+X-139,PHAARU,Phalaris arundinacea,15,1,Alien,Grass,Graminoid
+Y-141,AGRREP,Agropyron repens,50,1,Alien,Grass,Graminoid
+Y-141,CORVAR,Coronilla varia ,50,1,Alien,Forb,Forb
+Y-141,PASSAT,Pastinaca sativa,2,1,Alien,Forb,Forb
+X-143,AGRREP,Agropyron repens,2,1,Alien,Grass,Graminoid
+X-143,CIRARV,Cirsium arvense,8,1,Alien,Forb,Forb
+X-143,CORVAR,Coronilla varia ,80,1,Alien,Forb,Forb
+X-143,DIPSYL,Dipsacus sylvestris,5,1,Alien,Forb,Forb
+X-143,POAPRA,Poa pratensis,45,1,Alien,Grass,Graminoid
+X-143,UNIDENTIFIED SP,Unidentified species,20,1,-,-,-
+X-143,VITRIP,Vitis riparia,20,1,Native,Woody vine,Woody
+X-76,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+X-76,ARITRI,Arisaema triphyllum,1,1,Native,Forb,Forb
+X-76,ASTLAT,Aster lateriflorus,10,1,Native,Forb,Forb
+X-76,ASTSAD,Aster sagittifolius drummondii,2,1,Native,Forb,Forb
+X-76,CIRLUC,Circaea lutetiana canadensis,10,1,Native,Forb,Forb
+X-76,ELYVIL,Elymus villosus,8,1,Native,Grass,Graminoid
+X-76,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+X-76,IMPPAL,Impatiens pallida,5,1,Native,Forb,Forb
+X-76,OXASTR,Oxalis stricta,1,1,Native,Forb,Forb
+X-76,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+X-76,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+X-76,VIBPRU,Viburnum prunifolium,25,1,Native,Shrub,Woody
+X-78,ASTLAT,Aster lateriflorus,6,1,Native,Forb,Forb
+X-78,ASTSAD,Aster sagittifolius drummondii,1,1,Native,Forb,Forb
+X-78,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+X-78,PARQUI,Parthenocissus quinquefolia,12,1,Native,Woody vine,Woody
+X-78,POTSIS,Potentilla simplex,2,1,Native,Forb,Forb
+X-78,PRUVLA,Prunella vulgaris lanceolata,2,1,Native,Forb,Forb
+X-78,RHACAT,Rhamnus cathartica ,40,1,Alien,Understory tree,Woody
+X-78,RUBOCC,Rubus occidentalis,15,1,Native,Shrub,Woody
+X-87,ARITRI,Arisaema triphyllum,4,1,Native,Forb,Forb
+X-87,DIOVIL,Dioscorea villosa,3,1,Native,Herbaceous Vine,Forb
+X-87,GERMAC,Geranium maculatum,40,1,Native,Forb,Forb
+X-87,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+X-87,LONTAT,Lonicera tatarica,1,1,Alien,Shrub,Woody
+X-87,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+X-93,ALLPET,Alliaria petiolata,60,1,Alien,Forb,Forb
+X-93,CIRLUC,Circaea lutetiana canadensis,12,1,Native,Forb,Forb
+X-93,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+X-93,SMILAS,Smilax lasioneura,2,1,Native,Herbaceous Vine,Forb
+XX-104,BROINE,Bromus inermis,5,1,Alien,Grass,Graminoid
+XX-104,CELSCA,Celastrus scandens,5,1,Native,Woody vine,Woody
+XX-104,CIRARV,Cirsium arvense,2,1,Alien,Forb,Forb
+XX-104,CONARV,Convolvulus arvensis,3,1,Alien,Forb,Forb
+XX-104,MELLOF,Melilotus officinalis,3,1,Alien,Forb,Forb
+XX-104,PARQUI,Parthenocissus quinquefolia,2,1,Native,Woody vine,Woody
+XX-104,POAPRA,Poa pratensis,60,1,Alien,Grass,Graminoid
+XX-104,RUBALL,Rubus allegheniensis,5,1,Native,Shrub,Woody
+XX-121,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+XX-121,LONMAA,Lonicera maackii ,90,1,Alien,Shrub,Woody
+XX-121,RHACAT,Rhamnus cathartica,5,1,Alien,Understory tree,Woody
+XX-125,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+XX-125,CIRLUC,Circaea lutetiana canadensis,35,1,Native,Forb,Forb
+XX-125,GEUCAN,Geum canadense,10,1,Native,Forb,Forb
+XX-125,RHACAT,Rhamnus cathartica,5,1,Alien,Understory tree,Woody
+XX-125,VIOLA SP,Viola species,40,1,-,Forb,Forb
+XX-129,FRAPES,Fraxinus pennsylvanica subintegerrima,1,1,Native,Tree,Woody
+XX-129,LONMAA,Lonicera maackii ,1,1,Alien,Shrub,Woody
+XX-129,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+XX-134,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+XX-134,CARCOR,Carya cordiformis,4,1,Native,Tree,Woody
+XX-134,CAREX SP,Carex species,8,1,-,Sedge,Graminoid
+XX-134,CIRLUC,Circaea lutetiana canadensis,8,1,Native,Forb,Forb
+XX-134,EUPRUG,Eupatorium rugosum,15,1,Native,Forb,Forb
+XX-134,GEUCAN,Geum canadense,4,1,Native,Forb,Forb
+XX-134,PARQUI,Parthenocissus quinquefolia,60,1,Native,Woody vine,Woody
+XX-134,POLGVI,Polygonum virginianum,3,1,Native,Forb,Forb
+XX-134,QUERUB,Quercus rubra,2,1,Native,Tree,Woody
+XX-134,RHACAT,Rhamnus cathartica,6,1,Alien,Understory tree,Woody
+XX-134,VIOLA SP,Viola species,1,1,-,Forb,Forb
+XX-142,CIRLUC,Circaea lutetiana canadensis,2,1,Native,Forb,Forb
+XX-142,FRAAMA,Fraxinus americana,12,1,Native,Tree,Woody
+XX-142,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+XX-147,ALLPET,Alliaria petiolata ,5,1,Alien,Forb,Forb
+XX-147,GERMAC,Geranium maculatum,7,1,Native,Forb,Forb
+XX-147,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+XX-147,RIBMIS,Ribes missouriense,5,1,Native,Shrub,Woody
+Y-105,ACENIG,Acer nigrum,2,1,Native,Tree,Woody
+Y-105,PRUVIR,Prunus virginiana,8,1,Native,Shrub,Woody
+Y-110,ACENIG,Acer nigrum,2,1,Native,Tree,Woody
+Y-110,PRUVIR,Prunus virginiana,6,1,Native,Shrub,Woody
+Y-110,RHACAT,Rhamnus cathartica,2,1,Alien,Understory tree,Woody
+Y-110,SMIRAC,Smilacina racemosa,5,1,Native,Forb,Forb
+Y-112,ACENIG,Acer nigrum,6,1,Native,Tree,Woody
+Y-112,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+Y-112,SMIRAC,Smilacina racemosa,15,1,Native,Forb,Forb
+Y-112,UNIDENTIFIED SP,Unidentified species,2,1,-,-,-
+Y-128,ALLPET,Alliaria petiolata,1,1,Alien,Forb,Forb
+Y-128,ASACAN,Asarum canadense,40,1,Native,Forb,Forb
+Y-128,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+Y-130,ALLPET,Alliaria petiolata,5,1,Alien,Forb,Forb
+Y-130,ARITRI,Arisaema triphyllum,10,1,Native,Forb,Forb
+Y-130,ASACAN,Asarum canadense,1,1,Native,Forb,Forb
+Y-130,IMPCAP,Impatiens capensis,5,1,Native,Forb,Forb
+Y-130,URTDIO,Urtica dioica,70,1,Alien,Forb,Forb
+Y-135,ALLPET,Alliaria petiolata ,2,1,Alien,Forb,Forb
+Y-135,ASACAN,Asarum canadense,4,1,Native,Forb,Forb
+Y-135,BOECYC,Boehmeria cylindrica,7,1,Native,Forb,Forb
+Y-135,GERMAC,Geranium maculatum,40,1,Native,Forb,Forb
+Y-135,MENCAN,Menispermum canadense,20,1,Native,Woody Vine,Woody
+Y-135,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+Y-135,VITRIP,Vitis riparia,15,1,Native,Woody vine,Woody
+Y-147,ALLPET,Alliaria petiolata ,5,1,Alien,Forb,Forb
+Y-147,CIRLUC,Circaea lutetiana canadensis,8,1,Native,Forb,Forb
+Y-147,PARQUI,Parthenocissus quinquefolia,40,1,Native,Woody vine,Woody
+Y-147,RHACAT,Rhamnus cathartica,2,1,Alien,Understory tree,Woody
+Y-80,ASTLAT,Aster lateriflorus,2,1,Native,Forb,Forb
+Y-80,BOECYC,Boehmeria cylindrica,15,1,Native,Forb,Forb
+Y-80,CAREX SP,Carex species,2,1,-,Sedge,Graminoid
+Y-80,OSMCLI,Osmunda claytoniana,2,1,Native,Cryptogam,Forb
+Y-80,PARQUI,Parthenocissus quinquefolia,4,1,Native,Woody vine,Woody
+Y-80,RHACAT,Rhamnus cathartica,40,1,Alien,Understory tree,Woody
+Y-80,VIBURNUM SP,Viburnum species,15,1,-,Shrub,Woody
+Y-84,LONMAA,Lonicera maackii,60,1,Alien,Shrub,Woody
+Y-84,QUERUB,Quercus rubra,2,1,Native,Tree,Woody
+Y-90,ARITRI,Arisaema triphyllum,4,1,Native,Forb,Forb
+Y-90,MENCAN,Menispermum canadense,6,1,Native,Woody Vine,Woody
+Y-90,PARQUI,Parthenocissus quinquefolia,6,1,Native,Woody vine,Woody
+Y-90,RHACAT,Rhamnus cathartica,25,1,Alien,Understory tree,Woody
+Y-90,VIBREC,Viburnum recognitum,15,1,Alien,Shrub,Woody
+Y-94,ACHMIL,Achillea millefolium ,12,1,Alien,Forb,Forb
+Y-94,AMBARE,Ambrosia artemisiifolia elatior,40,1,Native,Forb,Forb
+Y-94,CHRLEP,Chrysanthemum leucanthemum pinnatifidum,4,1,Alien,Forb,Forb
+Y-94,CXBLAN,Carex blanda,3,1,Native,Sedge,Graminoid
+Y-94,CXHIRT,Carex hirtifolia,2,1,Native,Sedge,Graminoid
+Y-94,DACGLO,Dactylis glomerata,35,1,Alien,Grass,Graminoid
+Y-94,GLEHED,Glechoma hederacea,1,1,Alien,Forb,Forb
+Y-94,OXASTR,Oxalis stricta,3,1,Native,Forb,Forb
+Y-94,PLALAN,Plantago lanceolata,8,1,Alien,Forb,Forb
+Y-94,PRUVLA,Prunella vulgaris lanceolata,3,1,Native,Forb,Forb
+Y-94,RATPIN,Ratibida pinnata,3,1,Native,Forb,Forb
+Y-94,SOLIDAGO SP,Solidago species,5,1,-,Forb,Forb
+Y-94,TRIPRA,Trifolium pratense,2,1,Alien,Forb,Forb
+Y-94,UNIDENTIFIED FORB,Unidentified forb,20,1,-,Forb,Forb
+Y-94,UNIDENTIFIED SP,Unidentified species,15,1,-,-,-
+Y-96,ANETHA,Anemonella thalictroides,8,1,Native,Forb,Forb
+Y-96,ARITRI,Arisaema triphyllum,2,1,Native,Forb,Forb
+Y-96,BIDFRO,Bidens frondosa,1,1,Native,Forb,Forb
+Y-96,CAREX SP,Carex species,3,1,-,Sedge,Graminoid
+Y-96,CIRLUC,Circaea lutetiana canadensis,1,1,Native,Forb,Forb
+Y-96,CXBLAN,Carex blanda,3,1,Native,Sedge,Graminoid
+Y-96,GEUCAN,Geum canadense,1,1,Native,Forb,Forb
+Y-96,POLCAL,Polygonatum canaliculatum,7,1,Native,Forb,Forb
+Y-96,RHACAT,Rhamnus cathartica,4,1,Alien,Understory tree,Woody
+Y-96,SMILAX SP,Smilax species,4,1,-,-,-
+Y-96,TAROFF,Taraxacum officinale,1,1,Alien,Forb,Forb
+Y-96,ULMAME,Ulmus americana,1,1,Native,Tree,Woody
+YY-119,ALLPET,Alliaria petiolata ,5,1,Alien,Forb,Forb
+YY-119,CAREX SP,Carex species,1,1,-,Sedge,Graminoid
+YY-119,FRAPES,Fraxinus pennsylvanica subintegerrima,2,1,Native,Tree,Woody
+YY-119,GEUCAN,Geum canadense,10,1,Native,Forb,Forb
+YY-119,LONMAA,Lonicera maackii ,15,1,Alien,Shrub,Woody
+YY-119,PARQUI,Parthenocissus quinquefolia,10,1,Native,Woody vine,Woody
+YY-119,POAPRA,Poa pratensis,2,1,Alien,Grass,Graminoid
+YY-119,RHACAT,Rhamnus cathartica,2,1,Alien,Understory tree,Woody
+YY-119,ROSMUL,Rosa multiflora,2,1,Alien,Shrub,Woody
+YY-122,FRAVEA,Fragaria vesca americana,10,1,Native,Forb,Forb
+YY-122,LONMAA,Lonicera maackii,2,1,Alien,Shrub,Woody
+YY-122,MELALB,Melilotus alba ,20,1,Alien,Forb,Forb
+YY-122,POAPRA,Poa pratensis,80,1,Alien,Grass,Graminoid
+YY-122,RHACAT,Rhamnus cathartica,3,1,Alien,Understory tree,Woody
+YY-122,RHURAD,Rhus radicans,20,1,Native,Woody vine,Woody
+YY-122,ROSMUL,Rosa multiflora,8,1,Alien,Shrub,Woody
+YY-122,SOLCAN,Solidago canadensis,80,1,Native,Forb,Forb
+YY-122,VITRIP,Vitis riparia,2,1,Native,Woody vine,Woody
+YY-123,ASTER SP,Aster species,2,1,-,Forb,Forb
+YY-123,LONMAA,Lonicera maackii,80,1,Alien,Shrub,Woody
+YY-123,RHACAT,Rhamnus cathartica,60,1,Alien,Understory tree,Woody
+YY-123,RIBMIS,Ribes missouriense,1,1,Native,Shrub,Woody
+YY-123,VITRIP,Vitis riparia,2,1,Native,Woody vine,Woody
+YY-132,LONMAA,Lonicera maackii ,1,1,Alien,Shrub,Woody
+YY-137,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+YY-137,PARQUI,Parthenocissus quinquefolia,45,1,Native,Woody vine,Woody
+YY-137,SMILAX SP,Smilax species,10,1,-,-,-
+YY-137,SMIRAC,Smilacina racemosa,18,1,Native,Forb,Forb
+YY-140,FRAAMA,Fraxinus americana,25,1,Native,Tree,Woody
+YY-140,GERMAC,Geranium maculatum,2,1,Native,Forb,Forb
+YY-140,MENCAN,Menispermum canadense,4,1,Native,Woody Vine,Woody
+YY-140,PARQUI,Parthenocissus quinquefolia,15,1,Native,Woody vine,Woody
+YY-140,ROSMUL,Rosa multiflora,20,1,Alien,Shrub,Woody
+YY-146,IMPCAP,Impatiens capensis,15,1,Native,Forb,Forb
+YY-146,ONOSEN,Onoclea sensibilis,8,1,Native,Cryptogam,Forb
+YY-146,PILPUM,Pilea pumila,4,1,Native,Forb,Forb
+YY-146,RUMORB,Rumex orbiculatus,5,1,Native,Forb,Forb
+YY-146,SCULAT,Scutellaria lateriflora,1,1,Native,Forb,Forb
+YY-146,TYPLAT,Typha latifolia,45,1,Native,Forb,Forb
+Z-108,AMBARE,Ambrosia artemisiifolia elatior,2,1,Native,Forb,Forb
+Z-108,CARYA SP,Carya species,6,1,-,Tree,Woody
+Z-108,FRAAMA,Fraxinus americana,8,1,Native,Tree,Woody
+Z-108,LACSER,Lactuca serriola,2,1,Alien,Forb,Forb
+Z-108,LONMAA,Lonicera maackii ,15,1,Alien,Shrub,Woody
+Z-108,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+Z-108,PRUVIR,Prunus virginiana,4,1,Native,Shrub,Woody
+Z-108,RHACAT,Rhamnus cathartica ,25,1,Alien,Understory tree,Woody
+Z-108,ROSE SP,Rosa species,2,1,-,Shrub,Woody
+Z-108,RUBALL,Rubus allegheniensis,1,1,Native,Shrub,Woody
+Y-115,ASACAN,Asarum canadense,80,1,Native,Forb,Forb
+Y-115,BOECYC,Boehmeria cylindrica,50,1,Native,Forb,Forb
+Y-115,IMPPAL,Impatiens pallida,15,1,Native,Forb,Forb
+Y-115,LEEORY,Leersia oryzoides,8,1,Native,Grass,Graminoid
+Y-115,MENCAN,Menispermum canadense,6,1,Native,Woody Vine,Woody
+Z-118,ALLPET,Alliaria petiolata,15,1,Alien,Forb,Forb
+Z-118,PRUVIR,Prunus virginiana,20,1,Native,Shrub,Woody
+Z-118,SMIRAC,Smilacina racemosa,3,1,Native,Forb,Forb
+Z-122,ALLPET,Alliaria petiolata,20,1,Alien,Forb,Forb
+Z-122,CIRLUC,Circaea lutetiana canadensis,4,1,Native,Forb,Forb
+Z-122,IMPCAP,Impatiens capensis,6,1,Native,Forb,Forb
+Z-122,RANHIS,Ranunculus hispidus,10,1,Native,Forb,Forb
+Z-124,ALLPET,Alliaria petiolata,15,1,Alien,Forb,Forb
+Z-124,ASACAN,Asarum canadense,5,1,Native,Forb,Forb
+Z-124,CIRLUC,Circaea lutetiana canadensis,15,1,Native,Forb,Forb
+Z-124,GEUCAN,Geum canadense,15,1,Native,Forb,Forb
+Z-124,RHURAD,Rhus radicans,1,1,Native,Woody vine,Woody
+Z-128,ACENIG,Acer nigrum,5,1,Native,Tree,Woody
+Z-132,ALLPET,Alliaria petiolata ,10,1,Alien,Forb,Forb
+Z-132,CIRLUC,Circaea lutetiana canadensis,5,1,Native,Forb,Forb
+Z-132,IMPCAP,Impatiens capensis,10,1,Native,Forb,Forb
+Z-132,PARQUI,Parthenocissus quinquefolia,8,1,Native,Woody vine,Woody
+Z-132,SMIRAC,Smilacina racemosa,4,1,Native,Forb,Forb
+AA-141,CORVAR,Coronilla varia ,100,1,Alien,Forb,Forb
+AA-141,VITRIP,Vitis riparia,2,1,Native,Woody vine,Woody
+Z-143,AGRREP,Agropyron repens,20,1,Alien,Grass,Graminoid
+Z-143,CIRARV,Cirsium arvense,15,1,Alien,Forb,Forb
+Z-143,FRAVIR,Fragaria virginiana,2,1,Native,Forb,Forb
+Z-143,PARQUI,Parthenocissus quinquefolia,5,1,Native,Woody vine,Woody
+Z-143,POAPRA,Poa pratensis,80,1,Alien,Grass,Graminoid
+Z-143,VITRIP,Vitis riparia,12,1,Native,Woody vine,Woody
+Z-82,ARITRI,Arisaema triphyllum,5,1,Native,Forb,Forb
+Z-82,LONTAT,Lonicera tatarica,3,1,Alien,Shrub,Woody
+Z-82,PARQUI,Parthenocissus quinquefolia,20,1,Native,Woody vine,Woody
+Z-82,RHACAT,Rhamnus cathartica ,1,1,Alien,Understory tree,Woody
+Z-92,ANETHA,Anemonella thalictroides,12,1,Native,Forb,Forb
+Z-92,CAROVT,Carya ovata,4,1,Native,Tree,Woody
+Z-92,CORRAC,Cornus racemosa,2,1,Native,Shrub,Woody
+Z-92,FRAAMA,Fraxinus americana,5,1,Native,Tree,Woody
+Z-92,GERMAC,Geranium maculatum,15,1,Native,Forb,Forb
+Z-92,PREALB,Prenanthes alba,3,1,Native,Forb,Forb
+Z-92,RHACAT,Rhamnus cathartica,6,1,Alien,Understory tree,Woody
+Z-92,SMILAS,Smilax lasioneura,2,1,Native,Herbaceous vine,Forb
+Z-92,SMILAX SP,Smilax species,3,1,-,-,-
+Z-92,VIBURNUM SP,Viburnum species,6,1,-,Shrub,Woody
+Z-92,VITRIP,Vitis riparia,4,1,Native,Woody vine,Woody
+ZZ-130,LONMAA,Lonicera maackii ,10,1,Alien,Shrub,Woody
+ZZ-130,PARQUI,Parthenocissus quinquefolia,1,1,Native,Woody vine,Woody
+ZZ-132,PARQUI,Parthenocissus quinquefolia,60,1,Native,Woody vine,Woody
+ZZ-132,VIBOPU,Viburnum opulus,6,1,Alien,Shrub,Woody
+ZZ-134,PARQUI,Parthenocissus quinquefolia,12,1,Native,Woody vine,Woody
+ZZ-134,RHACAT,Rhamnus cathartica,10,1,Alien,Understory tree,Woody
+ZZ-134,RHURAD,Rhus radicans,18,1,Native,Woody vine,Woody
+ZZ-134,ROSMUL,Rosa multiflora ,50,1,Alien,Shrub,Woody
+ZZ-142,PARQUI,Parthenocissus quinquefolia,25,1,Native,Woody vine,Woody
+ZZ-142,SMIRAC,Smilacina racemosa,25,1,Native,Forb,Forb
