@@ -1,10 +1,11 @@
 library(tinyverse)
 library(stringr)
+
 setwd("~/Documents/morton arb/east_woods_phylogeny/data_processing/OUTPUTS/")
 
-shrubs <- read.csv(file = "newshrubs18_nozeros.csv", as.is = T)
-herbs <- read.csv(file = "newherbs18_nozeros.csv", as.is = T)
-trees <- read.csv(file = "newtrees18_nozeros.csv", as.is = T)
+shrubs <- read.csv(file = "newshrubs18.csv", as.is = T)
+herbs <- read.csv(file = "newherbs18.csv", as.is = T)
+trees <- read.csv(file = "newtrees18.csv", as.is = T)
 
 shrubs <- data.frame(shrubs)
 herbs <- data.frame(herbs)

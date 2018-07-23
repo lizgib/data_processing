@@ -1,0 +1,980 @@
+130,A107,Silphium laciniatum
+92,A116,Salix
+93,A116,Salix
+131,A116,Allium
+132,A116,Symphyotrichum
+133,A116,Ligusticum
+134,A116,Symphyotrichum
+1,A117,Acer saccharum
+135,A121,Celastrus orbiculatus
+136,A124,Erythronium albidum
+137,A124,Sanicula gregaria
+138,A124,Cardamine concatenata
+139,A126,Trillium recurvatum
+140,A126,Cardamine concatenata
+141,A126,Agrimonia pubescens
+142,A126,Sanicula gregaria
+143,A126,Erythronium albidum
+144,A128,Agrimonia pubescens
+145,A128,Erythronium albidum
+2,A131,Fraxinus quadrangulata
+146,A133,Eupatorium
+94,A135,Phellodendron amurense
+147,A135,Viola sororia
+148,A135,Sonchus arvensis
+149,A135,Agrimonia pubescens
+150,A135,Morus alba
+3,AA114,Acer saccharum
+151,AA114,Erythronium albidum
+152,AA114,Cerastium
+153,AA114,Claytonia virginica
+154,AA114,Composite species
+4,AA116,Acer saccharum
+155,AA116,Claytonia virginica
+156,AA117,Claytonia virginica
+157,AA117,Erythronium albidum
+158,AA117,Anemone quinquefolia
+159,AA117,Cardamine concatenata
+5,AA118,Acer saccharum
+160,AA118,Erythronium albidum
+161,AA118,Anemone quinquefolia
+162,AA118,Claytonia virginica
+163,AA118,Cardamine concatenata
+164,AA118,Floerkea proserpinacoides
+165,AA118,Erythronium albidum
+166,AA118,Claytonia virginica
+167,AA118,Cardamine concatenata
+168,AA125,Floerkea proserpinacoides
+169,AA125,Erythronium albidum
+170,AA125,Claytonia virginica
+171,AA125,Hydrophyllum appendiculatum
+6,AA129,Acer saccharum
+7,AA129,Acer saccharum
+172,AA129,Floerkea proserpinacoides
+173,AA141,Torilis
+174,AA141,Bidens species
+175,AA95,Trillium recurvatum
+176,AA95,Claytonia virginica
+177,AA95,Osmorhiza
+178,AA95,Circaea lutetiana
+179,AA95,Erythronium albidum
+180,AX132,Allium vineale
+181,AY122,Clinopodium vulgare
+182,AY124,Erythronium albidum
+183,AY124,Cardamine concatenata
+8,AY127,Quercus alba
+9,AY127,Phellodendron amurense
+184,AY127,Trillium recurvatum
+185,AY127,Erythronium albidum
+186,AY130,Erythronium albidum
+187,AZ133,Erythronium albidum
+188,AZ138,Allium vineale
+189,B109,Arnoglossum atriplicifolium
+190,B109,Schizachyrium scoparium
+191,B109,Symphyotrichum
+192,B109,Symphyotrichum novae-angliae
+95,B115,Quercus ellipsoidalis
+193,B127,Cardamine concatenata
+194,B127,Erythronium albidum
+195,B127,Agrimonia pubescens
+196,B128,Cardamine concatenata
+197,B128,Erythronium albidum
+198,B128,Sanicula gregaria
+199,B138,Allium vineale
+200,B138,Clinopodium vulgare
+201,BB115,Apocynum cannabinum
+202,BB115,Trifolium pratense
+10,BB116,Acer saccharum
+203,BB116,Dicentra cucullaria
+204,BB116,Erythronium albidum
+205,BB116,Claytonia virginica
+206,BB116,Anemone quinquefolia
+11,BB118,Acer saccharum
+207,BB118,Floerkea proserpinacoides
+12,BB121,Acer saccharum
+208,BB121,Dicentra cucullaria
+209,BB121,Clematis virginiana
+210,BB121,Cardamine concatenata
+211,BB121,Floerkea proserpinacoides
+212,BB140,Ficaria verna
+213,BB141,Torilis japonica
+214,BB141,Arctium minus
+215,BB141,Oxalis
+216,BB84,Erythronium albidum
+217,BB84,Circaea lutetiana
+218,BB84,Claytonia virginica
+219,BB92,Erythronium albidum
+220,BB92,Claytonia virginica
+221,C105,Helianthus grosseserratus
+222,C105,Cirsium
+223,C111,Helianthus species
+96,C120,Quercus ellipsoidalis
+97,C120,Quercus ellipsoidalis
+224,C120,Erythronium albidum
+225,C120,Osmorhiza
+13,C123,Rubus pensilvanicus
+226,C123,Erythronium albidum
+227,C123,Cardamine concatenata
+228,C123,Claytonia virginica
+229,C125,Cardamine concatenata
+230,C125,Erythronium albidum
+231,C127,Cardamine concatenata
+232,C127,Erythronium albidum
+233,C127,Trillium recurvatum
+234,C127,Sanicula gregaria
+14,CC109,Acer saccharum
+235,CC109,Composite
+236,CC109,Elymus elymoides
+237,CC109,Cerastium
+238,CC110,Claytonia virginica
+239,CC110,Elymus elymoides
+240,CC110,Lactuca species
+241,CC110,Galium circaezans
+242,CC123,Erythronium albidum
+243,CC123,Floerkea proserpinacoides
+244,CC123,Claytonia virginica
+245,CC138,Ficaria verna
+246,CC138,Poa compressa
+15,CC144,Morus
+247,CC86,Claytonia virginica
+248,CC86,Circaea lutetiana
+249,CC86,Osmorhiza
+250,CC96,Erythronium albidum
+251,CC96,Phlox divaricata
+252,CC96,Osmorhiza
+253,CC96,Claytonia virginica
+254,CC96,Trillium recurvatum
+255,CC97,Claytonia virginica
+256,CC97,Erythronium albidum
+257,CC97,Osmorhiza
+258,CC99,Quercus
+259,CC99,Bidens species
+260,D113,Menispermum
+261,D113,Helianthus species
+262,D113,Hydrophyllum
+263,D117,Erythronium albidum
+16,D123,Phellodendron amurense
+264,D123,Floerkea proserpinacoides
+265,D123,Elymus elymoides
+266,D125,Erythronium albidum
+267,D125,Cardamine concatenata
+268,D125,Rubus hispidus
+269,D134,Claytonia virginica
+270,DD100,Floerkea proserpinacoides
+271,DD100,Circaea lutetiana
+272,DD112,Trillium recurvatum
+273,DD112,Symphyotrichum
+17,DD114,Acer saccharum
+274,DD114,Erythronium albidum
+18,DD130,Malus
+275,DD130,Laportea canadensis
+276,DD145,Cirsium
+277,DD145,Bidens species
+278,DD145,Trillium recurvatum
+279,DD145,Morus
+280,DD83,Claytonia virginica
+281,DD83,Circaea lutetiana
+282,DD86,Erythronium albidum
+283,DD86,Celtis occidentalis
+284,DD90,Claytonia virginica
+285,DD90,Erythronium albidum
+286,E109,Epilobium coloratum
+287,E109,Floerkea proserpinacoides
+288,E111,Scirpus atrovirens
+19,EE106,Acer saccharum
+289,EE108,Elymus elymoides
+290,EE120,Floerkea proserpinacoides
+291,EE120,Claytonia virginica
+292,EE126,Floerkea proserpinacoides
+293,EE126,Cryptotaenia canadensis
+20,EE128,Acer saccharum
+294,EE128,Floerkea proserpinacoides
+295,EE128,Celtis occidentalis
+296,EE132,Anemone canadensis
+297,EE138,Malus sieboldii
+298,EE138,Arisaema dracontium
+21,EE140,Acer saccharum
+98,F107,Quercus ellipsoidalis
+99,F107,Quercus ellipsoidalis
+299,F107,Erythronium albidum
+300,F108,Erythronium albidum
+301,F108,Floerkea proserpinacoides
+302,F108,Sanicula gregaria
+303,F112,Symphyotrichum
+304,F113,Erythronium albidum
+305,F114,Erythronium albidum
+306,F114,Celastrus orbiculatus
+307,F118,Erythronium albidum
+308,F118,Claytonia virginica
+309,F118,Agrimonia pubescens
+310,F118,Floerkea proserpinacoides
+311,F118,Sanicula gregaria
+312,F119,Erythronium albidum
+313,F119,Floerkea proserpinacoides
+314,F119,Claytonia virginica
+315,F122,Floerkea proserpinacoides
+316,F122,Erythronium albidum
+317,F122,Claytonia virginica
+318,F129,Erythronium albidum
+319,F129,Cardamine concatenata
+22,F134,Acer saccharum
+320,FF117,Floerkea proserpinacoides
+321,FF117,Claytonia virginica
+322,FF123,Floerkea proserpinacoides
+323,FF123,Claytonia virginica
+100,FF91,Liriodendron tulipifera
+101,FF91,Liriodendron tulipifera
+324,FF94,Claytonia virginica
+325,FF94,Rudbeckia hirta
+326,FF94,Equisetum arvense
+102,G109,Quercus ellipsoidalis
+327,G109,Erythronium albidum
+328,G109,Anemone quinquefolia
+329,G109,Osmorhiza
+330,G109,Claytonia virginica
+331,G126,Erythronium albidum
+332,G126,Cardamine concatenata
+333,G126,Viola sororia
+334,G126,Claytonia virginica
+335,G126,Agrimonia pubescens
+336,G126,Erythronium albidum
+337,G126,Cardamine concatenata
+338,G126,Viola sororia
+339,G126,Claytonia virginica
+340,G126,Agrimonia pubescens
+341,G132,Erythronium albidum
+342,G132,Trillium recurvatum
+343,G137,Trifolium pratense
+344,G137,Symphyotrichum
+23,GG121,Acer saccharum
+24,GG121,Acer saccharum
+345,GG121,Claytonia virginica
+346,GG121,Cardamine concatenata
+347,GG121,Floerkea proserpinacoides
+348,GG121,Circaea lutetiana
+349,GG122,Floerkea proserpinacoides
+350,GG122,Claytonia virginica
+351,GG122,Cardamine concatenata
+352,GG140,Erythronium albidum
+353,GG140,Trillium recurvatum
+354,GG140,Floerkea proserpinacoides
+25,GG92,Acer saccharum
+355,GG92,Sanicula
+356,GG92,Cerastium
+357,GG92,Claytonia virginica
+358,GG94,Anemone quinquefolia
+359,GG94,Cerastium
+360,GG94,Osmorhiza
+361,GG94,Sanicula
+362,H115,Allium tricoccum var. burdickii
+363,H115,Helianthus species
+364,H115,Sanicula gregaria
+365,H115,Erythronium albidum
+366,H115,Allium tricoccum var. burdickii
+367,H115,Helianthus species
+368,H115,Sanicula gregaria
+369,H115,Erythronium albidum
+103,HA127,Gleditsia triacanthos
+104,HA127,Gleditsia triacanthos
+105,HA127,Pilea pumila
+106,HA127,Gleditsia triacanthos
+107,HA127,Gleditsia triacanthos
+108,HA132,Carex
+370,HA132,Viola sororia
+371,HA147,Erythronium albidum
+372,HB129,Allium
+373,HB129,Circaea lutetiana
+374,HB130,Celtis occidentalis
+26,HB131,Cornus
+375,HB131,Erythronium albidum
+376,HB131,Cornus
+377,HB136,Erythronium albidum
+378,HB141,Erythronium albidum
+379,HB143,Erythronium albidum
+380,HC135,Erythronium albidum
+27,HC144,Vitis
+381,HC144,Erythronium albidum
+382,HD134,Erythronium albidum
+383,HD135,Circaea lutetiana
+384,HD135,Agrimonia pubescens
+385,HD135,Erythronium albidum
+386,HD136,Ellisia nyctelea
+109,HD142,Quercus ellipsoidalis
+110,HD142,Quercus ellipsoidalis
+387,HD142,Erythronium albidum
+388,HD143,Erythronium albidum
+28,HE136,Cornus
+389,HE136,Arisaema dracontium
+29,HH103,Smilax tamnoides
+390,HH103,Galium circaezans
+391,HH103,Elymus elymoides
+392,HH106,Anemone quinquefolia
+393,HH106,Camassia scilloides
+394,HH110,Viola sororia
+395,HH110,Trillium recurvatum
+396,HH116,Trillium recurvatum
+397,HH116,Claytonia virginica
+398,HH116,Parthenocissus
+399,HH126,Dipsacus laciniatus
+400,HH126,Fallopia scandens
+401,HH130,Calluna vulgaris
+402,HH130,Malus sieboldii
+403,HH130,Celastrus orbiculatus
+404,HH130,Prunella vulgaris
+405,HH130,Viburnum dentatum
+406,HH130,Viburnum lentago
+407,HH130,Phaca
+408,HH147,Cirsium
+30,HH85,Acer saccharum
+111,HH85,Pinus
+112,HH85,Pinus
+409,HH85,Cryptotaenia canadensis
+410,HH85,Circaea lutetiana
+31,HH87,Acer saccharum
+32,HH87,Acer saccharum
+113,HH87,Cladrastis kentukea
+411,HH87,Osmorhiza
+412,HH87,Phlox divaricata
+413,HH90,Erythronium albidum
+414,HH90,Claytonia virginica
+415,HH90,Cryptotaenia canadensis
+416,HH90,Sanicula
+417,HH90,Osmorhiza
+418,HH90,Anemone quinquefolia
+419,HH93,Erythronium albidum
+420,HH93,Claytonia virginica
+421,HH93,Sanicula
+422,HH93,Composite species
+423,HH96,Sanicula
+424,HH96,Erythronium albidum
+425,HH96,Circaea lutetiana
+33,I107,Acer saccharum
+34,I107,Acer saccharum
+426,I107,Erythronium albidum
+427,I107,Cardamine concatenata
+428,I107,Trillium recurvatum
+35,I109,Acer
+429,I109,Erythronium albidum
+430,I109,Cardamine concatenata
+431,I109,Claytonia virginica
+432,I109,Allium tricoccum var. burdickii
+433,I109,Allium
+434,I109,Symphyotrichum
+435,I109,Sanicula
+436,I109,Acer
+437,I116,Erythronium albidum
+438,I116,Claytonia virginica
+439,I116,Cardamine concatenata
+440,I116,Erythronium albidum
+441,I116,Claytonia virginica
+442,I116,Anemone quinquefolia
+443,I116,Cardamine concatenata
+444,I117,Erythronium albidum
+445,I117,Floerkea proserpinacoides
+446,I117,Erythronium albidum
+447,I117,Floerkea proserpinacoides
+448,I117,Sanicula gregaria
+449,I124,Erythronium albidum
+450,I124,Claytonia virginica
+451,I124,Osmorhiza
+452,I124,Erythronium albidum
+453,I124,Claytonia virginica
+454,I124,Osmorhiza
+455,I133,Erythronium albidum
+456,I133,Circaea lutetiana
+457,II105,Symphyotrichum ericoides
+36,II122,Acer saccharum
+458,II122,Osmorhiza aristata var. aristata
+459,II122,Floerkea proserpinacoides
+460,II122,Claytonia virginica
+461,II122,Circaea lutetiana
+37,II130,Malus sieboldii
+462,II130,Malus sieboldii
+463,II131,Malus sieboldii
+38,II136,Acer saccharum
+464,II136,Erythronium albidum
+465,II142,Erythronium albidum
+466,II142,Floerkea proserpinacoides
+467,II142,Camassia
+468,II142,Camassia scilloides
+469,II142,Floerkea proserpinacoides
+470,II142,Erythronium albidum
+471,II87,Claytonia virginica
+472,II87,Circaea lutetiana
+473,II87,Osmorhiza
+39,II90,Acer saccharum
+474,II90,Sanicula
+475,II90,Erythronium albidum
+476,II90,Claytonia virginica
+477,II90,Osmorhiza
+478,J110,Cardamine concatenata
+479,J110,Erythronium albidum
+480,J110,Allium tricoccum var. burdickii
+481,J110,Claytonia virginica
+482,J121,Erythronium albidum
+483,J121,Floerkea proserpinacoides
+484,J121,Agrimonia pubescens
+485,J121,Erythronium albidum
+486,J121,Floerkea proserpinacoides
+487,J121,Agrimonia pubescens
+488,J133,Erythronium albidum
+489,J133,Uvularia grandiflora
+490,JJ102,Galium circaezans
+491,JJ105,Allium tricoccum var. burdickii
+492,JJ111,Trillium recurvatum
+493,JJ114,Circaea lutetiana
+494,JJ115,Floerkea proserpinacoides
+495,JJ115,Cardamine concatenata
+496,JJ115,Cardamine concatenata
+497,JJ121,Floerkea proserpinacoides
+498,JJ121,Trillium recurvatum
+499,JJ121,Claytonia virginica
+500,JJ121,Osmorhiza aristata var. aristata
+501,JJ140,Floerkea proserpinacoides
+502,JJ140,Erythronium albidum
+503,JJ140,Cardamine concatenata
+504,JJ87,Erythronium albidum
+505,JJ87,Claytonia virginica
+506,JJ87,Trillium recurvatum
+507,JJ87,Sanicula
+508,JJ87,Osmorhiza
+509,JJ87,Circaea lutetiana
+40,JJ93,Acer saccharum
+510,JJ93,Erythronium albidum
+511,JJ93,Sanicula
+512,JJ93,Claytonia virginica
+513,JJ93,Circaea lutetiana
+514,JJ93,Trillium recurvatum
+515,K105,Cardamine concatenata
+516,K105,Erythronium albidum
+517,K105,Anemone quinquefolia
+518,K105,Claytonia virginica
+519,K105,Allium
+41,K107,Acer saccharum
+520,K107,Cardamine concatenata
+521,K107,Erythronium albidum
+522,K107,Claytonia virginica
+523,K107,Anemone quinquefolia
+42,K109,Acer saccharum
+43,K109,Euonymus europaeus
+524,K115,Cardamine concatenata
+525,K115,Erythronium albidum
+526,K115,Anemone quinquefolia
+527,K115,Claytonia virginica
+528,K116,Cardamine concatenata
+529,K116,Elymus elymoides
+530,K116,Erythronium albidum
+531,K116,Elymus virginicus
+532,K130,Cardamine concatenata
+533,K137,Cirsium
+534,KK101,Circaea lutetiana
+535,KK116,Cardamine concatenata
+536,KK116,Circaea lutetiana
+537,KK119,Osmorhiza aristata var. aristata
+538,KK119,Trillium recurvatum
+539,KK121,Fallopia scandens
+540,KK121,Floerkea proserpinacoides
+541,KK121,Celtis occidentalis
+542,KK121,Solanum dulcamara
+543,KK122,Lysimachia ciliata
+544,KK122,Malus sieboldii
+545,KK145,Trillium recurvatum
+546,KK145,Erythronium albidum
+44,L111,Acer saccharum
+45,L111,Acer saccharum
+547,L111,Claytonia virginica
+548,L111,Cardamine concatenata
+46,L120,Acer saccharum
+549,L120,Cardamine concatenata
+550,L120,Claytonia virginica
+551,L121,Erythronium albidum
+552,L121,Cardamine concatenata
+553,LL103,Bidens species
+554,LL103,Symphyotrichum
+555,LL104,Viola sororia
+114,LL110,Phellodendron amurense
+556,LL110,Viola sororia
+557,LL114,Cardamine concatenata
+558,LL114,Osmorhiza aristata var. aristata
+559,LL114,Symphyotrichum
+47,LL119,Acer saccharum
+560,LL119,Claytonia virginica
+561,LL133,Erythronium albidum
+48,LL141,Acer saccharum
+115,LL141,Gleditsia triacanthos
+562,LL141,Ranunculus septentrionalis
+563,LL141,Cardamine concatenata
+49,LL90,Juglans nigra
+564,LL90,Erythronium albidum
+565,LL90,Trillium recurvatum
+566,LL90,Claytonia virginica
+567,LL90,Osa
+568,LL90,Sanicula
+569,LL90,Cardamine concatenata
+570,M118,Cardamine concatenata
+571,M118,Erythronium albidum
+572,M134,Cardamine concatenata
+573,MM114,Claytonia virginica
+574,MM114,Cardamine concatenata
+575,N110,Cardamine concatenata
+576,N110,Claytonia virginica
+577,N110,Erythronium albidum
+50,N113,Acer saccharum
+578,N113,Cardamine concatenata
+579,N113,Claytonia virginica
+51,N116,Acer saccharum
+580,N116,Erythronium albidum
+581,N116,Claytonia virginica
+582,N116,Floerkea proserpinacoides
+583,N116,Sanicula gregaria
+584,N116,Cardamine concatenata
+585,N123,Cardamine concatenata
+52,N128,Acer saccharum
+586,N128,Rumex
+587,N128,Floerkea proserpinacoides
+588,N136,Floerkea proserpinacoides
+589,N136,Lactuca species
+590,N136,Eupatorium
+591,NN110,Circaea lutetiana
+592,NN110,Viola sororia
+593,NN110,Anemone quinquefolia
+594,NN118,Claytonia virginica
+595,NN118,Fallopia scandens
+596,NN126,Erigeron philadelphicus
+597,NN126,Malus sieboldii
+598,NN136,Erythronium albidum
+599,NN136,Cardamine concatenata
+600,NN145,Cardamine concatenata
+601,NN145,Trillium recurvatum
+602,O105,Erythronium albidum
+603,O108,Cardamine concatenata
+604,O108,Claytonia virginica
+53,O109,Acer saccharum
+605,O109,Cardamine concatenata
+606,O109,Erythronium albidum
+607,O109,Claytonia virginica
+54,O112,Acer saccharum
+608,O112,Cardamine concatenata
+609,O112,Trillium recurvatum
+610,O112,Uvularia grandiflora
+611,O120,Erythronium albidum
+612,O120,Anemone quinquefolia
+613,O120,Claytonia virginica
+614,O121,Cardamine concatenata
+615,O121,Erythronium albidum
+616,O121,Uvularia grandiflora
+617,O131,Floerkea proserpinacoides
+618,O131,Erythronium albidum
+619,O131,Claytonia virginica
+55,O134,Acer saccharum
+620,O136,Floerkea proserpinacoides
+621,OO100,Circaea lutetiana
+622,OO101,Celastrus orbiculatus
+623,OO101,Hairy weed
+624,OO110,Viola sororia
+625,OO110,Prunella vulgaris
+626,OO110,Solidago gigantea
+56,OO116,Acer saccharum
+627,OO116,Lactuca species
+628,OO130,Trillium recurvatum
+629,OO130,Erythronium albidum
+116,OO146,Amorpha
+117,OO146,Amorpha
+118,OO146,Amorpha
+630,OO146,Erythronium albidum
+631,P107,Claytonia virginica
+632,P107,Trillium grandiflorum
+633,P124,Cardamine concatenata
+634,P124,Anemone quinquefolia
+635,P124,Erythronium albidum
+636,P124,Cardamine concatenata
+637,P124,Anemone quinquefolia
+57,P138,Juglans nigra
+638,P138,Cirsium
+,Plot.ID.Number,Accepted_name
+639,PP102,Sonchus species
+640,PP102,Prunella vulgaris
+641,PP134,Sanicula gregaria
+58,PP143,Acer saccharum
+642,PP143,Cardamine concatenata
+643,PP143,Erythronium albidum
+644,PP146,Trillium recurvatum
+645,PP146,Erythronium albidum
+59,Q110,Acer saccharum
+646,Q110,Cardamine concatenata
+647,Q110,Claytonia virginica
+648,Q110,Allium tricoccum var. burdickii
+649,Q110,Carex albursina
+650,Q120,Cardamine concatenata
+651,Q122,Cardamine concatenata
+652,Q122,Erythronium albidum
+653,Q129,Cardamine concatenata
+654,Q129,Erythronium albidum
+655,Q129,Uvularia grandiflora
+60,Q132,Acer saccharum
+656,Q132,Floerkea proserpinacoides
+657,Q132,Claytonia virginica
+658,Q132,Cardamine concatenata
+61,Q135,Acer saccharum
+659,Q96,Trillium recurvatum
+660,Q96,Symphyotrichum
+62,QQ131,Acer saccharum
+661,QQ131,Claytonia virginica
+662,QQ131,Viola sororia
+663,QQ131,Sanicula gregaria
+664,QQ131,Celtis occidentalis
+119,QQ132,Lonicera maackii
+665,QQ133,Cardamine concatenata
+666,QQ133,Claytonia virginica
+63,QQ139,Acer saccharum
+667,QQ139,Cardamine concatenata
+668,QQ139,Erythronium albidum
+669,QQ140,Cardamine concatenata
+670,QQ140,Erythronium albidum
+671,QQ140,Trillium recurvatum
+672,QQ146,Trillium recurvatum
+673,QQ146,Erythronium albidum
+64,R109,Acer saccharum
+674,R109,Cardamine concatenata
+675,R109,Trillium recurvatum
+676,R113,Cardamine concatenata
+677,R113,Trillium recurvatum
+678,R113,Claytonia virginica
+679,R113,Cardamine concatenata
+680,R113,Trillium recurvatum
+681,R116,Erythronium albidum
+682,R116,Claytonia virginica
+683,R116,Anemone quinquefolia
+684,R116,Cardamine concatenata
+685,R116,Uvularia grandiflora
+686,R128,Cardamine concatenata
+687,R128,Erythronium albidum
+688,R75,Erythronium albidum
+689,R75,Elymus
+690,R75,Anemone quinquefolia
+691,R79,Sparganium eurycarpum
+692,R79,Alisma subcordatum
+693,R83,Erythronium albidum
+694,R83,Elymus
+695,R83,Trillium recurvatum
+120,R86,ASCGLA
+696,R86,Allium tricoccum var. burdickii
+697,R86,Erythronium albidum
+698,R86,Symphyotrichum
+699,RR113,Osmorhiza aristata var. aristata
+700,RR113,Circaea lutetiana
+701,RR126,Circaea lutetiana
+702,RR129,Robinia pseudoacacia
+703,RR129,Cardamine concatenata
+704,RR138,Cardamine concatenata
+705,RR138,Erythronium albidum
+65,RR139,Acer saccharum
+706,RR139,Erythronium albidum
+707,RR139,Cardamine concatenata
+708,RR139,Trillium recurvatum
+66,RR142,Acer saccharum
+709,RR142,Trillium recurvatum
+710,RR142,Erythronium albidum
+711,RR142,Cardamine concatenata
+712,S105,Claytonia virginica
+713,S105,Cardamine concatenata
+714,S105,Erythronium albidum
+67,S111,Acer saccharum
+715,S111,Mertensia virginica
+716,S111,Cardamine concatenata
+717,S111,Floerkea proserpinacoides
+718,S111,Erythronium albidum
+68,S126,Acer saccharum
+719,S126,Cardamine concatenata
+720,S126,Erythronium albidum
+69,S134,Acer saccharum
+721,S134,Floerkea proserpinacoides
+722,S134,Cardamine concatenata
+723,S70,Camassia scilloides
+724,S70,Erythronium albidum
+70,S72,Aesculus
+725,S72,Erythronium albidum
+726,S75,Cardamine
+727,S75,Erythronium albidum
+728,S86,Erythronium albidum
+729,S86,Viola sororia
+730,S97,Erythronium albidum
+731,S97,Circaea lutetiana
+732,SS113,Circaea lutetiana
+733,SS136,Ranunculus septentrionalis
+734,SS136,Cardamine concatenata
+735,SS141,Berberis thunbergii
+736,SS141,Thelypteris confluens
+121,SS142,Quercus ellipsoidalis
+737,SS142,Erythronium albidum
+738,T114,Cardamine concatenata
+739,T114,Erythronium albidum
+740,T114,Celtis occidentalis
+741,T122,Claytonia virginica
+742,T122,Anemone quinquefolia
+743,T122,Cardamine concatenata
+744,T127,Cardamine concatenata
+745,T127,Erythronium albidum
+746,T127,Phlox divaricata
+747,T127,Cardamine concatenata
+748,T132,Cardamine concatenata
+749,T132,Cardamine concatenata
+750,T132,Trillium recurvatum
+751,T70,Erythronium albidum
+752,T70,Camassia scilloides
+753,T70,Elymus
+754,T70,Elymus
+71,T75,Acer saccharum
+755,T75,Erythronium albidum
+756,T77,Erythronium albidum
+757,T77,Cardamine concatenata
+122,T84,Quercus ellipsoidalis
+758,T84,Trillium recurvatum
+759,T84,Symphyotrichum
+760,T87,Erythronium albidum
+761,T87,Trillium recurvatum
+762,T87,Circaea lutetiana
+763,T88,Erythronium albidum
+764,T88,Symphyotrichum
+765,T88,Eupatorium purpureum
+766,T89,Erythronium albidum
+767,T89,Elymus
+768,T89,Claytonia virginica
+769,T89,Symphyotrichum
+770,TT110,Circaea lutetiana
+72,TT132,Acer saccharum
+73,TT132,Acer saccharum
+771,TT132,Trillium recurvatum
+772,TT132,Claytonia virginica
+74,TT133,Malus
+773,TT133,Circaea lutetiana
+774,TT133,Cardamine concatenata
+775,TT137,Erythronium albidum
+776,TT137,Cardamine concatenata
+777,TT140,Amphicarpaea bracteata
+778,TT140,Erythronium albidum
+779,TT140,Hydrophyllum appendiculatum
+780,TT145,Carex jamesii
+75,U107,Acer saccharum
+781,U107,Floerkea proserpinacoides
+782,U107,Claytonia virginica
+783,U107,Allium
+784,U107,Erythronium albidum
+76,U110,Acer saccharum
+785,U110,Floerkea proserpinacoides
+786,U110,Erythronium albidum
+787,U110,Cardamine douglassii
+788,U110,Claytonia virginica
+789,U110,Cardamine concatenata
+790,U111,Floerkea proserpinacoides
+791,U111,Cardamine concatenata
+792,U111,Claytonia virginica
+793,U111,Erythronium albidum
+794,U130,Floerkea proserpinacoides
+795,U130,Claytonia virginica
+123,U95,Quercus ellipsoidalis
+124,U95,Quercus ellipsoidalis
+796,U95,AGRALT
+797,U95,Prunella vulgaris
+798,U95,Erythronium albidum
+799,U95,Trillium recurvatum
+800,U95,Viola sororia
+801,U95,Actaea pachypoda
+802,U95,Sanicula gregaria
+803,U95,Helenium autumnale
+804,U95,Circaea lutetiana
+805,U95,Tragopogon species
+806,U98,Erythronium albidum
+77,UU129,Juglans nigra
+78,UU132,Acer saccharum
+807,UU132,Claytonia virginica
+808,V111,Erythronium albidum
+809,V111,Anemone quinquefolia
+810,V111,Claytonia virginica
+811,V111,Dicentra cucullaria
+812,V111,Cardamine concatenata
+813,V111,Erythronium albidum
+814,V111,Anemone quinquefolia
+815,V111,Claytonia virginica
+816,V111,Dicentra cucullaria
+817,V111,Cardamine concatenata
+818,V113,Cardamine concatenata
+819,V113,Trillium recurvatum
+820,V113,Cardamine concatenata
+821,V113,Trillium recurvatum
+822,V114,Claytonia virginica
+823,V114,Erythronium albidum
+824,V114,Claytonia virginica
+825,V114,Erythronium albidum
+826,V134,Cardamine concatenata
+827,V84,Erythronium albidum
+828,V84,Circaea lutetiana
+829,V84,Oxalis
+830,V84,Quercus
+79,V95,Juglans nigra
+831,V95,Camassia scilloides
+832,V95,Erythronium albidum
+833,V95,Elymus elymoides
+834,V95,Oxalis
+835,V95,Trillium recurvatum
+836,V95,Helianthus species
+837,VV133,Cardamine concatenata
+838,VV133,Claytonia virginica
+839,VV133,Sanicula
+840,W106,Claytonia virginica
+841,W109,Floerkea proserpinacoides
+80,W112,Acer saccharum
+842,W112,Cardamine concatenata
+843,W112,Claytonia virginica
+844,W112,Erythronium albidum
+845,W112,Anemone quinquefolia
+846,W112,Cardamine concatenata
+847,W112,Claytonia virginica
+848,W112,Erythronium albidum
+849,W112,Anemone quinquefolia
+81,W128,Acer saccharum
+82,W128,Pruser serotina
+850,W128,Erythronium albidum
+851,W128,Claytonia virginica
+852,W128,Mertensia virginica
+853,W132,Cardamine concatenata
+854,W136,Mertensia virginica
+855,W136,Camassia scilloides
+856,W136,Floerkea proserpinacoides
+857,W137,Teucrium canadense
+858,W146,Veronicastrum virginicum
+859,W146,Bidens species
+860,W146,Bromus
+861,W71,Camassia scilloides
+862,W72,Camassia scilloides
+863,W72,Trillium recurvatum
+864,W72,Allium tricoccum var. burdickii
+865,W72,Celastrus orbiculatus
+866,W72,Erythronium albidum
+83,W87,Aesculus
+867,W87,Erythronium albidum
+868,W87,Eupatorium purpureum
+869,W87,Trillium recurvatum
+870,W87,Elymus
+871,W87,Circaea lutetiana
+872,W91,Viola sororia
+873,W91,Erythronium albidum
+874,W91,Circaea lutetiana
+84,W95,Quercus alba
+875,W95,Cerastium
+876,W95,Veronica
+877,WW124,Hesperis matronalis
+878,WW130,Trillium recurvatum
+879,WW137,Cardamine concatenata
+880,WW137,Viola sororia
+881,WW137,Erythronium albidum
+882,WW140,Erythronium albidum
+883,WW140,Berberis thunbergii
+884,WW140,Cardamine concatenata
+885,WW140,Circaea lutetiana
+886,WW140,Smilax illinoensis
+887,X110,Trillium recurvatum
+85,X118,Acer saccharum
+888,X118,Cardamine concatenata
+889,X118,Claytonia virginica
+890,X125,Claytonia virginica
+891,X125,Cardamine concatenata
+892,X138,Apocynum cannabinum
+893,X138,Brassica
+894,X138,Chenopodium
+895,X139,Carex trichocarpa
+896,X139,Chenopodium
+897,X139,Torilis japonica
+898,X143,Geum
+899,X143,Symphyotrichum lanceolatum
+900,X143,Bidens species
+901,X143,Juncus
+86,X76,Acer saccharum
+902,X76,Cornus
+903,X93,Circaea lutetiana
+904,XX125,Viola sororia
+905,XX125,Circaea lutetiana
+906,XX134,Viola sororia var. missouriensis
+907,XX134,Erythronium albidum
+908,XX134,Cardamine concatenata
+909,XX134,Carex jamesii
+910,XX142,Erythronium albidum
+911,XX142,Circaea lutetiana
+912,Y105,Claytonia virginica
+913,Y110,Cardamine concatenata
+914,Y112,Dicentra cucullaria
+915,Y112,Trillium recurvatum
+916,Y112,Cardamine concatenata
+917,Y112,Claytonia virginica
+918,Y112,Enemion biternatum
+919,Y112,Cystopteris protrusa
+920,Y112,Floerkea proserpinacoides
+921,Y112,Osmorhiza
+922,Y115,Allium
+923,Y115,Erythronium albidum
+924,Y115,Mertensia virginica
+925,Y115,Floerkea proserpinacoides
+926,Y115,Cardamine concatenata
+87,Y121,Acer saccharum
+88,Y121,Acer saccharum
+927,Y128,Claytonia virginica
+928,Y128,Floerkea proserpinacoides
+929,Y128,Mertensia virginica
+930,Y128,Erythronium albidum
+931,Y130,Mertensia virginica
+932,Y130,Erythronium albidum
+933,Y130,Cardamine concatenata
+934,Y130,Floerkea proserpinacoides
+89,Y135,Acer saccharum
+935,Y135,Laportea canadensis
+936,Y135,Floerkea proserpinacoides
+937,Y135,Carex jamesii
+938,Y135,Fallopia scandens
+939,Y147,Circaea lutetiana
+940,Y70,Erythronium albidum
+941,Y70,Cardamine concatenata
+942,Y70,Elymus
+943,Y90,Erythronium albidum
+944,Y94,Trillium recurvatum
+125,Y96,Quercus ellipsoidalis
+126,Y96,Quercus ellipsoidalis
+127,Y96,Quercus ellipsoidalis
+128,Y96,Quercus ellipsoidalis
+945,Y96,Lactuca species
+946,Y96,Erythronium albidum
+947,Y96,Oxalis
+948,YY137,Allium tricoccum var. burdickii
+949,YY137,Erythronium albidum
+950,YY137,Cardamine concatenata
+951,YY140,Ranunculus septentrionalis
+952,YY140,Trillium recurvatum
+953,YY140,Erythronium albidum
+954,YY140,Allium tricoccum var. burdickii
+955,YY146,Rumex
+956,YY146,Persicaria amphibia
+957,Z118,Floerkea proserpinacoides
+958,Z118,Claytonia virginica
+90,Z122,Acer saccharum
+91,Z128,Acer saccharum
+959,Z128,Claytonia virginica
+960,Z128,Dicentra cucullaria
+961,Z132,Floerkea proserpinacoides
+962,Z132,Mertensia virginica
+963,Z132,Erythronium albidum
+964,Z132,Claytonia virginica
+965,Z143,Torilis
+966,Z143,Symphyotrichum
+967,Z143,Bidens species
+129,Z76,Picea abies
+968,Z76,Erigeron
+969,Z76,Claytonia virginica
+970,Z76,Vitis
+971,Z92,Erythronium albidum
+972,Z92,Claytonia virginica
+973,Z92,Anemone quinquefolia
+974,ZZ130,Erythronium albidum
+975,ZZ132,Erythronium albidum
+976,ZZ134,Erythronium albidum
+977,ZZ142,Erythronium albidum
+978,ZZ142,Cardamine concatenata
+979,ZZ142,Berberis thunbergii
